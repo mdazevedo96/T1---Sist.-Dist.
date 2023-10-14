@@ -1,0 +1,5001 @@
+nome,matrícula,curso
+Ana,MAT3226,Medicina
+Pedro,MAT1555,Economia
+Gabriel,MAT1584,Economia
+Ana,MAT3818,Engenharia
+Lucia,MAT6080,Ciências da Computação
+Julia,MAT7691,Engenharia
+Fernanda,MAT8642,Ciências da Computação
+Lucia,MAT6297,Medicina
+Maria,MAT2749,Economia
+João,MAT1195,Administração
+Gabriel,MAT7163,Administração
+João,MAT7196,Administração
+Carlos,MAT2160,Ciências da Computação
+Julia,MAT6618,Economia
+Gabriel,MAT2273,Medicina
+Fernanda,MAT7805,Economia
+João,MAT2704,Economia
+Pedro,MAT6618,Engenharia
+Lucia,MAT5016,Engenharia
+Julia,MAT8109,Engenharia
+Pedro,MAT2235,Administração
+Gabriel,MAT2448,Ciências da Computação
+Rafael,MAT8001,Administração
+Gabriel,MAT4793,Administração
+Maria,MAT7720,Economia
+Julia,MAT8193,Administração
+Julia,MAT6681,Economia
+Rafael,MAT9267,Ciências da Computação
+Gabriel,MAT5334,Medicina
+Ana,MAT3102,Administração
+Fernanda,MAT3493,Ciências da Computação
+Pedro,MAT5956,Administração
+Carlos,MAT3195,Economia
+João,MAT8912,Medicina
+Gabriel,MAT9166,Ciências da Computação
+Carlos,MAT9967,Ciências da Computação
+Pedro,MAT3077,Engenharia
+Ana,MAT9930,Engenharia
+Carlos,MAT7154,Medicina
+Pedro,MAT5144,Economia
+Ana,MAT3740,Ciências da Computação
+Ana,MAT7556,Economia
+Fernanda,MAT8348,Engenharia
+Carlos,MAT2104,Administração
+Fernanda,MAT8753,Engenharia
+Lucia,MAT2887,Ciências da Computação
+João,MAT7568,Economia
+Julia,MAT4361,Economia
+Pedro,MAT6412,Ciências da Computação
+Lucia,MAT7210,Engenharia
+Julia,MAT4227,Ciências da Computação
+Rafael,MAT8989,Medicina
+Rafael,MAT6034,Economia
+João,MAT8578,Engenharia
+Julia,MAT5509,Administração
+Pedro,MAT6865,Ciências da Computação
+Julia,MAT8279,Ciências da Computação
+Carlos,MAT8954,Administração
+Gabriel,MAT4761,Engenharia
+Maria,MAT6225,Engenharia
+Julia,MAT5411,Engenharia
+Fernanda,MAT4594,Medicina
+Ana,MAT9151,Administração
+Julia,MAT9274,Medicina
+Ana,MAT2233,Engenharia
+Rafael,MAT4821,Ciências da Computação
+Fernanda,MAT1572,Administração
+Lucia,MAT5126,Ciências da Computação
+João,MAT9804,Engenharia
+João,MAT8890,Economia
+Rafael,MAT9384,Economia
+Pedro,MAT1010,Ciências da Computação
+Maria,MAT2046,Engenharia
+Maria,MAT5596,Medicina
+Julia,MAT5366,Engenharia
+Maria,MAT3964,Ciências da Computação
+Gabriel,MAT4770,Administração
+Julia,MAT1473,Ciências da Computação
+Gabriel,MAT6202,Ciências da Computação
+Julia,MAT4460,Medicina
+Fernanda,MAT3389,Economia
+Julia,MAT6034,Economia
+Fernanda,MAT7646,Medicina
+Fernanda,MAT7625,Medicina
+Lucia,MAT4729,Medicina
+Lucia,MAT1419,Engenharia
+Rafael,MAT7809,Economia
+Carlos,MAT8144,Engenharia
+Carlos,MAT4274,Medicina
+Lucia,MAT5452,Ciências da Computação
+Ana,MAT8538,Medicina
+Lucia,MAT4262,Medicina
+Maria,MAT6153,Medicina
+João,MAT1717,Ciências da Computação
+Pedro,MAT8744,Engenharia
+Ana,MAT7123,Administração
+Pedro,MAT4123,Administração
+Rafael,MAT5193,Administração
+Lucia,MAT7860,Administração
+Gabriel,MAT1435,Economia
+Lucia,MAT6018,Administração
+Rafael,MAT2734,Ciências da Computação
+Maria,MAT2322,Ciências da Computação
+Maria,MAT2403,Administração
+Maria,MAT6471,Ciências da Computação
+Gabriel,MAT8765,Medicina
+Maria,MAT3249,Medicina
+Ana,MAT2700,Medicina
+Maria,MAT9435,Economia
+Julia,MAT6385,Engenharia
+Lucia,MAT5735,Engenharia
+Pedro,MAT8238,Medicina
+Gabriel,MAT4062,Engenharia
+João,MAT5396,Ciências da Computação
+Julia,MAT7177,Economia
+Ana,MAT2796,Medicina
+Maria,MAT7219,Medicina
+Maria,MAT9373,Ciências da Computação
+Gabriel,MAT2856,Economia
+Maria,MAT6146,Engenharia
+Rafael,MAT2661,Medicina
+João,MAT2185,Economia
+Maria,MAT1224,Ciências da Computação
+Ana,MAT2269,Medicina
+Fernanda,MAT3551,Administração
+Lucia,MAT9031,Economia
+Carlos,MAT3500,Ciências da Computação
+Maria,MAT3971,Engenharia
+Maria,MAT1272,Engenharia
+Maria,MAT4341,Ciências da Computação
+Fernanda,MAT5983,Economia
+Carlos,MAT1649,Ciências da Computação
+Carlos,MAT2971,Medicina
+Julia,MAT5098,Economia
+Fernanda,MAT3234,Administração
+Rafael,MAT4906,Engenharia
+Carlos,MAT2486,Medicina
+Rafael,MAT1140,Economia
+Gabriel,MAT6116,Medicina
+Carlos,MAT4979,Medicina
+Lucia,MAT7023,Engenharia
+Rafael,MAT3606,Engenharia
+Fernanda,MAT3748,Medicina
+Julia,MAT5702,Ciências da Computação
+Maria,MAT9074,Engenharia
+Carlos,MAT9113,Medicina
+Pedro,MAT5672,Engenharia
+Julia,MAT3878,Medicina
+Gabriel,MAT8696,Administração
+Gabriel,MAT4295,Medicina
+Maria,MAT7970,Economia
+Maria,MAT8094,Ciências da Computação
+Julia,MAT5657,Ciências da Computação
+João,MAT7278,Engenharia
+Maria,MAT8470,Ciências da Computação
+Carlos,MAT9508,Ciências da Computação
+Ana,MAT7864,Ciências da Computação
+Lucia,MAT6809,Engenharia
+Gabriel,MAT7220,Engenharia
+Gabriel,MAT9694,Administração
+Carlos,MAT3051,Administração
+Rafael,MAT7292,Engenharia
+Julia,MAT5190,Medicina
+Pedro,MAT8881,Economia
+Lucia,MAT6683,Ciências da Computação
+Fernanda,MAT4255,Administração
+Fernanda,MAT8808,Engenharia
+Gabriel,MAT7254,Engenharia
+Fernanda,MAT9992,Ciências da Computação
+Rafael,MAT8939,Engenharia
+Fernanda,MAT4405,Ciências da Computação
+Fernanda,MAT1667,Administração
+Julia,MAT6325,Ciências da Computação
+Pedro,MAT1632,Ciências da Computação
+Rafael,MAT8990,Economia
+João,MAT5674,Ciências da Computação
+Lucia,MAT8477,Ciências da Computação
+Ana,MAT1199,Medicina
+Carlos,MAT4881,Ciências da Computação
+João,MAT1143,Medicina
+Carlos,MAT5768,Economia
+Rafael,MAT9438,Economia
+Julia,MAT3147,Administração
+Carlos,MAT6335,Engenharia
+Fernanda,MAT3872,Ciências da Computação
+Lucia,MAT8151,Medicina
+Pedro,MAT4590,Engenharia
+Maria,MAT8692,Ciências da Computação
+João,MAT3026,Economia
+Gabriel,MAT3093,Medicina
+Fernanda,MAT5056,Engenharia
+Fernanda,MAT8874,Economia
+Fernanda,MAT3920,Economia
+Julia,MAT4518,Medicina
+Fernanda,MAT3330,Ciências da Computação
+Julia,MAT6989,Administração
+Fernanda,MAT7526,Administração
+Rafael,MAT2227,Medicina
+João,MAT3529,Economia
+Rafael,MAT5832,Engenharia
+Julia,MAT3886,Administração
+Rafael,MAT2734,Administração
+João,MAT4488,Engenharia
+Lucia,MAT7082,Medicina
+Julia,MAT8870,Engenharia
+Julia,MAT8731,Economia
+Pedro,MAT8062,Medicina
+Maria,MAT5788,Economia
+Carlos,MAT9948,Medicina
+Julia,MAT5975,Medicina
+Ana,MAT6458,Ciências da Computação
+Julia,MAT5722,Ciências da Computação
+Fernanda,MAT1233,Administração
+Carlos,MAT8011,Ciências da Computação
+Maria,MAT8097,Ciências da Computação
+João,MAT1754,Medicina
+Ana,MAT8310,Engenharia
+Lucia,MAT7810,Engenharia
+Carlos,MAT3505,Engenharia
+Rafael,MAT3163,Ciências da Computação
+Gabriel,MAT4726,Medicina
+Fernanda,MAT5514,Administração
+Pedro,MAT3770,Engenharia
+Lucia,MAT7339,Economia
+Maria,MAT4658,Engenharia
+Maria,MAT6300,Engenharia
+Gabriel,MAT3070,Administração
+Pedro,MAT1861,Ciências da Computação
+João,MAT5432,Medicina
+Pedro,MAT4690,Ciências da Computação
+Gabriel,MAT1104,Administração
+Pedro,MAT1418,Medicina
+Carlos,MAT1579,Administração
+Fernanda,MAT2677,Medicina
+Lucia,MAT4352,Economia
+João,MAT8507,Administração
+Fernanda,MAT2983,Medicina
+Lucia,MAT9131,Medicina
+Lucia,MAT3595,Economia
+João,MAT9451,Ciências da Computação
+Gabriel,MAT4295,Ciências da Computação
+Ana,MAT1468,Medicina
+Rafael,MAT2626,Administração
+Lucia,MAT8870,Administração
+Rafael,MAT3246,Economia
+Gabriel,MAT5382,Engenharia
+Maria,MAT7284,Administração
+João,MAT5182,Medicina
+Ana,MAT8136,Medicina
+Fernanda,MAT2259,Engenharia
+Ana,MAT1536,Engenharia
+Maria,MAT1963,Medicina
+Julia,MAT5988,Administração
+Pedro,MAT6087,Administração
+Ana,MAT8513,Medicina
+Gabriel,MAT7006,Administração
+Pedro,MAT4135,Economia
+João,MAT5939,Medicina
+Rafael,MAT7193,Economia
+Lucia,MAT8684,Economia
+Fernanda,MAT1526,Medicina
+Carlos,MAT4745,Ciências da Computação
+Rafael,MAT1262,Economia
+Maria,MAT5137,Engenharia
+Fernanda,MAT3839,Medicina
+Fernanda,MAT3288,Economia
+Gabriel,MAT7488,Ciências da Computação
+Gabriel,MAT8369,Ciências da Computação
+João,MAT4916,Engenharia
+Julia,MAT1380,Engenharia
+Ana,MAT9858,Economia
+Lucia,MAT7250,Economia
+Pedro,MAT7767,Medicina
+Rafael,MAT8493,Economia
+Lucia,MAT1247,Economia
+Rafael,MAT7220,Administração
+Gabriel,MAT7352,Medicina
+Carlos,MAT3004,Economia
+Fernanda,MAT9209,Administração
+Fernanda,MAT6478,Medicina
+Julia,MAT8387,Engenharia
+Maria,MAT1231,Economia
+Fernanda,MAT3907,Administração
+Lucia,MAT4284,Administração
+Ana,MAT9406,Medicina
+João,MAT8930,Economia
+Maria,MAT1114,Administração
+João,MAT6329,Engenharia
+Carlos,MAT9103,Ciências da Computação
+Carlos,MAT9582,Engenharia
+João,MAT3779,Administração
+Lucia,MAT6665,Medicina
+João,MAT9455,Medicina
+Fernanda,MAT2519,Engenharia
+Maria,MAT3116,Economia
+Pedro,MAT8863,Medicina
+Fernanda,MAT4707,Economia
+Gabriel,MAT6111,Ciências da Computação
+Gabriel,MAT9451,Ciências da Computação
+Rafael,MAT1667,Medicina
+Julia,MAT9691,Ciências da Computação
+Maria,MAT2977,Administração
+Julia,MAT1394,Economia
+Pedro,MAT2296,Engenharia
+Ana,MAT3288,Ciências da Computação
+Lucia,MAT1259,Economia
+Maria,MAT6463,Economia
+Carlos,MAT1827,Economia
+Pedro,MAT4287,Engenharia
+Fernanda,MAT2329,Administração
+Rafael,MAT8244,Engenharia
+Julia,MAT5536,Engenharia
+Pedro,MAT8848,Engenharia
+Lucia,MAT3912,Engenharia
+João,MAT7028,Economia
+Rafael,MAT1927,Administração
+Maria,MAT6189,Engenharia
+João,MAT9246,Ciências da Computação
+Carlos,MAT6788,Medicina
+Pedro,MAT2519,Medicina
+Rafael,MAT4734,Economia
+Ana,MAT6730,Ciências da Computação
+Fernanda,MAT9842,Administração
+João,MAT6070,Administração
+Fernanda,MAT5005,Engenharia
+Ana,MAT4099,Economia
+Fernanda,MAT3791,Medicina
+Lucia,MAT3022,Ciências da Computação
+Maria,MAT3066,Engenharia
+Ana,MAT8660,Medicina
+Gabriel,MAT3093,Administração
+Julia,MAT9356,Administração
+Julia,MAT4390,Economia
+Gabriel,MAT5811,Administração
+Gabriel,MAT9087,Administração
+João,MAT5513,Engenharia
+Ana,MAT2637,Ciências da Computação
+Pedro,MAT2332,Ciências da Computação
+João,MAT9227,Ciências da Computação
+Ana,MAT6523,Administração
+Carlos,MAT7799,Engenharia
+Rafael,MAT8340,Medicina
+Maria,MAT5590,Medicina
+Lucia,MAT4395,Ciências da Computação
+Fernanda,MAT5997,Ciências da Computação
+João,MAT9360,Economia
+Lucia,MAT2199,Ciências da Computação
+Maria,MAT6057,Medicina
+Fernanda,MAT6793,Economia
+Gabriel,MAT6541,Economia
+Gabriel,MAT9497,Medicina
+Julia,MAT6070,Economia
+Maria,MAT2414,Medicina
+Pedro,MAT8445,Economia
+João,MAT8704,Engenharia
+Rafael,MAT2702,Medicina
+Pedro,MAT7267,Economia
+Carlos,MAT1764,Administração
+Rafael,MAT3702,Economia
+Maria,MAT5614,Economia
+Gabriel,MAT2438,Medicina
+Gabriel,MAT6472,Ciências da Computação
+Lucia,MAT8437,Engenharia
+João,MAT6391,Ciências da Computação
+Fernanda,MAT7904,Economia
+Julia,MAT9834,Engenharia
+Pedro,MAT9846,Engenharia
+Julia,MAT6330,Economia
+Gabriel,MAT4947,Economia
+Fernanda,MAT1920,Ciências da Computação
+Ana,MAT7713,Engenharia
+Rafael,MAT3150,Engenharia
+Maria,MAT5559,Ciências da Computação
+Fernanda,MAT2521,Economia
+João,MAT6031,Economia
+Carlos,MAT1559,Medicina
+Lucia,MAT8239,Administração
+Lucia,MAT2234,Economia
+Gabriel,MAT6453,Economia
+Ana,MAT9556,Economia
+Rafael,MAT7067,Ciências da Computação
+Carlos,MAT8634,Medicina
+Pedro,MAT4232,Administração
+Carlos,MAT4499,Ciências da Computação
+Rafael,MAT1987,Ciências da Computação
+Ana,MAT5652,Medicina
+Gabriel,MAT3300,Engenharia
+Gabriel,MAT9057,Engenharia
+João,MAT4326,Medicina
+Maria,MAT1606,Administração
+Maria,MAT6155,Economia
+Pedro,MAT5397,Economia
+Fernanda,MAT6786,Ciências da Computação
+Rafael,MAT4584,Economia
+Pedro,MAT7972,Medicina
+Ana,MAT5041,Economia
+Ana,MAT9074,Administração
+Lucia,MAT4921,Medicina
+Ana,MAT8503,Medicina
+João,MAT2114,Ciências da Computação
+Carlos,MAT9300,Administração
+João,MAT3716,Ciências da Computação
+Lucia,MAT4596,Medicina
+Maria,MAT1984,Administração
+Maria,MAT6412,Administração
+Carlos,MAT4276,Engenharia
+Rafael,MAT1077,Medicina
+Fernanda,MAT7097,Economia
+João,MAT9338,Ciências da Computação
+Maria,MAT3227,Engenharia
+Fernanda,MAT5608,Engenharia
+Gabriel,MAT2765,Engenharia
+Pedro,MAT8434,Administração
+Pedro,MAT7095,Economia
+Julia,MAT7222,Ciências da Computação
+Lucia,MAT5161,Administração
+Maria,MAT8566,Economia
+Gabriel,MAT8316,Medicina
+João,MAT6291,Engenharia
+Rafael,MAT3633,Engenharia
+Pedro,MAT6143,Economia
+Pedro,MAT3484,Engenharia
+Pedro,MAT1736,Economia
+Carlos,MAT8298,Economia
+João,MAT7901,Economia
+Rafael,MAT3215,Ciências da Computação
+Maria,MAT2027,Administração
+Gabriel,MAT8028,Medicina
+Lucia,MAT9894,Engenharia
+Julia,MAT3299,Engenharia
+Lucia,MAT2478,Medicina
+Ana,MAT1538,Administração
+Julia,MAT5472,Administração
+Maria,MAT4558,Administração
+Gabriel,MAT2715,Engenharia
+Pedro,MAT2650,Ciências da Computação
+Gabriel,MAT4497,Administração
+João,MAT5972,Economia
+Ana,MAT9832,Ciências da Computação
+Maria,MAT5613,Administração
+Ana,MAT6957,Ciências da Computação
+Lucia,MAT9806,Economia
+Pedro,MAT5215,Medicina
+Gabriel,MAT7409,Administração
+Lucia,MAT8191,Administração
+Gabriel,MAT4314,Engenharia
+Maria,MAT1088,Ciências da Computação
+Lucia,MAT4725,Ciências da Computação
+Gabriel,MAT7093,Administração
+Lucia,MAT5570,Administração
+João,MAT5644,Engenharia
+Ana,MAT5995,Administração
+Julia,MAT7530,Engenharia
+Julia,MAT8449,Engenharia
+João,MAT1593,Engenharia
+Pedro,MAT4730,Ciências da Computação
+Pedro,MAT1971,Administração
+João,MAT7427,Engenharia
+Gabriel,MAT2691,Administração
+Carlos,MAT2262,Administração
+Lucia,MAT3039,Administração
+Pedro,MAT7371,Administração
+Carlos,MAT2151,Administração
+Ana,MAT3585,Administração
+Maria,MAT2494,Medicina
+Lucia,MAT4239,Economia
+Pedro,MAT1602,Ciências da Computação
+Fernanda,MAT5202,Medicina
+Julia,MAT8130,Economia
+Ana,MAT5176,Economia
+João,MAT3575,Administração
+Carlos,MAT9657,Engenharia
+João,MAT1332,Economia
+João,MAT2406,Ciências da Computação
+Pedro,MAT8167,Engenharia
+João,MAT2668,Administração
+Carlos,MAT6063,Economia
+Gabriel,MAT5586,Engenharia
+Julia,MAT3881,Medicina
+Gabriel,MAT8596,Engenharia
+Lucia,MAT9978,Medicina
+João,MAT7782,Ciências da Computação
+Rafael,MAT4652,Economia
+Fernanda,MAT6095,Administração
+Gabriel,MAT6261,Administração
+Julia,MAT8168,Engenharia
+Rafael,MAT6151,Engenharia
+Rafael,MAT8753,Ciências da Computação
+Carlos,MAT8480,Economia
+João,MAT3716,Administração
+Rafael,MAT5230,Engenharia
+Rafael,MAT2958,Ciências da Computação
+Ana,MAT7321,Economia
+Maria,MAT6047,Administração
+Gabriel,MAT8197,Administração
+Julia,MAT9831,Engenharia
+Ana,MAT9671,Administração
+Maria,MAT2587,Administração
+Rafael,MAT8585,Medicina
+Fernanda,MAT7007,Medicina
+João,MAT3482,Administração
+Gabriel,MAT8095,Ciências da Computação
+Maria,MAT8323,Engenharia
+Fernanda,MAT1755,Engenharia
+João,MAT6605,Economia
+Pedro,MAT2647,Engenharia
+Ana,MAT6323,Ciências da Computação
+Lucia,MAT8560,Administração
+Julia,MAT6419,Administração
+Ana,MAT6942,Economia
+Ana,MAT8575,Economia
+Lucia,MAT1294,Engenharia
+Ana,MAT9818,Medicina
+Fernanda,MAT3770,Administração
+Fernanda,MAT4407,Engenharia
+Gabriel,MAT7676,Engenharia
+Maria,MAT5416,Medicina
+Carlos,MAT8520,Economia
+Gabriel,MAT9579,Engenharia
+Rafael,MAT2690,Economia
+Maria,MAT2803,Medicina
+Lucia,MAT7351,Ciências da Computação
+Pedro,MAT8242,Medicina
+Pedro,MAT3524,Administração
+Maria,MAT2871,Ciências da Computação
+Gabriel,MAT4833,Administração
+Ana,MAT5996,Administração
+João,MAT8612,Economia
+Pedro,MAT6349,Ciências da Computação
+Gabriel,MAT7639,Ciências da Computação
+Ana,MAT1119,Medicina
+Carlos,MAT7045,Administração
+Julia,MAT5214,Engenharia
+João,MAT4447,Medicina
+Ana,MAT1854,Medicina
+Rafael,MAT8534,Economia
+Maria,MAT5118,Administração
+Gabriel,MAT1715,Economia
+Gabriel,MAT8311,Administração
+Lucia,MAT4143,Economia
+Maria,MAT2469,Administração
+Carlos,MAT7662,Engenharia
+Pedro,MAT5972,Administração
+Pedro,MAT1528,Engenharia
+Julia,MAT9254,Administração
+Ana,MAT8831,Administração
+Lucia,MAT9826,Administração
+Pedro,MAT9254,Engenharia
+Fernanda,MAT7867,Engenharia
+Ana,MAT3514,Ciências da Computação
+Julia,MAT7443,Administração
+Gabriel,MAT4460,Economia
+Carlos,MAT9635,Economia
+Lucia,MAT1475,Economia
+Lucia,MAT3947,Administração
+Julia,MAT3017,Economia
+Pedro,MAT1200,Medicina
+Rafael,MAT8447,Engenharia
+João,MAT8142,Ciências da Computação
+Maria,MAT9115,Engenharia
+Pedro,MAT1993,Economia
+Julia,MAT5111,Ciências da Computação
+Carlos,MAT5092,Engenharia
+Fernanda,MAT9713,Ciências da Computação
+Maria,MAT1635,Economia
+Gabriel,MAT1955,Ciências da Computação
+Julia,MAT3801,Administração
+Julia,MAT1664,Medicina
+Julia,MAT4009,Ciências da Computação
+Lucia,MAT6153,Medicina
+Lucia,MAT6092,Medicina
+Lucia,MAT3281,Ciências da Computação
+João,MAT6065,Economia
+Fernanda,MAT7939,Medicina
+Gabriel,MAT2515,Medicina
+João,MAT1590,Medicina
+Fernanda,MAT8339,Ciências da Computação
+Julia,MAT3666,Economia
+Gabriel,MAT1601,Administração
+Pedro,MAT7417,Engenharia
+Pedro,MAT2857,Economia
+Rafael,MAT4835,Medicina
+Ana,MAT7249,Medicina
+Fernanda,MAT7047,Engenharia
+Maria,MAT5162,Engenharia
+Pedro,MAT6618,Medicina
+Lucia,MAT3746,Engenharia
+Carlos,MAT4560,Engenharia
+Fernanda,MAT5388,Economia
+Gabriel,MAT3711,Medicina
+Lucia,MAT2802,Medicina
+Carlos,MAT1374,Economia
+Maria,MAT7464,Economia
+Julia,MAT5383,Ciências da Computação
+Ana,MAT2174,Engenharia
+Gabriel,MAT9460,Ciências da Computação
+Fernanda,MAT3491,Administração
+João,MAT7107,Engenharia
+Pedro,MAT7873,Engenharia
+João,MAT4931,Economia
+Julia,MAT3011,Administração
+Maria,MAT2168,Administração
+João,MAT8350,Engenharia
+Ana,MAT2832,Administração
+Lucia,MAT2022,Economia
+Gabriel,MAT4643,Engenharia
+Lucia,MAT3226,Economia
+Carlos,MAT8397,Medicina
+Lucia,MAT4899,Economia
+Lucia,MAT4861,Engenharia
+Julia,MAT6730,Engenharia
+Carlos,MAT9193,Administração
+Gabriel,MAT2752,Medicina
+Julia,MAT2800,Administração
+Maria,MAT7759,Engenharia
+Ana,MAT9530,Administração
+Ana,MAT4864,Administração
+Gabriel,MAT2697,Medicina
+Rafael,MAT8702,Medicina
+Gabriel,MAT3147,Medicina
+Lucia,MAT9795,Ciências da Computação
+Julia,MAT7547,Administração
+Lucia,MAT9839,Medicina
+Lucia,MAT3686,Economia
+Rafael,MAT1863,Economia
+Gabriel,MAT8564,Medicina
+Gabriel,MAT6613,Medicina
+Carlos,MAT1503,Engenharia
+Carlos,MAT8509,Ciências da Computação
+Gabriel,MAT7979,Engenharia
+Gabriel,MAT5276,Economia
+João,MAT4170,Ciências da Computação
+Carlos,MAT5224,Ciências da Computação
+Julia,MAT3216,Medicina
+Ana,MAT4057,Administração
+Lucia,MAT1455,Economia
+Gabriel,MAT9127,Ciências da Computação
+Pedro,MAT7849,Engenharia
+Lucia,MAT5982,Administração
+Lucia,MAT7839,Ciências da Computação
+Fernanda,MAT2486,Engenharia
+Rafael,MAT5598,Economia
+Julia,MAT9084,Administração
+Lucia,MAT1394,Economia
+Julia,MAT8192,Medicina
+Pedro,MAT7109,Economia
+João,MAT1954,Ciências da Computação
+Maria,MAT1060,Administração
+Pedro,MAT8416,Engenharia
+Lucia,MAT9116,Medicina
+Gabriel,MAT4286,Ciências da Computação
+Carlos,MAT7119,Medicina
+Fernanda,MAT3535,Ciências da Computação
+Maria,MAT6213,Engenharia
+Carlos,MAT2317,Engenharia
+Maria,MAT5002,Economia
+Rafael,MAT1171,Engenharia
+Rafael,MAT7645,Engenharia
+Fernanda,MAT3258,Administração
+Fernanda,MAT4210,Administração
+Rafael,MAT7938,Economia
+João,MAT7737,Ciências da Computação
+Gabriel,MAT9367,Medicina
+Lucia,MAT1263,Engenharia
+Fernanda,MAT3313,Administração
+João,MAT9808,Economia
+Carlos,MAT7553,Medicina
+Gabriel,MAT7598,Engenharia
+Rafael,MAT2041,Ciências da Computação
+Carlos,MAT1240,Engenharia
+João,MAT8266,Administração
+Carlos,MAT5464,Economia
+João,MAT7898,Ciências da Computação
+Fernanda,MAT9849,Engenharia
+João,MAT5808,Medicina
+Pedro,MAT8749,Economia
+João,MAT1121,Administração
+Julia,MAT5145,Ciências da Computação
+Carlos,MAT2015,Engenharia
+Carlos,MAT3589,Engenharia
+Carlos,MAT6141,Medicina
+João,MAT2653,Administração
+Gabriel,MAT2561,Administração
+Carlos,MAT7018,Engenharia
+Maria,MAT2108,Administração
+Lucia,MAT5036,Economia
+João,MAT5270,Engenharia
+Fernanda,MAT5586,Economia
+Pedro,MAT3682,Medicina
+Carlos,MAT1445,Medicina
+Lucia,MAT5299,Engenharia
+Carlos,MAT2787,Ciências da Computação
+Maria,MAT8359,Engenharia
+Carlos,MAT3306,Ciências da Computação
+Pedro,MAT7742,Ciências da Computação
+João,MAT6263,Ciências da Computação
+Carlos,MAT9852,Engenharia
+Julia,MAT8317,Administração
+Maria,MAT2763,Engenharia
+Rafael,MAT8135,Engenharia
+Pedro,MAT2656,Economia
+Julia,MAT7010,Ciências da Computação
+João,MAT1710,Engenharia
+Gabriel,MAT5844,Engenharia
+Rafael,MAT5261,Ciências da Computação
+João,MAT1724,Ciências da Computação
+João,MAT8221,Administração
+Julia,MAT2472,Engenharia
+Pedro,MAT7657,Ciências da Computação
+Carlos,MAT8080,Ciências da Computação
+Pedro,MAT7976,Medicina
+João,MAT6000,Administração
+Carlos,MAT4671,Medicina
+Carlos,MAT8600,Medicina
+Gabriel,MAT5666,Medicina
+Rafael,MAT9706,Medicina
+Maria,MAT3979,Ciências da Computação
+Ana,MAT2492,Economia
+Fernanda,MAT8013,Medicina
+Gabriel,MAT6938,Administração
+Gabriel,MAT4526,Ciências da Computação
+Pedro,MAT6549,Administração
+Lucia,MAT7528,Medicina
+Ana,MAT5392,Administração
+Ana,MAT8359,Medicina
+Lucia,MAT1010,Ciências da Computação
+Rafael,MAT3946,Economia
+Fernanda,MAT5779,Administração
+Ana,MAT5085,Economia
+João,MAT1371,Medicina
+Rafael,MAT3879,Ciências da Computação
+Fernanda,MAT6980,Ciências da Computação
+Rafael,MAT1516,Ciências da Computação
+Lucia,MAT8105,Engenharia
+Lucia,MAT1973,Medicina
+Carlos,MAT4586,Administração
+Maria,MAT2033,Medicina
+Rafael,MAT4624,Economia
+Ana,MAT3034,Medicina
+Lucia,MAT2991,Engenharia
+Carlos,MAT7247,Ciências da Computação
+Maria,MAT1125,Economia
+Fernanda,MAT3223,Ciências da Computação
+Rafael,MAT6280,Administração
+Gabriel,MAT1563,Economia
+Carlos,MAT7523,Engenharia
+João,MAT2519,Ciências da Computação
+Rafael,MAT4842,Economia
+João,MAT1584,Engenharia
+João,MAT9546,Engenharia
+Ana,MAT1260,Engenharia
+Ana,MAT3096,Ciências da Computação
+João,MAT3364,Economia
+Gabriel,MAT3431,Engenharia
+Gabriel,MAT7364,Engenharia
+Lucia,MAT1915,Ciências da Computação
+Gabriel,MAT5906,Administração
+Rafael,MAT9935,Administração
+Gabriel,MAT5489,Medicina
+Julia,MAT8762,Engenharia
+Ana,MAT1566,Administração
+Julia,MAT3614,Engenharia
+Fernanda,MAT9669,Administração
+Ana,MAT3341,Economia
+Carlos,MAT2198,Administração
+Ana,MAT6411,Medicina
+Ana,MAT8155,Medicina
+Rafael,MAT4200,Ciências da Computação
+Fernanda,MAT5481,Medicina
+Lucia,MAT5243,Economia
+Fernanda,MAT4854,Medicina
+João,MAT8856,Ciências da Computação
+Fernanda,MAT4752,Medicina
+Ana,MAT7385,Economia
+Rafael,MAT1893,Administração
+João,MAT5920,Engenharia
+Gabriel,MAT1740,Medicina
+João,MAT8936,Economia
+Gabriel,MAT3433,Engenharia
+Lucia,MAT6874,Administração
+Carlos,MAT7545,Engenharia
+Fernanda,MAT3831,Administração
+Carlos,MAT6370,Engenharia
+João,MAT1055,Medicina
+Fernanda,MAT3109,Economia
+Gabriel,MAT9390,Administração
+Rafael,MAT6236,Economia
+Pedro,MAT7935,Engenharia
+Carlos,MAT2554,Economia
+Rafael,MAT8823,Administração
+Ana,MAT5130,Ciências da Computação
+Lucia,MAT8096,Ciências da Computação
+Pedro,MAT1657,Medicina
+Pedro,MAT4515,Administração
+João,MAT9620,Engenharia
+Pedro,MAT8755,Engenharia
+Carlos,MAT1324,Administração
+Lucia,MAT7403,Administração
+Rafael,MAT7310,Administração
+Julia,MAT7087,Ciências da Computação
+Gabriel,MAT4921,Ciências da Computação
+Fernanda,MAT1617,Engenharia
+Fernanda,MAT6366,Engenharia
+Lucia,MAT2217,Engenharia
+Lucia,MAT7551,Ciências da Computação
+Pedro,MAT1090,Economia
+Rafael,MAT9420,Medicina
+Ana,MAT4686,Ciências da Computação
+Carlos,MAT5067,Ciências da Computação
+Carlos,MAT6135,Economia
+Rafael,MAT1192,Ciências da Computação
+Rafael,MAT7465,Medicina
+Pedro,MAT2217,Medicina
+João,MAT5858,Administração
+João,MAT3674,Medicina
+Fernanda,MAT4345,Medicina
+Carlos,MAT2862,Economia
+Fernanda,MAT6705,Engenharia
+Fernanda,MAT5581,Economia
+Fernanda,MAT8688,Engenharia
+Gabriel,MAT9504,Engenharia
+Pedro,MAT3836,Ciências da Computação
+João,MAT3938,Medicina
+Carlos,MAT6182,Economia
+Carlos,MAT7233,Medicina
+Fernanda,MAT6825,Administração
+Carlos,MAT1210,Administração
+Pedro,MAT3457,Medicina
+Pedro,MAT1610,Ciências da Computação
+Maria,MAT7059,Ciências da Computação
+João,MAT2111,Medicina
+Carlos,MAT4728,Administração
+Pedro,MAT4014,Engenharia
+Maria,MAT4124,Ciências da Computação
+Carlos,MAT5342,Administração
+Gabriel,MAT1105,Economia
+Ana,MAT3725,Administração
+Rafael,MAT1657,Economia
+Pedro,MAT2526,Medicina
+João,MAT4809,Economia
+Fernanda,MAT4824,Medicina
+Lucia,MAT4640,Ciências da Computação
+Lucia,MAT7447,Medicina
+Julia,MAT3583,Economia
+Gabriel,MAT2186,Administração
+João,MAT9775,Medicina
+Julia,MAT1013,Medicina
+Fernanda,MAT6497,Administração
+João,MAT1957,Engenharia
+Gabriel,MAT3676,Medicina
+Lucia,MAT9038,Economia
+Rafael,MAT2194,Economia
+Lucia,MAT1934,Administração
+Pedro,MAT9633,Economia
+João,MAT2943,Medicina
+Carlos,MAT8478,Administração
+Fernanda,MAT7751,Administração
+Fernanda,MAT5713,Medicina
+Pedro,MAT5593,Economia
+Pedro,MAT4799,Engenharia
+Carlos,MAT8850,Economia
+Gabriel,MAT7165,Ciências da Computação
+Maria,MAT8003,Economia
+Lucia,MAT4351,Administração
+Gabriel,MAT2608,Ciências da Computação
+Lucia,MAT8773,Administração
+Julia,MAT4358,Ciências da Computação
+Maria,MAT4280,Administração
+Carlos,MAT2863,Administração
+Maria,MAT6539,Engenharia
+Carlos,MAT9789,Administração
+Carlos,MAT6987,Economia
+Pedro,MAT2846,Engenharia
+Lucia,MAT8190,Economia
+Rafael,MAT1464,Ciências da Computação
+Gabriel,MAT9022,Medicina
+Carlos,MAT9338,Economia
+Gabriel,MAT9709,Medicina
+João,MAT3766,Medicina
+Rafael,MAT6844,Medicina
+Gabriel,MAT7446,Medicina
+Lucia,MAT4757,Medicina
+Lucia,MAT9663,Engenharia
+Gabriel,MAT8359,Administração
+Gabriel,MAT5885,Engenharia
+Carlos,MAT7422,Administração
+João,MAT6861,Medicina
+Julia,MAT4197,Economia
+Julia,MAT5879,Ciências da Computação
+Carlos,MAT3284,Ciências da Computação
+Carlos,MAT4081,Ciências da Computação
+Pedro,MAT6308,Medicina
+Pedro,MAT7761,Economia
+Pedro,MAT4405,Administração
+Rafael,MAT2300,Ciências da Computação
+Lucia,MAT7815,Engenharia
+Carlos,MAT5987,Engenharia
+Carlos,MAT8998,Ciências da Computação
+Rafael,MAT7512,Economia
+João,MAT5689,Administração
+Ana,MAT2982,Engenharia
+Maria,MAT7309,Engenharia
+Gabriel,MAT4569,Ciências da Computação
+Carlos,MAT3307,Engenharia
+Lucia,MAT1274,Medicina
+Rafael,MAT8132,Ciências da Computação
+Carlos,MAT2138,Ciências da Computação
+Julia,MAT5924,Administração
+Lucia,MAT8066,Economia
+Rafael,MAT1841,Ciências da Computação
+Maria,MAT5564,Economia
+Julia,MAT8149,Medicina
+Ana,MAT9769,Economia
+Ana,MAT9828,Medicina
+Fernanda,MAT6472,Administração
+Fernanda,MAT1968,Administração
+Carlos,MAT5217,Economia
+João,MAT1086,Medicina
+Fernanda,MAT7946,Economia
+Carlos,MAT7464,Engenharia
+Maria,MAT5430,Administração
+Pedro,MAT3915,Economia
+Julia,MAT3627,Economia
+Lucia,MAT6811,Medicina
+Julia,MAT6699,Engenharia
+Carlos,MAT4741,Ciências da Computação
+Rafael,MAT8614,Medicina
+Rafael,MAT1360,Engenharia
+Carlos,MAT7476,Administração
+Ana,MAT7782,Engenharia
+Rafael,MAT8445,Medicina
+Fernanda,MAT8189,Economia
+Maria,MAT9263,Administração
+Maria,MAT3953,Administração
+Maria,MAT7505,Administração
+Carlos,MAT9432,Economia
+Rafael,MAT2751,Engenharia
+Ana,MAT2104,Administração
+Gabriel,MAT9798,Economia
+Ana,MAT2172,Ciências da Computação
+Fernanda,MAT2740,Engenharia
+Carlos,MAT7168,Administração
+Pedro,MAT1211,Ciências da Computação
+Ana,MAT7885,Ciências da Computação
+Ana,MAT4222,Ciências da Computação
+Lucia,MAT5432,Engenharia
+Ana,MAT7852,Administração
+Julia,MAT4146,Administração
+Ana,MAT4958,Administração
+Maria,MAT3149,Economia
+Pedro,MAT6054,Medicina
+Carlos,MAT2852,Economia
+Carlos,MAT6490,Administração
+Carlos,MAT7608,Engenharia
+Carlos,MAT1813,Medicina
+Gabriel,MAT7136,Ciências da Computação
+Gabriel,MAT3386,Economia
+Rafael,MAT2216,Economia
+Fernanda,MAT9242,Ciências da Computação
+Rafael,MAT6833,Administração
+Rafael,MAT5638,Ciências da Computação
+Rafael,MAT9637,Economia
+Ana,MAT1230,Ciências da Computação
+Ana,MAT8603,Administração
+Maria,MAT5570,Administração
+Lucia,MAT9075,Medicina
+Pedro,MAT3414,Administração
+Pedro,MAT1833,Economia
+Carlos,MAT8682,Engenharia
+Ana,MAT6688,Ciências da Computação
+Pedro,MAT7369,Administração
+Carlos,MAT6751,Ciências da Computação
+Fernanda,MAT9175,Engenharia
+Lucia,MAT9448,Medicina
+Lucia,MAT7073,Engenharia
+Julia,MAT1400,Engenharia
+Lucia,MAT2204,Medicina
+Julia,MAT4994,Engenharia
+Lucia,MAT3585,Medicina
+Pedro,MAT3969,Administração
+Carlos,MAT9625,Administração
+Carlos,MAT2133,Administração
+Rafael,MAT1843,Medicina
+Ana,MAT3548,Medicina
+Fernanda,MAT8468,Administração
+Pedro,MAT9815,Engenharia
+Carlos,MAT5930,Engenharia
+João,MAT1788,Ciências da Computação
+Maria,MAT5718,Administração
+Carlos,MAT1972,Administração
+Lucia,MAT5419,Medicina
+Julia,MAT7819,Medicina
+Rafael,MAT1868,Administração
+Carlos,MAT3114,Administração
+Gabriel,MAT9158,Administração
+Julia,MAT7550,Ciências da Computação
+Fernanda,MAT2272,Medicina
+Fernanda,MAT3933,Engenharia
+Lucia,MAT6081,Ciências da Computação
+Fernanda,MAT8445,Medicina
+Pedro,MAT1175,Engenharia
+Julia,MAT4049,Engenharia
+Pedro,MAT1121,Engenharia
+João,MAT2756,Medicina
+Julia,MAT8541,Ciências da Computação
+Lucia,MAT2856,Economia
+Lucia,MAT1469,Medicina
+Maria,MAT6286,Ciências da Computação
+Pedro,MAT7005,Administração
+João,MAT5342,Ciências da Computação
+Lucia,MAT9548,Economia
+João,MAT4178,Administração
+Maria,MAT5040,Engenharia
+Carlos,MAT2636,Administração
+Ana,MAT3448,Medicina
+Fernanda,MAT1822,Medicina
+Gabriel,MAT1867,Medicina
+João,MAT5130,Ciências da Computação
+Fernanda,MAT8981,Administração
+Carlos,MAT3683,Administração
+Rafael,MAT7345,Administração
+Maria,MAT9553,Ciências da Computação
+Rafael,MAT4536,Medicina
+Gabriel,MAT3640,Medicina
+Ana,MAT5158,Economia
+Rafael,MAT7906,Administração
+João,MAT9774,Economia
+Fernanda,MAT7092,Medicina
+Lucia,MAT4381,Administração
+Carlos,MAT9318,Administração
+João,MAT4252,Engenharia
+João,MAT6667,Engenharia
+Fernanda,MAT7079,Ciências da Computação
+Pedro,MAT3865,Medicina
+Carlos,MAT2926,Economia
+Julia,MAT3817,Ciências da Computação
+Gabriel,MAT8862,Engenharia
+Pedro,MAT4708,Economia
+Carlos,MAT3527,Economia
+Maria,MAT8772,Economia
+Lucia,MAT7891,Engenharia
+Ana,MAT8730,Economia
+Gabriel,MAT1082,Engenharia
+Carlos,MAT6918,Economia
+Rafael,MAT5237,Economia
+Lucia,MAT1863,Economia
+Fernanda,MAT4704,Medicina
+Carlos,MAT4211,Administração
+Maria,MAT7524,Ciências da Computação
+Gabriel,MAT9606,Administração
+Ana,MAT2647,Engenharia
+Ana,MAT3866,Ciências da Computação
+Ana,MAT3675,Medicina
+Gabriel,MAT2433,Economia
+Fernanda,MAT3786,Medicina
+Fernanda,MAT8305,Economia
+João,MAT9673,Engenharia
+Fernanda,MAT3467,Economia
+Pedro,MAT9244,Ciências da Computação
+Maria,MAT2036,Medicina
+Rafael,MAT5419,Economia
+Pedro,MAT9446,Medicina
+Pedro,MAT8550,Engenharia
+João,MAT9515,Medicina
+Julia,MAT3644,Administração
+Pedro,MAT9575,Ciências da Computação
+João,MAT3213,Economia
+Carlos,MAT6451,Ciências da Computação
+Lucia,MAT9956,Administração
+Maria,MAT2322,Administração
+Gabriel,MAT3442,Medicina
+João,MAT6838,Medicina
+Maria,MAT6797,Economia
+Fernanda,MAT3898,Engenharia
+Julia,MAT7425,Engenharia
+Ana,MAT4289,Economia
+Fernanda,MAT4065,Administração
+Julia,MAT6983,Administração
+Gabriel,MAT5205,Engenharia
+João,MAT7544,Ciências da Computação
+Ana,MAT9589,Economia
+Fernanda,MAT2418,Medicina
+João,MAT3842,Engenharia
+Carlos,MAT3544,Medicina
+Pedro,MAT6907,Ciências da Computação
+Ana,MAT7220,Medicina
+Pedro,MAT5252,Economia
+Ana,MAT7493,Engenharia
+Rafael,MAT6851,Administração
+Pedro,MAT9384,Engenharia
+Maria,MAT5653,Medicina
+Gabriel,MAT2367,Medicina
+Gabriel,MAT4739,Economia
+Julia,MAT8796,Medicina
+Lucia,MAT7798,Ciências da Computação
+Rafael,MAT4809,Ciências da Computação
+Carlos,MAT3182,Economia
+Maria,MAT9317,Economia
+Rafael,MAT2594,Engenharia
+Carlos,MAT5450,Engenharia
+Gabriel,MAT9399,Medicina
+Pedro,MAT8699,Engenharia
+Julia,MAT5582,Ciências da Computação
+Rafael,MAT1229,Ciências da Computação
+Lucia,MAT2971,Medicina
+Ana,MAT8389,Medicina
+Ana,MAT3122,Medicina
+Maria,MAT7855,Administração
+Gabriel,MAT4610,Ciências da Computação
+Maria,MAT1421,Administração
+Gabriel,MAT2784,Administração
+Maria,MAT2345,Ciências da Computação
+Fernanda,MAT9014,Administração
+Pedro,MAT6870,Administração
+Gabriel,MAT6317,Ciências da Computação
+Fernanda,MAT1325,Economia
+Gabriel,MAT8622,Ciências da Computação
+João,MAT7520,Medicina
+Julia,MAT3495,Economia
+João,MAT1801,Ciências da Computação
+Julia,MAT4186,Economia
+Maria,MAT1493,Engenharia
+João,MAT3878,Economia
+João,MAT3058,Ciências da Computação
+Rafael,MAT6013,Administração
+Pedro,MAT8591,Ciências da Computação
+Lucia,MAT8511,Economia
+Gabriel,MAT9268,Engenharia
+Julia,MAT1461,Administração
+Julia,MAT4246,Medicina
+Gabriel,MAT6307,Administração
+Julia,MAT3012,Engenharia
+João,MAT5275,Ciências da Computação
+Rafael,MAT6229,Engenharia
+Julia,MAT8933,Medicina
+Pedro,MAT3892,Medicina
+Gabriel,MAT3408,Ciências da Computação
+Maria,MAT6853,Engenharia
+Julia,MAT9154,Engenharia
+Ana,MAT2690,Medicina
+Maria,MAT3317,Medicina
+Lucia,MAT2445,Economia
+Lucia,MAT5100,Engenharia
+Gabriel,MAT4537,Engenharia
+Rafael,MAT2756,Economia
+Julia,MAT1036,Ciências da Computação
+Gabriel,MAT8148,Medicina
+Ana,MAT8961,Medicina
+Julia,MAT7948,Economia
+Fernanda,MAT6521,Ciências da Computação
+Carlos,MAT7658,Economia
+Rafael,MAT2595,Engenharia
+Maria,MAT8955,Engenharia
+Ana,MAT1851,Engenharia
+Lucia,MAT4694,Engenharia
+Pedro,MAT4347,Engenharia
+Maria,MAT1363,Economia
+Maria,MAT2961,Engenharia
+Rafael,MAT4016,Medicina
+Gabriel,MAT6792,Administração
+Lucia,MAT7035,Medicina
+Ana,MAT4917,Engenharia
+Maria,MAT3396,Engenharia
+Lucia,MAT4459,Engenharia
+Rafael,MAT1499,Ciências da Computação
+Julia,MAT5286,Administração
+Pedro,MAT1383,Ciências da Computação
+Pedro,MAT3889,Administração
+Lucia,MAT3848,Ciências da Computação
+Ana,MAT1905,Administração
+Ana,MAT4106,Administração
+Fernanda,MAT5786,Medicina
+Lucia,MAT6568,Ciências da Computação
+Rafael,MAT9082,Engenharia
+Rafael,MAT3847,Medicina
+Maria,MAT7401,Administração
+Gabriel,MAT4830,Medicina
+Fernanda,MAT9584,Engenharia
+Fernanda,MAT2849,Ciências da Computação
+Maria,MAT2891,Economia
+João,MAT7031,Ciências da Computação
+Maria,MAT3561,Economia
+Rafael,MAT8706,Economia
+Rafael,MAT9996,Administração
+Lucia,MAT8543,Economia
+Maria,MAT9842,Administração
+Rafael,MAT1023,Engenharia
+Rafael,MAT7916,Ciências da Computação
+Maria,MAT9759,Engenharia
+João,MAT4374,Administração
+Fernanda,MAT5596,Administração
+Lucia,MAT7318,Administração
+Julia,MAT3387,Medicina
+Lucia,MAT8726,Economia
+Ana,MAT4104,Ciências da Computação
+Carlos,MAT3909,Ciências da Computação
+João,MAT5146,Administração
+Maria,MAT2558,Medicina
+Carlos,MAT6124,Engenharia
+João,MAT8414,Economia
+Maria,MAT5795,Medicina
+Ana,MAT8002,Ciências da Computação
+Carlos,MAT2355,Administração
+Fernanda,MAT4033,Administração
+Julia,MAT7260,Economia
+Fernanda,MAT3331,Economia
+Maria,MAT2978,Economia
+Fernanda,MAT7056,Ciências da Computação
+Lucia,MAT6610,Engenharia
+Julia,MAT3154,Economia
+Gabriel,MAT6655,Economia
+Julia,MAT7979,Engenharia
+Gabriel,MAT6075,Engenharia
+João,MAT6013,Medicina
+Rafael,MAT9079,Ciências da Computação
+Maria,MAT9766,Engenharia
+Pedro,MAT2886,Engenharia
+Maria,MAT7030,Medicina
+Ana,MAT7196,Administração
+Fernanda,MAT2264,Medicina
+Maria,MAT6815,Engenharia
+Lucia,MAT9418,Engenharia
+Carlos,MAT5851,Administração
+Pedro,MAT7588,Ciências da Computação
+João,MAT7507,Engenharia
+Julia,MAT2406,Medicina
+Fernanda,MAT8011,Economia
+Rafael,MAT9808,Ciências da Computação
+João,MAT2108,Administração
+Ana,MAT4600,Medicina
+Carlos,MAT1584,Engenharia
+Maria,MAT3433,Economia
+Rafael,MAT1869,Economia
+Rafael,MAT1455,Economia
+Julia,MAT5748,Ciências da Computação
+Ana,MAT9397,Engenharia
+Maria,MAT3559,Economia
+Gabriel,MAT7009,Ciências da Computação
+João,MAT4812,Administração
+Gabriel,MAT4715,Economia
+Lucia,MAT8173,Engenharia
+Lucia,MAT8818,Medicina
+Ana,MAT7905,Administração
+Carlos,MAT9122,Economia
+Pedro,MAT8365,Administração
+João,MAT3190,Engenharia
+João,MAT4571,Engenharia
+Julia,MAT2403,Engenharia
+Lucia,MAT2856,Engenharia
+João,MAT4096,Administração
+Carlos,MAT9240,Administração
+Ana,MAT5585,Administração
+Lucia,MAT4659,Ciências da Computação
+Ana,MAT2489,Medicina
+João,MAT3947,Ciências da Computação
+Pedro,MAT4319,Ciências da Computação
+Pedro,MAT6058,Ciências da Computação
+Maria,MAT5583,Administração
+Pedro,MAT5683,Ciências da Computação
+Gabriel,MAT4467,Economia
+Pedro,MAT1100,Medicina
+Gabriel,MAT5743,Engenharia
+Carlos,MAT7715,Engenharia
+João,MAT7450,Economia
+Gabriel,MAT6046,Engenharia
+Pedro,MAT8792,Administração
+João,MAT8440,Medicina
+Pedro,MAT1269,Economia
+Maria,MAT8449,Engenharia
+Julia,MAT4694,Economia
+Carlos,MAT1556,Ciências da Computação
+Rafael,MAT8472,Economia
+João,MAT8932,Administração
+Carlos,MAT7977,Ciências da Computação
+Fernanda,MAT7486,Medicina
+João,MAT6017,Engenharia
+Lucia,MAT9254,Economia
+Carlos,MAT3546,Engenharia
+Rafael,MAT8342,Administração
+Pedro,MAT7882,Economia
+Gabriel,MAT5299,Economia
+Carlos,MAT2390,Engenharia
+Lucia,MAT4470,Engenharia
+Julia,MAT8476,Ciências da Computação
+Ana,MAT7375,Economia
+Pedro,MAT9090,Medicina
+Lucia,MAT4190,Administração
+Rafael,MAT1356,Medicina
+Fernanda,MAT2925,Ciências da Computação
+Maria,MAT1018,Administração
+Maria,MAT7536,Engenharia
+Lucia,MAT8478,Economia
+Maria,MAT9374,Engenharia
+Julia,MAT6067,Engenharia
+Pedro,MAT8654,Economia
+Gabriel,MAT8851,Ciências da Computação
+Fernanda,MAT6953,Engenharia
+Pedro,MAT2716,Engenharia
+Ana,MAT4581,Economia
+Fernanda,MAT6116,Medicina
+Gabriel,MAT5485,Economia
+Gabriel,MAT6886,Ciências da Computação
+Gabriel,MAT5118,Medicina
+Rafael,MAT3695,Ciências da Computação
+Carlos,MAT1106,Economia
+Lucia,MAT1601,Ciências da Computação
+Carlos,MAT4105,Administração
+Lucia,MAT9452,Economia
+Rafael,MAT5044,Ciências da Computação
+Ana,MAT7839,Medicina
+Ana,MAT1129,Engenharia
+Maria,MAT6780,Economia
+Rafael,MAT4580,Engenharia
+Lucia,MAT9034,Economia
+Julia,MAT9357,Ciências da Computação
+Lucia,MAT4916,Administração
+Fernanda,MAT1737,Medicina
+Carlos,MAT6989,Engenharia
+Carlos,MAT5880,Economia
+João,MAT5312,Engenharia
+Rafael,MAT1231,Economia
+Lucia,MAT9372,Ciências da Computação
+Carlos,MAT5582,Engenharia
+Fernanda,MAT7559,Engenharia
+Fernanda,MAT2243,Administração
+Julia,MAT6658,Ciências da Computação
+Maria,MAT4674,Economia
+Carlos,MAT2383,Ciências da Computação
+Ana,MAT5661,Economia
+Rafael,MAT2534,Administração
+Pedro,MAT3429,Engenharia
+Fernanda,MAT6966,Administração
+Lucia,MAT3092,Medicina
+Gabriel,MAT7336,Economia
+Rafael,MAT5975,Engenharia
+Pedro,MAT5217,Engenharia
+Maria,MAT3153,Ciências da Computação
+Gabriel,MAT3675,Engenharia
+João,MAT9030,Engenharia
+Lucia,MAT2136,Engenharia
+Julia,MAT8640,Administração
+Fernanda,MAT9530,Administração
+Rafael,MAT9179,Ciências da Computação
+Ana,MAT9214,Medicina
+Pedro,MAT9107,Ciências da Computação
+Maria,MAT6774,Medicina
+Ana,MAT6203,Engenharia
+Fernanda,MAT4254,Ciências da Computação
+Julia,MAT3136,Medicina
+Lucia,MAT8383,Ciências da Computação
+Rafael,MAT3474,Engenharia
+João,MAT4176,Administração
+Ana,MAT1813,Engenharia
+Rafael,MAT3356,Ciências da Computação
+Rafael,MAT6454,Engenharia
+Pedro,MAT7556,Administração
+Rafael,MAT8390,Engenharia
+Carlos,MAT2008,Administração
+Pedro,MAT7757,Economia
+Pedro,MAT7997,Ciências da Computação
+Fernanda,MAT5821,Administração
+Fernanda,MAT3740,Administração
+Maria,MAT8878,Medicina
+Rafael,MAT5250,Economia
+Rafael,MAT3624,Ciências da Computação
+Maria,MAT8533,Administração
+Pedro,MAT3765,Economia
+Fernanda,MAT5165,Ciências da Computação
+Fernanda,MAT4674,Ciências da Computação
+Gabriel,MAT5569,Economia
+Maria,MAT7340,Medicina
+Lucia,MAT9237,Economia
+João,MAT3189,Engenharia
+Pedro,MAT1319,Ciências da Computação
+Fernanda,MAT2484,Administração
+Carlos,MAT5040,Economia
+João,MAT7564,Economia
+Pedro,MAT5069,Ciências da Computação
+Carlos,MAT4039,Administração
+João,MAT8782,Administração
+Lucia,MAT5256,Ciências da Computação
+Maria,MAT9769,Medicina
+Pedro,MAT7015,Administração
+Rafael,MAT2676,Economia
+Gabriel,MAT5148,Administração
+Julia,MAT3871,Ciências da Computação
+Carlos,MAT5508,Administração
+João,MAT8590,Medicina
+Gabriel,MAT9970,Economia
+Maria,MAT6265,Administração
+João,MAT6135,Medicina
+Lucia,MAT4294,Ciências da Computação
+Lucia,MAT6304,Administração
+Ana,MAT5947,Ciências da Computação
+Rafael,MAT9955,Administração
+Rafael,MAT6643,Engenharia
+Julia,MAT7824,Administração
+Gabriel,MAT1154,Economia
+Gabriel,MAT2405,Administração
+Pedro,MAT5932,Engenharia
+Lucia,MAT7965,Ciências da Computação
+Rafael,MAT5288,Administração
+Maria,MAT8102,Engenharia
+Ana,MAT2988,Administração
+João,MAT3149,Administração
+Julia,MAT3831,Engenharia
+João,MAT3655,Engenharia
+Fernanda,MAT4847,Medicina
+Gabriel,MAT6512,Medicina
+Rafael,MAT2824,Medicina
+Pedro,MAT7415,Administração
+Lucia,MAT1165,Ciências da Computação
+Lucia,MAT7261,Ciências da Computação
+Lucia,MAT4280,Ciências da Computação
+Fernanda,MAT4928,Administração
+João,MAT8325,Economia
+Fernanda,MAT5858,Medicina
+Lucia,MAT3604,Economia
+Ana,MAT9356,Economia
+Rafael,MAT3174,Economia
+Lucia,MAT2436,Ciências da Computação
+Pedro,MAT1605,Ciências da Computação
+João,MAT7774,Medicina
+Lucia,MAT3981,Economia
+Gabriel,MAT4201,Administração
+Fernanda,MAT9977,Engenharia
+Gabriel,MAT9729,Ciências da Computação
+Carlos,MAT5169,Medicina
+Pedro,MAT4490,Engenharia
+Fernanda,MAT7966,Administração
+Pedro,MAT5692,Administração
+Carlos,MAT3658,Economia
+Gabriel,MAT3307,Engenharia
+Julia,MAT8047,Ciências da Computação
+Lucia,MAT5557,Ciências da Computação
+Carlos,MAT9454,Economia
+Lucia,MAT3863,Economia
+Rafael,MAT1129,Medicina
+Lucia,MAT4028,Engenharia
+Pedro,MAT2340,Medicina
+Maria,MAT7835,Economia
+Maria,MAT8266,Economia
+Lucia,MAT4122,Medicina
+Pedro,MAT8737,Engenharia
+Maria,MAT6413,Economia
+Maria,MAT6319,Engenharia
+Pedro,MAT9140,Ciências da Computação
+Julia,MAT9762,Engenharia
+Rafael,MAT9977,Engenharia
+Gabriel,MAT7803,Economia
+Julia,MAT6086,Medicina
+Carlos,MAT9169,Medicina
+Ana,MAT7025,Administração
+João,MAT7043,Engenharia
+Maria,MAT4759,Administração
+Lucia,MAT1441,Administração
+Fernanda,MAT7479,Ciências da Computação
+Julia,MAT9476,Economia
+Lucia,MAT4622,Ciências da Computação
+Lucia,MAT4738,Medicina
+Maria,MAT7531,Medicina
+Pedro,MAT4228,Engenharia
+Julia,MAT8064,Administração
+Julia,MAT8814,Engenharia
+Pedro,MAT9905,Medicina
+João,MAT9726,Economia
+Rafael,MAT9822,Economia
+Gabriel,MAT5080,Administração
+Maria,MAT3121,Administração
+João,MAT8346,Medicina
+Maria,MAT4202,Ciências da Computação
+Ana,MAT6806,Medicina
+Pedro,MAT9777,Administração
+Carlos,MAT7500,Engenharia
+Gabriel,MAT6107,Economia
+Rafael,MAT1307,Medicina
+Carlos,MAT9307,Economia
+Pedro,MAT4106,Administração
+Carlos,MAT3675,Medicina
+Lucia,MAT4861,Medicina
+Pedro,MAT9001,Administração
+Rafael,MAT7714,Economia
+Julia,MAT9933,Medicina
+Pedro,MAT1678,Ciências da Computação
+Pedro,MAT6892,Administração
+Julia,MAT5116,Economia
+Lucia,MAT4762,Medicina
+Ana,MAT6853,Medicina
+Carlos,MAT6875,Ciências da Computação
+Rafael,MAT4496,Economia
+Julia,MAT8836,Economia
+Carlos,MAT9589,Ciências da Computação
+Gabriel,MAT2273,Engenharia
+Ana,MAT6963,Economia
+Carlos,MAT6779,Economia
+Maria,MAT6193,Medicina
+Gabriel,MAT9190,Administração
+Fernanda,MAT2896,Administração
+Ana,MAT7108,Economia
+Pedro,MAT6100,Engenharia
+Carlos,MAT8114,Economia
+Lucia,MAT3014,Economia
+Rafael,MAT9215,Ciências da Computação
+Gabriel,MAT8373,Ciências da Computação
+Julia,MAT7239,Medicina
+Lucia,MAT4943,Ciências da Computação
+Lucia,MAT2916,Medicina
+Pedro,MAT7283,Ciências da Computação
+Rafael,MAT1973,Ciências da Computação
+Ana,MAT2293,Engenharia
+Pedro,MAT6527,Administração
+Julia,MAT3069,Ciências da Computação
+Maria,MAT5070,Ciências da Computação
+Fernanda,MAT9734,Ciências da Computação
+Rafael,MAT6636,Ciências da Computação
+Julia,MAT5872,Medicina
+Fernanda,MAT2561,Ciências da Computação
+Pedro,MAT8386,Ciências da Computação
+Lucia,MAT5703,Medicina
+Fernanda,MAT3053,Ciências da Computação
+Gabriel,MAT1735,Ciências da Computação
+Carlos,MAT8655,Economia
+Maria,MAT8595,Medicina
+Maria,MAT8513,Economia
+Carlos,MAT8354,Economia
+Pedro,MAT2302,Administração
+Lucia,MAT1001,Ciências da Computação
+Ana,MAT3784,Economia
+Rafael,MAT9171,Engenharia
+Ana,MAT4085,Medicina
+Gabriel,MAT2340,Ciências da Computação
+Lucia,MAT7971,Administração
+Gabriel,MAT5018,Administração
+Pedro,MAT2676,Ciências da Computação
+Rafael,MAT8999,Economia
+Fernanda,MAT3354,Ciências da Computação
+João,MAT9934,Ciências da Computação
+Rafael,MAT6694,Economia
+Ana,MAT8542,Economia
+Maria,MAT1967,Engenharia
+Pedro,MAT6929,Engenharia
+Carlos,MAT7956,Engenharia
+Gabriel,MAT4423,Ciências da Computação
+Gabriel,MAT8054,Administração
+Pedro,MAT5244,Ciências da Computação
+Pedro,MAT8863,Administração
+Gabriel,MAT1428,Ciências da Computação
+Rafael,MAT6107,Engenharia
+Ana,MAT3158,Ciências da Computação
+Carlos,MAT4963,Economia
+Ana,MAT4431,Engenharia
+Rafael,MAT3182,Engenharia
+Lucia,MAT1208,Engenharia
+Gabriel,MAT8989,Medicina
+Rafael,MAT6882,Ciências da Computação
+Carlos,MAT6743,Administração
+Gabriel,MAT6507,Medicina
+Maria,MAT3583,Medicina
+Fernanda,MAT6969,Administração
+Ana,MAT9148,Ciências da Computação
+Pedro,MAT5987,Administração
+Gabriel,MAT9421,Administração
+Fernanda,MAT8371,Engenharia
+Rafael,MAT9231,Administração
+João,MAT5770,Administração
+Julia,MAT1645,Economia
+Rafael,MAT5574,Medicina
+Julia,MAT5929,Engenharia
+João,MAT4787,Administração
+Lucia,MAT6814,Economia
+Ana,MAT6429,Administração
+Ana,MAT6763,Ciências da Computação
+Lucia,MAT3227,Ciências da Computação
+Gabriel,MAT9573,Ciências da Computação
+Ana,MAT9917,Engenharia
+Pedro,MAT5689,Ciências da Computação
+Carlos,MAT2167,Engenharia
+Lucia,MAT2747,Administração
+Julia,MAT5833,Economia
+Pedro,MAT4687,Engenharia
+Carlos,MAT3002,Medicina
+Ana,MAT4191,Engenharia
+Rafael,MAT8695,Ciências da Computação
+João,MAT9144,Medicina
+Maria,MAT3626,Medicina
+Carlos,MAT9862,Ciências da Computação
+Gabriel,MAT4829,Engenharia
+Julia,MAT8737,Ciências da Computação
+Ana,MAT6177,Ciências da Computação
+João,MAT3856,Ciências da Computação
+Gabriel,MAT1366,Engenharia
+Pedro,MAT1363,Economia
+Ana,MAT1276,Engenharia
+Lucia,MAT1456,Engenharia
+Maria,MAT2094,Engenharia
+Rafael,MAT9101,Ciências da Computação
+Fernanda,MAT7952,Economia
+Gabriel,MAT7938,Ciências da Computação
+Pedro,MAT4294,Administração
+Gabriel,MAT1898,Economia
+Maria,MAT6418,Medicina
+Lucia,MAT7561,Medicina
+Fernanda,MAT6799,Administração
+Pedro,MAT8151,Ciências da Computação
+Rafael,MAT5000,Medicina
+Rafael,MAT5704,Engenharia
+Pedro,MAT2748,Economia
+Lucia,MAT1939,Medicina
+João,MAT3666,Administração
+Julia,MAT1887,Engenharia
+Gabriel,MAT3935,Engenharia
+Maria,MAT2675,Administração
+Ana,MAT8656,Engenharia
+Maria,MAT7150,Medicina
+Julia,MAT5474,Ciências da Computação
+Rafael,MAT8539,Ciências da Computação
+João,MAT6762,Ciências da Computação
+Fernanda,MAT4285,Administração
+Rafael,MAT9430,Medicina
+Fernanda,MAT8648,Medicina
+Gabriel,MAT9249,Administração
+Pedro,MAT1273,Medicina
+Pedro,MAT3365,Engenharia
+Carlos,MAT7675,Ciências da Computação
+Gabriel,MAT4957,Administração
+Gabriel,MAT5994,Medicina
+João,MAT4767,Medicina
+Lucia,MAT4117,Ciências da Computação
+Gabriel,MAT3717,Economia
+Pedro,MAT9145,Economia
+João,MAT6521,Engenharia
+Gabriel,MAT3974,Administração
+Lucia,MAT6496,Ciências da Computação
+Rafael,MAT9823,Medicina
+Carlos,MAT3322,Medicina
+Julia,MAT6502,Economia
+Julia,MAT9673,Economia
+Carlos,MAT6036,Ciências da Computação
+Pedro,MAT6882,Engenharia
+Gabriel,MAT1562,Engenharia
+Carlos,MAT5158,Engenharia
+Maria,MAT7697,Ciências da Computação
+Julia,MAT6854,Economia
+Lucia,MAT9482,Administração
+João,MAT4570,Economia
+Gabriel,MAT2486,Administração
+Pedro,MAT7842,Engenharia
+Rafael,MAT1336,Administração
+Ana,MAT1608,Medicina
+Pedro,MAT2188,Administração
+Pedro,MAT9612,Ciências da Computação
+Julia,MAT7469,Engenharia
+Ana,MAT8389,Ciências da Computação
+João,MAT6786,Ciências da Computação
+Gabriel,MAT4067,Administração
+Ana,MAT9465,Ciências da Computação
+Carlos,MAT9476,Medicina
+Maria,MAT4851,Ciências da Computação
+Fernanda,MAT2249,Ciências da Computação
+Fernanda,MAT8844,Medicina
+Rafael,MAT6501,Economia
+Carlos,MAT5581,Medicina
+Rafael,MAT8207,Economia
+Gabriel,MAT5883,Engenharia
+Lucia,MAT3999,Administração
+Fernanda,MAT6394,Engenharia
+Ana,MAT9252,Medicina
+Julia,MAT9039,Ciências da Computação
+Gabriel,MAT8715,Administração
+Maria,MAT4092,Administração
+Julia,MAT8312,Medicina
+Lucia,MAT8836,Administração
+Pedro,MAT1972,Medicina
+Pedro,MAT2127,Engenharia
+Julia,MAT5786,Administração
+Gabriel,MAT9443,Medicina
+Ana,MAT8891,Medicina
+Gabriel,MAT2323,Engenharia
+Julia,MAT7035,Medicina
+João,MAT3515,Economia
+Ana,MAT9427,Medicina
+Lucia,MAT5776,Economia
+João,MAT9236,Administração
+Maria,MAT3726,Engenharia
+Lucia,MAT9737,Medicina
+Maria,MAT5850,Economia
+Pedro,MAT2417,Ciências da Computação
+Julia,MAT6115,Engenharia
+Pedro,MAT5068,Engenharia
+Lucia,MAT9267,Medicina
+Lucia,MAT9220,Medicina
+Lucia,MAT4718,Ciências da Computação
+João,MAT3382,Ciências da Computação
+Lucia,MAT6250,Economia
+Lucia,MAT1673,Administração
+Maria,MAT5047,Ciências da Computação
+Pedro,MAT6424,Ciências da Computação
+Gabriel,MAT3140,Engenharia
+Carlos,MAT6233,Medicina
+Gabriel,MAT6204,Engenharia
+Pedro,MAT9056,Administração
+Rafael,MAT5973,Economia
+Julia,MAT6244,Medicina
+Lucia,MAT1940,Administração
+Carlos,MAT9142,Medicina
+Maria,MAT6068,Economia
+Maria,MAT2897,Economia
+Pedro,MAT8008,Ciências da Computação
+Ana,MAT6209,Medicina
+Julia,MAT5371,Engenharia
+Rafael,MAT2048,Engenharia
+Gabriel,MAT2937,Medicina
+João,MAT8346,Economia
+João,MAT7300,Ciências da Computação
+Julia,MAT2466,Economia
+Fernanda,MAT4445,Economia
+Carlos,MAT6897,Engenharia
+Ana,MAT5802,Medicina
+Rafael,MAT7181,Economia
+Pedro,MAT5275,Economia
+Fernanda,MAT2960,Engenharia
+Lucia,MAT8418,Engenharia
+Ana,MAT8643,Administração
+Pedro,MAT8012,Ciências da Computação
+João,MAT2168,Administração
+João,MAT1271,Administração
+Maria,MAT3992,Administração
+Fernanda,MAT2488,Engenharia
+Ana,MAT1469,Administração
+Carlos,MAT7258,Economia
+Carlos,MAT9472,Ciências da Computação
+João,MAT3888,Administração
+João,MAT4772,Medicina
+Ana,MAT2140,Administração
+Lucia,MAT9180,Economia
+Rafael,MAT7723,Engenharia
+Ana,MAT2876,Medicina
+Fernanda,MAT2100,Economia
+João,MAT4886,Ciências da Computação
+Pedro,MAT6504,Economia
+Rafael,MAT8239,Engenharia
+Carlos,MAT8993,Ciências da Computação
+Maria,MAT6479,Administração
+Maria,MAT3880,Engenharia
+João,MAT6866,Engenharia
+Maria,MAT9860,Economia
+Julia,MAT3781,Medicina
+Lucia,MAT5100,Economia
+Pedro,MAT4052,Engenharia
+Lucia,MAT5815,Ciências da Computação
+Julia,MAT8924,Economia
+Fernanda,MAT8985,Ciências da Computação
+Gabriel,MAT2376,Ciências da Computação
+Ana,MAT8306,Engenharia
+Pedro,MAT7828,Economia
+Gabriel,MAT3790,Medicina
+Rafael,MAT3802,Engenharia
+Gabriel,MAT6982,Ciências da Computação
+Fernanda,MAT1665,Ciências da Computação
+Maria,MAT8878,Medicina
+Maria,MAT3212,Economia
+Pedro,MAT6270,Economia
+João,MAT5823,Economia
+Carlos,MAT7850,Ciências da Computação
+Ana,MAT1821,Ciências da Computação
+Gabriel,MAT3694,Medicina
+Carlos,MAT1322,Economia
+Carlos,MAT3508,Economia
+Pedro,MAT5984,Administração
+Gabriel,MAT6350,Economia
+Pedro,MAT2193,Medicina
+Maria,MAT8975,Engenharia
+João,MAT6600,Economia
+Ana,MAT9863,Ciências da Computação
+Carlos,MAT4103,Ciências da Computação
+Rafael,MAT1409,Economia
+Maria,MAT3013,Ciências da Computação
+Rafael,MAT7142,Economia
+João,MAT1627,Ciências da Computação
+João,MAT8122,Ciências da Computação
+Maria,MAT4258,Medicina
+Rafael,MAT1900,Engenharia
+João,MAT8314,Economia
+Ana,MAT3334,Engenharia
+Lucia,MAT2518,Economia
+Carlos,MAT3358,Medicina
+Ana,MAT8547,Engenharia
+Carlos,MAT3067,Engenharia
+João,MAT5804,Administração
+Carlos,MAT3396,Engenharia
+Fernanda,MAT4090,Engenharia
+João,MAT5665,Economia
+Rafael,MAT8866,Engenharia
+Ana,MAT2170,Ciências da Computação
+Julia,MAT3235,Administração
+Carlos,MAT3781,Ciências da Computação
+João,MAT7328,Ciências da Computação
+João,MAT1316,Engenharia
+Julia,MAT7782,Economia
+Pedro,MAT2986,Engenharia
+Ana,MAT2025,Ciências da Computação
+Pedro,MAT6528,Administração
+Maria,MAT4036,Administração
+Fernanda,MAT9383,Medicina
+Julia,MAT4937,Economia
+Pedro,MAT2170,Administração
+Carlos,MAT7156,Economia
+Lucia,MAT8380,Economia
+João,MAT6628,Engenharia
+Fernanda,MAT8277,Administração
+Lucia,MAT6760,Economia
+Rafael,MAT3450,Medicina
+Ana,MAT1519,Ciências da Computação
+Julia,MAT9305,Economia
+Maria,MAT1108,Administração
+Lucia,MAT2646,Economia
+Fernanda,MAT6734,Ciências da Computação
+Carlos,MAT5482,Engenharia
+João,MAT2584,Administração
+Fernanda,MAT7833,Administração
+Lucia,MAT4121,Administração
+Fernanda,MAT4959,Ciências da Computação
+Carlos,MAT4651,Ciências da Computação
+Pedro,MAT7979,Administração
+Maria,MAT7206,Engenharia
+Rafael,MAT5926,Medicina
+Gabriel,MAT5923,Administração
+Rafael,MAT5564,Ciências da Computação
+Maria,MAT8216,Medicina
+Fernanda,MAT4255,Ciências da Computação
+Pedro,MAT1864,Economia
+João,MAT5849,Medicina
+Julia,MAT3342,Economia
+Maria,MAT5268,Administração
+João,MAT6579,Economia
+Carlos,MAT8048,Engenharia
+Gabriel,MAT9213,Engenharia
+Gabriel,MAT9436,Engenharia
+Fernanda,MAT6123,Medicina
+Lucia,MAT1565,Ciências da Computação
+Pedro,MAT1084,Ciências da Computação
+Carlos,MAT1527,Medicina
+Pedro,MAT4955,Medicina
+Carlos,MAT6969,Ciências da Computação
+Fernanda,MAT8059,Medicina
+João,MAT4623,Engenharia
+Maria,MAT2985,Engenharia
+Pedro,MAT6151,Ciências da Computação
+Fernanda,MAT7434,Engenharia
+Ana,MAT2778,Economia
+Carlos,MAT1707,Engenharia
+Pedro,MAT8057,Administração
+Carlos,MAT4484,Medicina
+Ana,MAT7705,Administração
+Rafael,MAT1016,Medicina
+Maria,MAT5107,Ciências da Computação
+Julia,MAT5384,Medicina
+Carlos,MAT2419,Ciências da Computação
+João,MAT3714,Economia
+Carlos,MAT8042,Engenharia
+Maria,MAT9528,Engenharia
+Fernanda,MAT9858,Economia
+Julia,MAT1749,Engenharia
+Pedro,MAT3177,Administração
+Pedro,MAT3990,Engenharia
+Lucia,MAT1305,Administração
+Fernanda,MAT3015,Ciências da Computação
+Julia,MAT4565,Administração
+Carlos,MAT4155,Ciências da Computação
+Julia,MAT7709,Ciências da Computação
+Rafael,MAT1866,Economia
+Rafael,MAT4294,Engenharia
+Carlos,MAT1679,Engenharia
+Carlos,MAT1710,Medicina
+Julia,MAT7036,Economia
+Julia,MAT2655,Ciências da Computação
+Julia,MAT1107,Medicina
+Gabriel,MAT9085,Engenharia
+Pedro,MAT6494,Engenharia
+Gabriel,MAT9892,Economia
+João,MAT6470,Administração
+Julia,MAT7865,Engenharia
+Lucia,MAT3209,Economia
+João,MAT5636,Economia
+Gabriel,MAT8598,Medicina
+Gabriel,MAT8339,Medicina
+Lucia,MAT3223,Medicina
+João,MAT1048,Medicina
+Julia,MAT4787,Economia
+Maria,MAT3538,Economia
+Ana,MAT9670,Engenharia
+Maria,MAT4064,Ciências da Computação
+João,MAT1576,Administração
+Ana,MAT5911,Administração
+Pedro,MAT9309,Administração
+Carlos,MAT1281,Medicina
+Ana,MAT6169,Engenharia
+Julia,MAT2632,Engenharia
+Julia,MAT7469,Engenharia
+Pedro,MAT9942,Medicina
+Carlos,MAT1876,Administração
+Carlos,MAT1976,Ciências da Computação
+Julia,MAT8458,Economia
+João,MAT5078,Ciências da Computação
+Gabriel,MAT9600,Economia
+Maria,MAT7005,Economia
+Ana,MAT4113,Administração
+João,MAT8061,Engenharia
+Lucia,MAT1038,Medicina
+Rafael,MAT9387,Medicina
+Maria,MAT2395,Administração
+Pedro,MAT9406,Engenharia
+Gabriel,MAT7152,Engenharia
+Lucia,MAT8103,Administração
+Lucia,MAT8467,Economia
+Julia,MAT2294,Ciências da Computação
+Julia,MAT1270,Ciências da Computação
+Fernanda,MAT2445,Engenharia
+João,MAT9723,Economia
+Lucia,MAT4894,Medicina
+Lucia,MAT8795,Engenharia
+Julia,MAT4490,Medicina
+Pedro,MAT2791,Engenharia
+Rafael,MAT4200,Engenharia
+Pedro,MAT3988,Administração
+Julia,MAT7371,Ciências da Computação
+Fernanda,MAT9418,Administração
+Ana,MAT6979,Engenharia
+Fernanda,MAT5864,Administração
+Maria,MAT1350,Administração
+Pedro,MAT6415,Administração
+Lucia,MAT4735,Engenharia
+Julia,MAT4565,Medicina
+Rafael,MAT3633,Engenharia
+Lucia,MAT7937,Administração
+Maria,MAT5893,Engenharia
+Julia,MAT7301,Administração
+Fernanda,MAT1957,Medicina
+Carlos,MAT4208,Engenharia
+Ana,MAT5679,Administração
+Rafael,MAT2930,Ciências da Computação
+Gabriel,MAT4322,Engenharia
+Julia,MAT9560,Ciências da Computação
+Pedro,MAT8201,Engenharia
+Pedro,MAT6220,Administração
+Rafael,MAT7239,Medicina
+Gabriel,MAT3201,Administração
+Gabriel,MAT5709,Engenharia
+Fernanda,MAT9136,Administração
+Carlos,MAT8641,Administração
+Fernanda,MAT9901,Engenharia
+Gabriel,MAT3852,Engenharia
+Carlos,MAT4124,Administração
+Maria,MAT4341,Medicina
+Fernanda,MAT8617,Administração
+Julia,MAT4007,Administração
+Fernanda,MAT8022,Ciências da Computação
+Rafael,MAT4547,Engenharia
+Pedro,MAT4303,Engenharia
+Lucia,MAT5932,Administração
+Maria,MAT4457,Medicina
+Julia,MAT3186,Medicina
+Pedro,MAT1624,Economia
+Ana,MAT2967,Medicina
+Pedro,MAT2855,Engenharia
+Carlos,MAT2654,Engenharia
+Pedro,MAT6189,Administração
+Ana,MAT9816,Engenharia
+Lucia,MAT6794,Engenharia
+Ana,MAT1643,Ciências da Computação
+Fernanda,MAT4789,Ciências da Computação
+Pedro,MAT4507,Ciências da Computação
+Gabriel,MAT6077,Ciências da Computação
+Ana,MAT9485,Medicina
+Maria,MAT9670,Medicina
+Pedro,MAT1501,Economia
+Ana,MAT1516,Administração
+Fernanda,MAT6466,Ciências da Computação
+Pedro,MAT2380,Ciências da Computação
+Rafael,MAT4447,Medicina
+Lucia,MAT4549,Administração
+Lucia,MAT3889,Administração
+João,MAT6348,Economia
+Rafael,MAT1248,Ciências da Computação
+Maria,MAT4830,Ciências da Computação
+Pedro,MAT2195,Economia
+João,MAT9909,Medicina
+Rafael,MAT2907,Economia
+Maria,MAT4484,Engenharia
+Fernanda,MAT1685,Economia
+Gabriel,MAT9282,Medicina
+Fernanda,MAT3342,Medicina
+Julia,MAT3625,Economia
+Pedro,MAT3402,Ciências da Computação
+Maria,MAT8234,Ciências da Computação
+Gabriel,MAT6731,Medicina
+Ana,MAT3460,Administração
+Maria,MAT7539,Engenharia
+Julia,MAT8857,Ciências da Computação
+Carlos,MAT9670,Economia
+Pedro,MAT3735,Engenharia
+Ana,MAT9308,Economia
+Pedro,MAT9805,Ciências da Computação
+Lucia,MAT8323,Ciências da Computação
+Ana,MAT1039,Ciências da Computação
+Carlos,MAT5183,Administração
+Lucia,MAT2965,Engenharia
+Ana,MAT7547,Engenharia
+Fernanda,MAT7690,Economia
+João,MAT3216,Engenharia
+Julia,MAT3882,Economia
+Carlos,MAT3421,Medicina
+Carlos,MAT5391,Engenharia
+Fernanda,MAT5420,Ciências da Computação
+Lucia,MAT6820,Engenharia
+Carlos,MAT9370,Medicina
+Rafael,MAT3758,Engenharia
+Rafael,MAT3210,Engenharia
+Pedro,MAT2183,Ciências da Computação
+João,MAT7229,Economia
+Fernanda,MAT8422,Economia
+Fernanda,MAT4398,Medicina
+Gabriel,MAT6423,Administração
+Julia,MAT3207,Engenharia
+Rafael,MAT1009,Medicina
+Julia,MAT9769,Ciências da Computação
+Lucia,MAT6182,Economia
+Maria,MAT4176,Medicina
+Ana,MAT3628,Engenharia
+Lucia,MAT8312,Ciências da Computação
+João,MAT9767,Economia
+Rafael,MAT5315,Medicina
+Pedro,MAT9231,Medicina
+Maria,MAT6005,Medicina
+Julia,MAT8226,Engenharia
+Lucia,MAT2245,Economia
+Carlos,MAT2386,Medicina
+João,MAT3853,Administração
+Fernanda,MAT2533,Engenharia
+Ana,MAT4430,Medicina
+João,MAT8092,Economia
+Lucia,MAT7922,Engenharia
+Fernanda,MAT1989,Administração
+Rafael,MAT2503,Engenharia
+Rafael,MAT1074,Administração
+Ana,MAT7795,Ciências da Computação
+Julia,MAT1765,Economia
+Fernanda,MAT2582,Administração
+Gabriel,MAT1350,Administração
+Julia,MAT8874,Medicina
+Pedro,MAT1157,Administração
+João,MAT8942,Administração
+Julia,MAT3590,Engenharia
+Gabriel,MAT7128,Administração
+Lucia,MAT4735,Engenharia
+Maria,MAT8594,Medicina
+Ana,MAT4781,Ciências da Computação
+João,MAT6761,Administração
+Carlos,MAT8910,Administração
+Pedro,MAT8566,Medicina
+Fernanda,MAT7248,Medicina
+Julia,MAT2180,Administração
+João,MAT6818,Economia
+Maria,MAT5474,Administração
+Rafael,MAT5327,Medicina
+Lucia,MAT6771,Administração
+Pedro,MAT9764,Medicina
+Rafael,MAT9987,Engenharia
+Maria,MAT5219,Medicina
+Carlos,MAT4985,Medicina
+Gabriel,MAT8124,Economia
+Ana,MAT1681,Administração
+Fernanda,MAT9782,Ciências da Computação
+Maria,MAT6562,Ciências da Computação
+Fernanda,MAT5322,Medicina
+Rafael,MAT6523,Ciências da Computação
+Fernanda,MAT3965,Engenharia
+João,MAT7822,Administração
+João,MAT3613,Engenharia
+Rafael,MAT7239,Medicina
+Pedro,MAT8577,Engenharia
+Ana,MAT3312,Engenharia
+Carlos,MAT3535,Administração
+Pedro,MAT1820,Medicina
+Gabriel,MAT5282,Ciências da Computação
+Maria,MAT9685,Ciências da Computação
+Maria,MAT1422,Medicina
+Gabriel,MAT3974,Economia
+Lucia,MAT8754,Engenharia
+Rafael,MAT8533,Administração
+Julia,MAT3515,Administração
+Ana,MAT9410,Medicina
+Julia,MAT8922,Economia
+Carlos,MAT5854,Medicina
+Maria,MAT7045,Economia
+Ana,MAT1298,Administração
+Gabriel,MAT7412,Ciências da Computação
+Pedro,MAT6876,Engenharia
+Maria,MAT3057,Engenharia
+Maria,MAT5267,Medicina
+Ana,MAT2845,Economia
+Carlos,MAT1862,Medicina
+João,MAT7069,Medicina
+Maria,MAT9924,Engenharia
+Carlos,MAT9990,Ciências da Computação
+Lucia,MAT2876,Economia
+Lucia,MAT6232,Ciências da Computação
+Julia,MAT1354,Ciências da Computação
+Fernanda,MAT1774,Administração
+Maria,MAT9471,Medicina
+Carlos,MAT6920,Ciências da Computação
+Lucia,MAT4501,Engenharia
+Maria,MAT5361,Economia
+Rafael,MAT9063,Medicina
+Fernanda,MAT4081,Engenharia
+Maria,MAT8882,Engenharia
+Maria,MAT3547,Ciências da Computação
+Fernanda,MAT5942,Ciências da Computação
+Carlos,MAT2890,Engenharia
+Fernanda,MAT5453,Ciências da Computação
+Lucia,MAT5959,Ciências da Computação
+Ana,MAT7008,Medicina
+Julia,MAT5310,Ciências da Computação
+Fernanda,MAT3472,Economia
+Lucia,MAT3133,Administração
+Ana,MAT3703,Ciências da Computação
+João,MAT2088,Medicina
+Pedro,MAT6390,Economia
+Lucia,MAT5497,Medicina
+Maria,MAT3527,Administração
+Julia,MAT9937,Administração
+Gabriel,MAT3596,Medicina
+Ana,MAT3245,Engenharia
+Julia,MAT6125,Engenharia
+Gabriel,MAT4203,Engenharia
+Carlos,MAT3542,Administração
+Julia,MAT6691,Ciências da Computação
+Lucia,MAT4743,Engenharia
+Gabriel,MAT2720,Engenharia
+Maria,MAT2762,Ciências da Computação
+Fernanda,MAT3906,Medicina
+João,MAT1986,Medicina
+Ana,MAT7951,Medicina
+Fernanda,MAT5854,Medicina
+Ana,MAT6080,Economia
+Ana,MAT9129,Ciências da Computação
+Carlos,MAT7455,Administração
+Pedro,MAT9314,Administração
+Julia,MAT7981,Administração
+Maria,MAT8931,Medicina
+Rafael,MAT3207,Administração
+Rafael,MAT4180,Administração
+Maria,MAT4192,Engenharia
+Carlos,MAT1543,Administração
+Gabriel,MAT9583,Medicina
+Pedro,MAT2007,Administração
+Maria,MAT2093,Administração
+Rafael,MAT6198,Ciências da Computação
+Ana,MAT7558,Engenharia
+Fernanda,MAT4185,Medicina
+Carlos,MAT7775,Engenharia
+Pedro,MAT7457,Economia
+Rafael,MAT6797,Engenharia
+Fernanda,MAT9646,Administração
+Julia,MAT5474,Administração
+Ana,MAT7541,Economia
+Lucia,MAT4663,Economia
+Rafael,MAT4320,Ciências da Computação
+João,MAT7544,Administração
+Carlos,MAT6817,Engenharia
+Carlos,MAT9754,Economia
+Carlos,MAT5283,Medicina
+Ana,MAT1170,Engenharia
+Ana,MAT5686,Engenharia
+Julia,MAT2783,Medicina
+Lucia,MAT9427,Engenharia
+Fernanda,MAT4198,Economia
+Julia,MAT4641,Economia
+Gabriel,MAT4524,Engenharia
+Ana,MAT6875,Engenharia
+Rafael,MAT2221,Administração
+Pedro,MAT3010,Administração
+Ana,MAT1044,Administração
+João,MAT2419,Engenharia
+Gabriel,MAT8810,Administração
+Gabriel,MAT1172,Administração
+João,MAT9672,Administração
+Ana,MAT5138,Ciências da Computação
+Lucia,MAT7036,Administração
+Julia,MAT7550,Economia
+Lucia,MAT4645,Engenharia
+João,MAT7480,Administração
+João,MAT9304,Economia
+Ana,MAT8667,Engenharia
+Carlos,MAT5726,Ciências da Computação
+Julia,MAT8340,Medicina
+Carlos,MAT4638,Medicina
+Lucia,MAT5211,Engenharia
+Lucia,MAT4049,Ciências da Computação
+Fernanda,MAT3340,Administração
+Maria,MAT1658,Administração
+Pedro,MAT5734,Medicina
+Maria,MAT4109,Ciências da Computação
+Maria,MAT1419,Ciências da Computação
+Carlos,MAT2660,Administração
+Rafael,MAT7253,Medicina
+Gabriel,MAT7807,Engenharia
+Rafael,MAT1390,Economia
+Rafael,MAT3003,Administração
+Ana,MAT1496,Medicina
+Lucia,MAT1233,Medicina
+Rafael,MAT6184,Economia
+Lucia,MAT7456,Administração
+Gabriel,MAT5218,Ciências da Computação
+Julia,MAT6464,Administração
+Rafael,MAT8536,Ciências da Computação
+Gabriel,MAT4739,Administração
+Gabriel,MAT2245,Ciências da Computação
+João,MAT4684,Administração
+Gabriel,MAT1439,Administração
+Gabriel,MAT4930,Ciências da Computação
+Lucia,MAT3272,Administração
+Ana,MAT9081,Engenharia
+Maria,MAT4872,Medicina
+Gabriel,MAT5878,Engenharia
+Pedro,MAT2955,Ciências da Computação
+Lucia,MAT8462,Engenharia
+Gabriel,MAT8045,Ciências da Computação
+Julia,MAT9884,Ciências da Computação
+Pedro,MAT2464,Medicina
+Maria,MAT6640,Engenharia
+Julia,MAT3503,Ciências da Computação
+João,MAT5199,Administração
+Maria,MAT4031,Medicina
+Fernanda,MAT3159,Medicina
+Lucia,MAT9317,Administração
+Carlos,MAT4822,Administração
+João,MAT1891,Engenharia
+Maria,MAT2878,Medicina
+Ana,MAT9563,Ciências da Computação
+Lucia,MAT3857,Medicina
+Pedro,MAT4179,Economia
+Fernanda,MAT8630,Medicina
+João,MAT4859,Administração
+Fernanda,MAT5941,Economia
+Carlos,MAT6743,Medicina
+Ana,MAT1469,Ciências da Computação
+Gabriel,MAT5601,Administração
+Lucia,MAT1689,Ciências da Computação
+Lucia,MAT6749,Medicina
+Gabriel,MAT7463,Administração
+Fernanda,MAT5427,Administração
+Rafael,MAT6706,Administração
+Maria,MAT1953,Economia
+Pedro,MAT1697,Ciências da Computação
+Ana,MAT6147,Medicina
+Ana,MAT2696,Ciências da Computação
+João,MAT9644,Engenharia
+Julia,MAT7010,Medicina
+Gabriel,MAT1242,Medicina
+Gabriel,MAT2519,Engenharia
+Gabriel,MAT3987,Engenharia
+Rafael,MAT8888,Administração
+João,MAT4664,Economia
+João,MAT3329,Medicina
+Maria,MAT7658,Administração
+Julia,MAT4357,Ciências da Computação
+Gabriel,MAT4622,Ciências da Computação
+Julia,MAT4506,Administração
+Pedro,MAT9865,Engenharia
+Pedro,MAT9968,Medicina
+Rafael,MAT5177,Ciências da Computação
+Rafael,MAT2712,Engenharia
+Maria,MAT9341,Ciências da Computação
+Maria,MAT6322,Economia
+Rafael,MAT2911,Medicina
+Carlos,MAT9259,Administração
+Julia,MAT2769,Engenharia
+Rafael,MAT9846,Engenharia
+Ana,MAT1904,Medicina
+João,MAT7314,Ciências da Computação
+Pedro,MAT4144,Engenharia
+Maria,MAT8111,Ciências da Computação
+Carlos,MAT7316,Engenharia
+Carlos,MAT9252,Medicina
+Gabriel,MAT1131,Medicina
+João,MAT6906,Medicina
+Maria,MAT6982,Economia
+Pedro,MAT2683,Administração
+Gabriel,MAT4026,Economia
+Pedro,MAT9679,Ciências da Computação
+Carlos,MAT3581,Ciências da Computação
+Pedro,MAT6567,Engenharia
+Carlos,MAT7135,Economia
+Ana,MAT4560,Economia
+Julia,MAT6859,Engenharia
+Gabriel,MAT4740,Economia
+Rafael,MAT3398,Ciências da Computação
+Julia,MAT2234,Administração
+Carlos,MAT1464,Ciências da Computação
+Ana,MAT2825,Administração
+Gabriel,MAT2200,Administração
+Pedro,MAT7356,Medicina
+Maria,MAT3368,Engenharia
+Maria,MAT8099,Medicina
+João,MAT7672,Administração
+Fernanda,MAT4151,Medicina
+Gabriel,MAT9620,Administração
+Fernanda,MAT7017,Ciências da Computação
+Fernanda,MAT7831,Administração
+Fernanda,MAT1596,Medicina
+Rafael,MAT5503,Administração
+Rafael,MAT4706,Medicina
+Gabriel,MAT8634,Engenharia
+Pedro,MAT2537,Ciências da Computação
+Rafael,MAT7295,Medicina
+Maria,MAT6962,Medicina
+Ana,MAT4203,Administração
+Fernanda,MAT2748,Economia
+Gabriel,MAT7805,Administração
+João,MAT4067,Ciências da Computação
+Pedro,MAT5865,Medicina
+Fernanda,MAT2902,Economia
+Fernanda,MAT7133,Ciências da Computação
+Rafael,MAT4853,Medicina
+Pedro,MAT3355,Economia
+Lucia,MAT4868,Administração
+Lucia,MAT5586,Medicina
+Carlos,MAT6202,Administração
+Ana,MAT3788,Economia
+Lucia,MAT9328,Engenharia
+Lucia,MAT2438,Ciências da Computação
+Maria,MAT9174,Medicina
+João,MAT1548,Economia
+Julia,MAT5296,Administração
+Maria,MAT4409,Ciências da Computação
+Ana,MAT1798,Medicina
+Ana,MAT9405,Economia
+Ana,MAT1194,Ciências da Computação
+João,MAT2902,Ciências da Computação
+Rafael,MAT7162,Medicina
+Julia,MAT3326,Medicina
+Lucia,MAT4926,Ciências da Computação
+Ana,MAT5499,Engenharia
+Lucia,MAT6938,Economia
+Julia,MAT3133,Administração
+Lucia,MAT1300,Engenharia
+Lucia,MAT5211,Administração
+Pedro,MAT7163,Ciências da Computação
+Rafael,MAT3902,Economia
+Fernanda,MAT5387,Administração
+Gabriel,MAT3469,Engenharia
+Ana,MAT7550,Medicina
+Maria,MAT8899,Engenharia
+Fernanda,MAT3014,Ciências da Computação
+Julia,MAT9353,Administração
+Rafael,MAT6103,Ciências da Computação
+Fernanda,MAT4037,Ciências da Computação
+Maria,MAT5481,Engenharia
+João,MAT8469,Medicina
+Pedro,MAT2285,Administração
+Lucia,MAT8439,Economia
+Carlos,MAT1078,Economia
+Maria,MAT1907,Administração
+Ana,MAT8765,Administração
+Maria,MAT5306,Engenharia
+Pedro,MAT9303,Ciências da Computação
+Rafael,MAT6203,Engenharia
+Pedro,MAT4701,Medicina
+Carlos,MAT4108,Medicina
+Julia,MAT6857,Administração
+Ana,MAT3937,Engenharia
+Gabriel,MAT4599,Economia
+Lucia,MAT1970,Economia
+Lucia,MAT1122,Engenharia
+Carlos,MAT3082,Ciências da Computação
+João,MAT8000,Economia
+Pedro,MAT5240,Economia
+Julia,MAT7088,Ciências da Computação
+Ana,MAT8442,Administração
+Carlos,MAT8573,Engenharia
+Carlos,MAT3165,Administração
+Rafael,MAT1466,Administração
+Maria,MAT5348,Economia
+João,MAT1316,Economia
+Gabriel,MAT1930,Engenharia
+João,MAT3772,Ciências da Computação
+Gabriel,MAT8650,Administração
+Ana,MAT1821,Medicina
+Ana,MAT9865,Ciências da Computação
+Ana,MAT7914,Ciências da Computação
+Pedro,MAT8818,Ciências da Computação
+Carlos,MAT2106,Medicina
+Gabriel,MAT1371,Engenharia
+Maria,MAT8268,Administração
+Carlos,MAT8351,Administração
+João,MAT5234,Medicina
+Lucia,MAT1720,Economia
+Gabriel,MAT2776,Engenharia
+João,MAT6042,Economia
+Rafael,MAT5358,Engenharia
+Julia,MAT9031,Ciências da Computação
+Gabriel,MAT7107,Ciências da Computação
+Fernanda,MAT1208,Engenharia
+Pedro,MAT9987,Ciências da Computação
+Rafael,MAT7552,Economia
+Gabriel,MAT8944,Engenharia
+Pedro,MAT6982,Economia
+Ana,MAT9025,Ciências da Computação
+Maria,MAT2200,Ciências da Computação
+Pedro,MAT7692,Economia
+Ana,MAT2879,Medicina
+Julia,MAT6860,Administração
+Gabriel,MAT6988,Engenharia
+Maria,MAT8989,Administração
+Fernanda,MAT8702,Economia
+João,MAT8642,Medicina
+Maria,MAT6468,Medicina
+Lucia,MAT4466,Ciências da Computação
+Rafael,MAT6508,Medicina
+Fernanda,MAT5283,Medicina
+Lucia,MAT5719,Engenharia
+Gabriel,MAT8963,Engenharia
+Julia,MAT3213,Administração
+Fernanda,MAT6878,Administração
+Gabriel,MAT5879,Medicina
+Gabriel,MAT2934,Medicina
+Gabriel,MAT9755,Economia
+Ana,MAT3178,Medicina
+João,MAT9100,Economia
+Carlos,MAT6626,Economia
+Carlos,MAT2595,Engenharia
+Julia,MAT2958,Administração
+Ana,MAT5135,Medicina
+Ana,MAT5095,Ciências da Computação
+João,MAT1774,Engenharia
+Carlos,MAT8198,Economia
+João,MAT4680,Economia
+Fernanda,MAT9862,Administração
+Ana,MAT3419,Economia
+Maria,MAT2323,Ciências da Computação
+Gabriel,MAT8987,Engenharia
+João,MAT7569,Medicina
+Carlos,MAT7182,Medicina
+Ana,MAT9219,Ciências da Computação
+Rafael,MAT9588,Ciências da Computação
+João,MAT2427,Ciências da Computação
+Rafael,MAT3359,Medicina
+Pedro,MAT8905,Medicina
+Gabriel,MAT5235,Economia
+Maria,MAT5665,Medicina
+Carlos,MAT6320,Engenharia
+Carlos,MAT2474,Medicina
+Rafael,MAT6584,Engenharia
+João,MAT5992,Administração
+Ana,MAT4726,Ciências da Computação
+Maria,MAT1768,Engenharia
+Carlos,MAT6304,Economia
+Rafael,MAT9071,Engenharia
+Ana,MAT9375,Ciências da Computação
+Maria,MAT5571,Administração
+Gabriel,MAT2313,Engenharia
+Lucia,MAT4411,Medicina
+Pedro,MAT6236,Engenharia
+João,MAT9179,Medicina
+Lucia,MAT8256,Economia
+Rafael,MAT8703,Medicina
+Pedro,MAT3716,Engenharia
+Maria,MAT7946,Medicina
+Fernanda,MAT5040,Medicina
+Rafael,MAT3097,Economia
+Ana,MAT2495,Economia
+João,MAT6316,Medicina
+Carlos,MAT7726,Administração
+Fernanda,MAT5092,Engenharia
+Fernanda,MAT1828,Engenharia
+Ana,MAT6612,Medicina
+Julia,MAT9396,Ciências da Computação
+Lucia,MAT2276,Medicina
+Maria,MAT1807,Ciências da Computação
+Ana,MAT8906,Administração
+Rafael,MAT2595,Medicina
+Pedro,MAT8707,Ciências da Computação
+João,MAT3437,Engenharia
+Maria,MAT7802,Engenharia
+Lucia,MAT4661,Economia
+Ana,MAT3532,Economia
+Lucia,MAT2467,Engenharia
+Rafael,MAT3733,Administração
+Julia,MAT3028,Ciências da Computação
+Lucia,MAT3734,Ciências da Computação
+Ana,MAT9956,Economia
+Lucia,MAT8564,Ciências da Computação
+Carlos,MAT2764,Administração
+Julia,MAT4318,Administração
+Fernanda,MAT9850,Administração
+Ana,MAT8235,Engenharia
+Maria,MAT2833,Medicina
+Carlos,MAT1202,Medicina
+João,MAT4273,Ciências da Computação
+Julia,MAT8970,Economia
+Ana,MAT5739,Ciências da Computação
+Rafael,MAT1249,Medicina
+Lucia,MAT3200,Administração
+Ana,MAT7179,Medicina
+Julia,MAT7341,Economia
+Lucia,MAT1859,Ciências da Computação
+Pedro,MAT7289,Administração
+Rafael,MAT1508,Administração
+Pedro,MAT9776,Ciências da Computação
+João,MAT2905,Engenharia
+João,MAT6162,Medicina
+Lucia,MAT2430,Engenharia
+Julia,MAT9478,Economia
+Julia,MAT9007,Medicina
+Maria,MAT1444,Administração
+Gabriel,MAT6917,Ciências da Computação
+Pedro,MAT1539,Engenharia
+Fernanda,MAT7511,Medicina
+Ana,MAT5211,Medicina
+Carlos,MAT6345,Engenharia
+Gabriel,MAT7391,Medicina
+Gabriel,MAT5236,Medicina
+Fernanda,MAT7647,Medicina
+Fernanda,MAT3589,Medicina
+Maria,MAT7941,Medicina
+João,MAT5652,Engenharia
+Julia,MAT8627,Economia
+Lucia,MAT1415,Economia
+Julia,MAT8297,Ciências da Computação
+Pedro,MAT8902,Economia
+Rafael,MAT1996,Economia
+Maria,MAT4002,Administração
+Ana,MAT3586,Economia
+Rafael,MAT1975,Ciências da Computação
+Rafael,MAT4178,Ciências da Computação
+Maria,MAT9771,Medicina
+Julia,MAT8977,Administração
+Ana,MAT1143,Administração
+Gabriel,MAT7161,Ciências da Computação
+Carlos,MAT1155,Economia
+Lucia,MAT6845,Economia
+João,MAT6568,Administração
+Rafael,MAT9801,Economia
+Rafael,MAT3911,Engenharia
+Pedro,MAT7437,Ciências da Computação
+Gabriel,MAT6575,Engenharia
+Carlos,MAT3378,Ciências da Computação
+João,MAT3842,Economia
+Carlos,MAT1473,Medicina
+Fernanda,MAT6188,Ciências da Computação
+Ana,MAT4824,Medicina
+Fernanda,MAT9271,Ciências da Computação
+Maria,MAT5003,Economia
+Maria,MAT7031,Economia
+Gabriel,MAT7019,Engenharia
+Carlos,MAT4352,Administração
+Lucia,MAT9953,Economia
+Lucia,MAT8977,Administração
+Pedro,MAT8335,Administração
+João,MAT9421,Ciências da Computação
+Maria,MAT7235,Ciências da Computação
+Maria,MAT6273,Ciências da Computação
+Julia,MAT3895,Medicina
+João,MAT6252,Medicina
+Rafael,MAT6562,Medicina
+Pedro,MAT3596,Ciências da Computação
+Ana,MAT6656,Economia
+Lucia,MAT1465,Medicina
+Gabriel,MAT9915,Ciências da Computação
+João,MAT6263,Medicina
+Carlos,MAT2906,Administração
+Gabriel,MAT9530,Engenharia
+Maria,MAT4090,Economia
+Carlos,MAT5366,Ciências da Computação
+Fernanda,MAT5716,Economia
+Carlos,MAT7646,Economia
+Maria,MAT2205,Ciências da Computação
+Lucia,MAT1647,Medicina
+Julia,MAT8915,Economia
+João,MAT1835,Administração
+João,MAT8645,Engenharia
+Fernanda,MAT7422,Administração
+Lucia,MAT7211,Medicina
+Rafael,MAT5178,Administração
+Gabriel,MAT6236,Engenharia
+Lucia,MAT8296,Medicina
+João,MAT6515,Medicina
+Gabriel,MAT1395,Administração
+Maria,MAT2508,Engenharia
+Julia,MAT8763,Ciências da Computação
+Ana,MAT7937,Engenharia
+Fernanda,MAT4501,Medicina
+Julia,MAT2568,Administração
+Lucia,MAT5693,Ciências da Computação
+Rafael,MAT2129,Administração
+Gabriel,MAT5237,Engenharia
+Maria,MAT6155,Engenharia
+Fernanda,MAT9671,Economia
+Lucia,MAT1586,Administração
+Pedro,MAT2846,Ciências da Computação
+Pedro,MAT3895,Economia
+João,MAT8222,Engenharia
+Fernanda,MAT3104,Medicina
+Fernanda,MAT2153,Administração
+Rafael,MAT9871,Administração
+Maria,MAT2450,Engenharia
+Maria,MAT7202,Economia
+Maria,MAT5158,Ciências da Computação
+João,MAT2071,Economia
+Rafael,MAT2790,Ciências da Computação
+Pedro,MAT4124,Administração
+Gabriel,MAT3828,Medicina
+João,MAT4675,Ciências da Computação
+Carlos,MAT3202,Engenharia
+Fernanda,MAT1309,Economia
+João,MAT9100,Engenharia
+Rafael,MAT7301,Administração
+Lucia,MAT4296,Medicina
+Gabriel,MAT4605,Engenharia
+Lucia,MAT5727,Engenharia
+Pedro,MAT6287,Ciências da Computação
+Maria,MAT5992,Administração
+Maria,MAT6599,Economia
+Lucia,MAT2714,Administração
+Maria,MAT5495,Engenharia
+Gabriel,MAT3196,Economia
+Gabriel,MAT1156,Ciências da Computação
+Rafael,MAT3888,Administração
+Fernanda,MAT2434,Ciências da Computação
+Maria,MAT5622,Ciências da Computação
+Lucia,MAT3743,Administração
+Rafael,MAT8627,Engenharia
+Lucia,MAT8948,Ciências da Computação
+Lucia,MAT4884,Administração
+João,MAT2421,Medicina
+João,MAT7166,Administração
+Maria,MAT2343,Medicina
+Maria,MAT5743,Administração
+João,MAT1926,Ciências da Computação
+Gabriel,MAT5564,Medicina
+Lucia,MAT9086,Engenharia
+Maria,MAT6524,Economia
+Fernanda,MAT2033,Engenharia
+Maria,MAT4244,Ciências da Computação
+Julia,MAT7116,Economia
+Fernanda,MAT8612,Ciências da Computação
+Ana,MAT6370,Engenharia
+Rafael,MAT3398,Medicina
+Pedro,MAT1527,Economia
+João,MAT1553,Economia
+Ana,MAT3125,Economia
+Ana,MAT5410,Medicina
+Gabriel,MAT8225,Economia
+Rafael,MAT1637,Economia
+Ana,MAT3768,Ciências da Computação
+Gabriel,MAT5510,Engenharia
+Carlos,MAT3583,Medicina
+Carlos,MAT1212,Ciências da Computação
+Maria,MAT5997,Economia
+Lucia,MAT7941,Economia
+Julia,MAT8928,Ciências da Computação
+Gabriel,MAT3002,Economia
+Fernanda,MAT6866,Engenharia
+João,MAT8075,Ciências da Computação
+João,MAT4415,Ciências da Computação
+Rafael,MAT8398,Economia
+Rafael,MAT7856,Economia
+Carlos,MAT3973,Medicina
+Ana,MAT7928,Medicina
+Lucia,MAT6945,Economia
+João,MAT8165,Ciências da Computação
+Lucia,MAT5773,Administração
+Fernanda,MAT9562,Medicina
+João,MAT9065,Medicina
+Maria,MAT5216,Economia
+Pedro,MAT5573,Engenharia
+Lucia,MAT7652,Medicina
+Ana,MAT3003,Engenharia
+João,MAT9731,Engenharia
+Fernanda,MAT1117,Economia
+Julia,MAT1894,Engenharia
+Maria,MAT9863,Engenharia
+Julia,MAT5193,Medicina
+Julia,MAT7806,Medicina
+Pedro,MAT8183,Administração
+Lucia,MAT3296,Medicina
+Carlos,MAT6501,Administração
+Gabriel,MAT5489,Engenharia
+Lucia,MAT9296,Economia
+Carlos,MAT6557,Medicina
+Carlos,MAT3801,Economia
+Rafael,MAT3401,Engenharia
+Carlos,MAT1065,Economia
+Maria,MAT2481,Engenharia
+Rafael,MAT9739,Administração
+Carlos,MAT2951,Ciências da Computação
+Lucia,MAT7768,Ciências da Computação
+Carlos,MAT7353,Economia
+João,MAT2182,Medicina
+Julia,MAT4183,Medicina
+Maria,MAT4711,Economia
+Fernanda,MAT3458,Administração
+Pedro,MAT5059,Ciências da Computação
+Fernanda,MAT4694,Administração
+Julia,MAT3626,Engenharia
+Gabriel,MAT5421,Engenharia
+Pedro,MAT5391,Administração
+Ana,MAT2339,Administração
+João,MAT4988,Medicina
+Maria,MAT3548,Ciências da Computação
+Gabriel,MAT5673,Medicina
+Carlos,MAT8270,Administração
+Fernanda,MAT7125,Medicina
+Pedro,MAT1006,Engenharia
+Julia,MAT7296,Medicina
+Ana,MAT6806,Medicina
+João,MAT3809,Economia
+Lucia,MAT7740,Engenharia
+Lucia,MAT2572,Engenharia
+Rafael,MAT5302,Ciências da Computação
+Lucia,MAT6019,Economia
+Maria,MAT3663,Economia
+Pedro,MAT8536,Economia
+Fernanda,MAT5808,Medicina
+Lucia,MAT5283,Economia
+Ana,MAT7732,Economia
+João,MAT4982,Medicina
+Fernanda,MAT8604,Engenharia
+Fernanda,MAT8636,Economia
+Ana,MAT8941,Medicina
+João,MAT5444,Economia
+Lucia,MAT3804,Economia
+João,MAT8336,Administração
+Julia,MAT7105,Administração
+Julia,MAT7801,Administração
+Ana,MAT8312,Economia
+Pedro,MAT5454,Engenharia
+Ana,MAT9363,Administração
+Fernanda,MAT4704,Medicina
+Fernanda,MAT5701,Administração
+Julia,MAT8116,Economia
+Ana,MAT3487,Ciências da Computação
+Fernanda,MAT2317,Ciências da Computação
+Pedro,MAT9016,Engenharia
+Rafael,MAT4926,Engenharia
+Lucia,MAT2509,Medicina
+Maria,MAT4289,Medicina
+Lucia,MAT7858,Ciências da Computação
+Fernanda,MAT4409,Engenharia
+Fernanda,MAT8823,Administração
+Ana,MAT7213,Medicina
+Julia,MAT3653,Administração
+Pedro,MAT1723,Administração
+Fernanda,MAT4832,Medicina
+Maria,MAT5705,Engenharia
+Gabriel,MAT6493,Medicina
+Ana,MAT2492,Engenharia
+Rafael,MAT2770,Administração
+Ana,MAT5994,Engenharia
+Maria,MAT6159,Engenharia
+Julia,MAT7132,Engenharia
+Maria,MAT8192,Engenharia
+Ana,MAT8252,Administração
+Rafael,MAT3097,Economia
+Rafael,MAT4985,Engenharia
+Maria,MAT7739,Economia
+Rafael,MAT8331,Administração
+Carlos,MAT8645,Ciências da Computação
+Julia,MAT4251,Ciências da Computação
+Pedro,MAT3941,Economia
+Lucia,MAT8392,Administração
+Fernanda,MAT6871,Ciências da Computação
+Pedro,MAT9965,Engenharia
+Julia,MAT1669,Ciências da Computação
+Ana,MAT9078,Economia
+Gabriel,MAT7598,Medicina
+Pedro,MAT2929,Administração
+Maria,MAT8714,Ciências da Computação
+Carlos,MAT3795,Ciências da Computação
+Fernanda,MAT9581,Medicina
+João,MAT1322,Engenharia
+Lucia,MAT5918,Economia
+Lucia,MAT7716,Engenharia
+Ana,MAT1832,Economia
+Ana,MAT1057,Ciências da Computação
+Pedro,MAT5198,Economia
+Fernanda,MAT3209,Engenharia
+João,MAT4867,Medicina
+Fernanda,MAT2549,Ciências da Computação
+Ana,MAT7543,Engenharia
+Pedro,MAT4424,Ciências da Computação
+Rafael,MAT7650,Ciências da Computação
+Carlos,MAT1882,Administração
+Gabriel,MAT3196,Administração
+Rafael,MAT3459,Administração
+Rafael,MAT4731,Engenharia
+João,MAT9751,Administração
+Ana,MAT1133,Economia
+Maria,MAT5674,Engenharia
+Lucia,MAT9255,Medicina
+Maria,MAT8260,Economia
+Gabriel,MAT7976,Ciências da Computação
+Ana,MAT9183,Ciências da Computação
+Pedro,MAT4086,Ciências da Computação
+Fernanda,MAT5629,Medicina
+Fernanda,MAT6245,Economia
+Carlos,MAT7852,Medicina
+Gabriel,MAT8091,Administração
+Rafael,MAT6291,Economia
+Carlos,MAT3984,Ciências da Computação
+Rafael,MAT6846,Administração
+Gabriel,MAT7856,Ciências da Computação
+Julia,MAT4206,Medicina
+Lucia,MAT6832,Ciências da Computação
+Carlos,MAT7996,Engenharia
+Ana,MAT5181,Medicina
+Fernanda,MAT5922,Medicina
+Gabriel,MAT9995,Ciências da Computação
+Maria,MAT8557,Engenharia
+Carlos,MAT4322,Ciências da Computação
+Julia,MAT7252,Engenharia
+Fernanda,MAT9183,Administração
+Julia,MAT5323,Medicina
+João,MAT5738,Economia
+Lucia,MAT7290,Economia
+Rafael,MAT1808,Engenharia
+Carlos,MAT8257,Administração
+Gabriel,MAT5690,Ciências da Computação
+Lucia,MAT1555,Administração
+Maria,MAT9812,Ciências da Computação
+Ana,MAT7375,Ciências da Computação
+João,MAT6720,Engenharia
+João,MAT3422,Ciências da Computação
+Julia,MAT9899,Engenharia
+Maria,MAT7487,Medicina
+João,MAT7017,Ciências da Computação
+Pedro,MAT6965,Engenharia
+Maria,MAT8827,Administração
+Julia,MAT7470,Ciências da Computação
+Pedro,MAT6618,Medicina
+João,MAT1028,Economia
+Julia,MAT6345,Ciências da Computação
+Rafael,MAT7719,Engenharia
+Rafael,MAT1393,Medicina
+Gabriel,MAT1909,Ciências da Computação
+Ana,MAT7334,Economia
+Maria,MAT9335,Administração
+Ana,MAT9490,Engenharia
+Ana,MAT3954,Medicina
+Maria,MAT7987,Administração
+Maria,MAT8598,Engenharia
+Carlos,MAT2557,Administração
+Julia,MAT9443,Administração
+Rafael,MAT3142,Medicina
+Carlos,MAT9762,Medicina
+Lucia,MAT2206,Administração
+Rafael,MAT3133,Medicina
+Rafael,MAT2080,Medicina
+Pedro,MAT8809,Economia
+Carlos,MAT9148,Engenharia
+Ana,MAT5401,Medicina
+Rafael,MAT3521,Economia
+Pedro,MAT4623,Medicina
+Maria,MAT1495,Economia
+Rafael,MAT1794,Medicina
+Ana,MAT1518,Engenharia
+Carlos,MAT4057,Engenharia
+Gabriel,MAT9494,Administração
+Ana,MAT1212,Medicina
+Gabriel,MAT4970,Administração
+Pedro,MAT5805,Ciências da Computação
+Carlos,MAT8336,Administração
+Carlos,MAT1371,Engenharia
+Fernanda,MAT9559,Medicina
+João,MAT5474,Administração
+Maria,MAT2907,Engenharia
+Carlos,MAT7690,Administração
+Gabriel,MAT6620,Medicina
+Carlos,MAT5871,Ciências da Computação
+Carlos,MAT1987,Engenharia
+Lucia,MAT8450,Economia
+Fernanda,MAT5107,Economia
+João,MAT4446,Administração
+Rafael,MAT2620,Medicina
+Carlos,MAT5361,Administração
+Pedro,MAT3371,Ciências da Computação
+Gabriel,MAT6865,Administração
+Rafael,MAT3868,Economia
+João,MAT4959,Economia
+Maria,MAT7625,Medicina
+Pedro,MAT1307,Economia
+Rafael,MAT8217,Economia
+Gabriel,MAT2398,Medicina
+Carlos,MAT3494,Administração
+João,MAT8993,Administração
+Lucia,MAT7105,Economia
+Maria,MAT8130,Ciências da Computação
+Ana,MAT6610,Medicina
+Rafael,MAT9329,Ciências da Computação
+Ana,MAT1308,Engenharia
+João,MAT6778,Administração
+João,MAT4532,Administração
+Ana,MAT6827,Ciências da Computação
+João,MAT2356,Engenharia
+Maria,MAT2403,Medicina
+Julia,MAT1385,Administração
+Carlos,MAT9268,Economia
+Maria,MAT6171,Medicina
+Gabriel,MAT5017,Medicina
+Maria,MAT1899,Medicina
+João,MAT1525,Economia
+Gabriel,MAT8436,Engenharia
+Ana,MAT8402,Engenharia
+Maria,MAT1710,Engenharia
+Pedro,MAT3092,Engenharia
+Gabriel,MAT3943,Medicina
+Carlos,MAT9298,Engenharia
+Carlos,MAT6247,Ciências da Computação
+Pedro,MAT2115,Administração
+Maria,MAT2970,Ciências da Computação
+Rafael,MAT8813,Engenharia
+Lucia,MAT4270,Medicina
+Fernanda,MAT1170,Administração
+Fernanda,MAT9746,Administração
+João,MAT2060,Medicina
+Pedro,MAT9120,Engenharia
+Carlos,MAT8636,Engenharia
+Fernanda,MAT6034,Economia
+Pedro,MAT3877,Administração
+Maria,MAT5483,Economia
+João,MAT1408,Engenharia
+Rafael,MAT7033,Engenharia
+Maria,MAT6645,Ciências da Computação
+Ana,MAT5379,Engenharia
+Maria,MAT9280,Medicina
+Maria,MAT2674,Medicina
+Maria,MAT4846,Ciências da Computação
+João,MAT3395,Administração
+Ana,MAT4487,Engenharia
+Lucia,MAT9841,Ciências da Computação
+Carlos,MAT1985,Engenharia
+Pedro,MAT7888,Ciências da Computação
+Ana,MAT8997,Engenharia
+Ana,MAT8438,Administração
+Julia,MAT7712,Engenharia
+João,MAT3043,Engenharia
+Maria,MAT8511,Ciências da Computação
+Carlos,MAT1944,Engenharia
+Gabriel,MAT9378,Economia
+Ana,MAT6730,Administração
+Rafael,MAT5775,Medicina
+Pedro,MAT2843,Engenharia
+Gabriel,MAT6802,Medicina
+Ana,MAT8202,Administração
+Gabriel,MAT2462,Administração
+Fernanda,MAT5867,Economia
+Rafael,MAT1380,Medicina
+Fernanda,MAT4479,Engenharia
+Rafael,MAT7727,Engenharia
+Rafael,MAT8451,Economia
+Gabriel,MAT9291,Medicina
+Fernanda,MAT3723,Administração
+Gabriel,MAT5800,Engenharia
+Ana,MAT5924,Ciências da Computação
+Pedro,MAT9151,Administração
+Pedro,MAT9372,Administração
+Pedro,MAT6539,Ciências da Computação
+Fernanda,MAT2532,Medicina
+Ana,MAT4120,Medicina
+Pedro,MAT4768,Ciências da Computação
+Maria,MAT6798,Administração
+Lucia,MAT8638,Ciências da Computação
+Maria,MAT9532,Medicina
+Rafael,MAT7280,Administração
+Ana,MAT6301,Engenharia
+Lucia,MAT9601,Ciências da Computação
+João,MAT8790,Engenharia
+Julia,MAT4173,Medicina
+Carlos,MAT4976,Economia
+Pedro,MAT9297,Engenharia
+Pedro,MAT9957,Medicina
+Gabriel,MAT2645,Medicina
+Maria,MAT9686,Administração
+João,MAT6299,Ciências da Computação
+Pedro,MAT4770,Administração
+Fernanda,MAT1788,Ciências da Computação
+Fernanda,MAT5580,Medicina
+Fernanda,MAT7734,Engenharia
+João,MAT5421,Administração
+Ana,MAT3113,Medicina
+João,MAT2367,Medicina
+Lucia,MAT9712,Administração
+Julia,MAT9125,Ciências da Computação
+Carlos,MAT8805,Administração
+Ana,MAT4162,Medicina
+João,MAT2865,Administração
+Julia,MAT6726,Ciências da Computação
+Maria,MAT6922,Ciências da Computação
+Lucia,MAT2602,Engenharia
+Ana,MAT1862,Economia
+João,MAT7160,Engenharia
+Julia,MAT8348,Ciências da Computação
+Rafael,MAT8993,Administração
+Carlos,MAT4953,Engenharia
+Gabriel,MAT7890,Medicina
+Pedro,MAT6719,Economia
+Pedro,MAT3730,Economia
+Rafael,MAT9686,Administração
+Gabriel,MAT6991,Ciências da Computação
+Maria,MAT7199,Medicina
+Julia,MAT2355,Administração
+João,MAT7456,Engenharia
+Pedro,MAT4919,Ciências da Computação
+Carlos,MAT9616,Ciências da Computação
+Pedro,MAT1992,Ciências da Computação
+Rafael,MAT4652,Economia
+Julia,MAT3432,Economia
+Gabriel,MAT4133,Administração
+Maria,MAT7828,Economia
+Ana,MAT3884,Ciências da Computação
+Rafael,MAT3342,Administração
+Maria,MAT2546,Engenharia
+Pedro,MAT6495,Economia
+Lucia,MAT3645,Economia
+Carlos,MAT7668,Medicina
+João,MAT9361,Engenharia
+Rafael,MAT3713,Ciências da Computação
+Fernanda,MAT8147,Administração
+Julia,MAT8498,Economia
+Carlos,MAT8676,Engenharia
+Ana,MAT8552,Engenharia
+Maria,MAT5765,Economia
+Pedro,MAT4818,Economia
+Maria,MAT4922,Engenharia
+João,MAT4484,Engenharia
+João,MAT8671,Engenharia
+João,MAT2120,Administração
+Carlos,MAT8811,Administração
+Ana,MAT1981,Engenharia
+Carlos,MAT6275,Administração
+Ana,MAT2716,Medicina
+Rafael,MAT2733,Medicina
+Ana,MAT4923,Economia
+Fernanda,MAT6411,Engenharia
+Julia,MAT3186,Economia
+João,MAT5371,Administração
+João,MAT3899,Engenharia
+Pedro,MAT9911,Engenharia
+Maria,MAT3891,Medicina
+Gabriel,MAT8002,Ciências da Computação
+Pedro,MAT3499,Administração
+Maria,MAT3002,Ciências da Computação
+Pedro,MAT4115,Medicina
+Fernanda,MAT4191,Ciências da Computação
+Ana,MAT2637,Engenharia
+Carlos,MAT2857,Engenharia
+João,MAT2603,Ciências da Computação
+Carlos,MAT5545,Economia
+João,MAT1198,Ciências da Computação
+Gabriel,MAT6605,Ciências da Computação
+Gabriel,MAT5146,Ciências da Computação
+Rafael,MAT5356,Medicina
+Pedro,MAT6841,Economia
+Gabriel,MAT3488,Ciências da Computação
+João,MAT1530,Administração
+Ana,MAT5797,Medicina
+Julia,MAT8453,Medicina
+Carlos,MAT1542,Administração
+Julia,MAT1284,Engenharia
+Lucia,MAT4638,Engenharia
+Gabriel,MAT3756,Ciências da Computação
+João,MAT5057,Ciências da Computação
+Lucia,MAT1875,Engenharia
+Fernanda,MAT7564,Ciências da Computação
+Gabriel,MAT2343,Administração
+João,MAT5051,Administração
+Rafael,MAT4276,Medicina
+Gabriel,MAT3260,Medicina
+Carlos,MAT1918,Administração
+Lucia,MAT9130,Medicina
+Carlos,MAT5235,Ciências da Computação
+Rafael,MAT7451,Administração
+Lucia,MAT8769,Administração
+Carlos,MAT3316,Ciências da Computação
+Julia,MAT9733,Administração
+João,MAT7725,Economia
+Carlos,MAT8370,Medicina
+Pedro,MAT7724,Economia
+Carlos,MAT2289,Economia
+Lucia,MAT8646,Administração
+Fernanda,MAT6204,Engenharia
+Pedro,MAT3879,Engenharia
+Julia,MAT3484,Ciências da Computação
+Fernanda,MAT9270,Ciências da Computação
+Ana,MAT4708,Ciências da Computação
+Ana,MAT2441,Ciências da Computação
+Julia,MAT6323,Administração
+João,MAT5714,Medicina
+João,MAT6271,Medicina
+Fernanda,MAT6100,Economia
+Julia,MAT3001,Ciências da Computação
+João,MAT1312,Ciências da Computação
+Ana,MAT6401,Medicina
+Rafael,MAT7051,Administração
+Lucia,MAT8486,Ciências da Computação
+Lucia,MAT5460,Engenharia
+Maria,MAT5745,Ciências da Computação
+Ana,MAT1578,Engenharia
+Maria,MAT8349,Ciências da Computação
+Carlos,MAT2379,Economia
+Maria,MAT2742,Economia
+Pedro,MAT8442,Ciências da Computação
+Julia,MAT8772,Administração
+Lucia,MAT8930,Engenharia
+Carlos,MAT5715,Medicina
+Pedro,MAT8310,Ciências da Computação
+Pedro,MAT7569,Medicina
+Lucia,MAT6637,Economia
+Rafael,MAT9546,Administração
+Pedro,MAT9502,Ciências da Computação
+Ana,MAT6014,Economia
+Maria,MAT8428,Ciências da Computação
+Lucia,MAT8692,Medicina
+Pedro,MAT3554,Medicina
+Rafael,MAT8358,Ciências da Computação
+Maria,MAT2040,Engenharia
+João,MAT2099,Economia
+Carlos,MAT6872,Engenharia
+Maria,MAT2239,Administração
+Carlos,MAT7620,Ciências da Computação
+Maria,MAT7057,Economia
+Lucia,MAT8162,Medicina
+Carlos,MAT1242,Ciências da Computação
+Rafael,MAT7340,Medicina
+Julia,MAT2722,Administração
+Lucia,MAT5330,Economia
+Fernanda,MAT2475,Engenharia
+Pedro,MAT8713,Engenharia
+Julia,MAT1654,Administração
+Ana,MAT1853,Economia
+Pedro,MAT8883,Engenharia
+Gabriel,MAT6967,Medicina
+Gabriel,MAT1159,Ciências da Computação
+Pedro,MAT8892,Medicina
+João,MAT9885,Ciências da Computação
+João,MAT9197,Medicina
+João,MAT2184,Medicina
+Maria,MAT8521,Administração
+Lucia,MAT3003,Administração
+Carlos,MAT9894,Engenharia
+Maria,MAT4506,Medicina
+Lucia,MAT1521,Administração
+Gabriel,MAT9369,Medicina
+João,MAT5425,Engenharia
+Julia,MAT7125,Economia
+Maria,MAT8896,Economia
+Pedro,MAT1444,Engenharia
+Maria,MAT4985,Engenharia
+Lucia,MAT4846,Ciências da Computação
+Julia,MAT5062,Medicina
+Fernanda,MAT7321,Economia
+Carlos,MAT2453,Engenharia
+Carlos,MAT3498,Administração
+Maria,MAT6584,Ciências da Computação
+Julia,MAT5093,Medicina
+Gabriel,MAT1428,Engenharia
+Gabriel,MAT5528,Administração
+Ana,MAT7842,Medicina
+Rafael,MAT6563,Engenharia
+Maria,MAT7467,Medicina
+Lucia,MAT6593,Medicina
+João,MAT1428,Ciências da Computação
+Julia,MAT8771,Engenharia
+Carlos,MAT6645,Ciências da Computação
+Julia,MAT4616,Economia
+Fernanda,MAT1825,Medicina
+Lucia,MAT6918,Economia
+Pedro,MAT8433,Administração
+Rafael,MAT4512,Medicina
+Gabriel,MAT1199,Economia
+Carlos,MAT4243,Administração
+Lucia,MAT7184,Ciências da Computação
+Gabriel,MAT4045,Economia
+Fernanda,MAT6114,Medicina
+Ana,MAT4782,Ciências da Computação
+Gabriel,MAT7028,Economia
+Lucia,MAT6637,Medicina
+Gabriel,MAT1480,Medicina
+Gabriel,MAT2976,Administração
+Carlos,MAT2051,Administração
+Julia,MAT6812,Engenharia
+João,MAT8838,Engenharia
+João,MAT2368,Ciências da Computação
+Gabriel,MAT4939,Ciências da Computação
+João,MAT7521,Engenharia
+João,MAT5645,Engenharia
+Carlos,MAT6600,Ciências da Computação
+Pedro,MAT8863,Engenharia
+Carlos,MAT7060,Administração
+Ana,MAT3184,Economia
+João,MAT8836,Engenharia
+Pedro,MAT2281,Economia
+Gabriel,MAT1537,Ciências da Computação
+Pedro,MAT9204,Medicina
+Pedro,MAT5104,Economia
+Fernanda,MAT2425,Ciências da Computação
+Carlos,MAT8550,Administração
+Pedro,MAT6989,Medicina
+Fernanda,MAT8177,Medicina
+Pedro,MAT8371,Administração
+Maria,MAT9415,Economia
+Julia,MAT3732,Medicina
+Julia,MAT8977,Administração
+Carlos,MAT9590,Medicina
+Pedro,MAT7764,Ciências da Computação
+Fernanda,MAT2626,Engenharia
+Carlos,MAT1257,Economia
+Fernanda,MAT9748,Economia
+Carlos,MAT8727,Medicina
+Gabriel,MAT3357,Ciências da Computação
+Julia,MAT3496,Administração
+Fernanda,MAT3578,Administração
+Julia,MAT6968,Economia
+Maria,MAT7813,Economia
+Ana,MAT1786,Ciências da Computação
+Pedro,MAT9575,Medicina
+Fernanda,MAT1487,Engenharia
+Carlos,MAT5082,Ciências da Computação
+Julia,MAT3577,Ciências da Computação
+Maria,MAT6355,Administração
+João,MAT6709,Economia
+Gabriel,MAT6187,Economia
+Julia,MAT2777,Ciências da Computação
+Gabriel,MAT7805,Ciências da Computação
+Pedro,MAT8093,Engenharia
+João,MAT6682,Economia
+Ana,MAT1936,Ciências da Computação
+Julia,MAT7344,Ciências da Computação
+Pedro,MAT2869,Ciências da Computação
+Julia,MAT3992,Economia
+Pedro,MAT7984,Engenharia
+Ana,MAT1306,Medicina
+Rafael,MAT1973,Engenharia
+João,MAT5783,Engenharia
+Fernanda,MAT1318,Engenharia
+Carlos,MAT2653,Administração
+Rafael,MAT3651,Administração
+João,MAT2408,Engenharia
+Ana,MAT5619,Ciências da Computação
+Gabriel,MAT7106,Ciências da Computação
+Fernanda,MAT3660,Administração
+João,MAT3676,Ciências da Computação
+Ana,MAT1631,Economia
+Fernanda,MAT3666,Economia
+João,MAT9642,Medicina
+Rafael,MAT2027,Medicina
+Pedro,MAT4267,Engenharia
+Lucia,MAT1477,Administração
+Gabriel,MAT4870,Economia
+João,MAT4402,Economia
+Julia,MAT6724,Engenharia
+Pedro,MAT6609,Economia
+Lucia,MAT1160,Medicina
+Pedro,MAT9610,Medicina
+Lucia,MAT2288,Medicina
+Julia,MAT6683,Administração
+Rafael,MAT7445,Ciências da Computação
+Lucia,MAT3063,Ciências da Computação
+Ana,MAT9548,Engenharia
+Lucia,MAT2466,Administração
+Ana,MAT7626,Economia
+Fernanda,MAT4400,Ciências da Computação
+Pedro,MAT2419,Medicina
+Fernanda,MAT1935,Economia
+João,MAT4262,Engenharia
+Pedro,MAT8777,Economia
+Carlos,MAT6046,Ciências da Computação
+Julia,MAT9155,Engenharia
+João,MAT1319,Administração
+Pedro,MAT8429,Administração
+Julia,MAT8510,Engenharia
+Maria,MAT5864,Economia
+Julia,MAT5760,Economia
+Carlos,MAT3270,Engenharia
+Fernanda,MAT4832,Ciências da Computação
+Gabriel,MAT8819,Economia
+Carlos,MAT7944,Engenharia
+Julia,MAT2133,Economia
+Carlos,MAT3943,Administração
+Gabriel,MAT8329,Medicina
+Carlos,MAT4875,Engenharia
+João,MAT5771,Medicina
+Lucia,MAT8928,Administração
+Gabriel,MAT5697,Economia
+Pedro,MAT2871,Medicina
+Ana,MAT4403,Engenharia
+Maria,MAT5642,Administração
+Lucia,MAT6548,Economia
+Rafael,MAT4618,Economia
+Ana,MAT5521,Ciências da Computação
+Lucia,MAT2010,Ciências da Computação
+Julia,MAT5071,Ciências da Computação
+Fernanda,MAT9487,Ciências da Computação
+Lucia,MAT7582,Engenharia
+Fernanda,MAT1509,Engenharia
+Lucia,MAT4255,Medicina
+Gabriel,MAT7527,Medicina
+Fernanda,MAT9215,Administração
+Gabriel,MAT3927,Ciências da Computação
+Julia,MAT9788,Engenharia
+João,MAT8705,Administração
+Lucia,MAT7534,Engenharia
+Ana,MAT3598,Engenharia
+Ana,MAT7122,Medicina
+Lucia,MAT3688,Administração
+João,MAT8760,Engenharia
+Lucia,MAT4581,Engenharia
+Rafael,MAT7522,Ciências da Computação
+Maria,MAT3174,Economia
+Fernanda,MAT7450,Administração
+Julia,MAT6864,Administração
+João,MAT3884,Economia
+Rafael,MAT2600,Economia
+Lucia,MAT8787,Ciências da Computação
+Gabriel,MAT8000,Administração
+Rafael,MAT3468,Economia
+Maria,MAT2810,Engenharia
+Pedro,MAT8510,Economia
+Lucia,MAT3358,Engenharia
+João,MAT5735,Ciências da Computação
+Ana,MAT5331,Engenharia
+João,MAT2963,Ciências da Computação
+Maria,MAT8368,Engenharia
+Julia,MAT3417,Administração
+Ana,MAT9515,Administração
+Ana,MAT9647,Engenharia
+Maria,MAT5894,Ciências da Computação
+Carlos,MAT5262,Economia
+Julia,MAT6861,Medicina
+Ana,MAT8830,Economia
+Ana,MAT9391,Engenharia
+Pedro,MAT1598,Medicina
+Gabriel,MAT2590,Administração
+Fernanda,MAT9618,Administração
+Fernanda,MAT1784,Engenharia
+Rafael,MAT4143,Medicina
+Gabriel,MAT1911,Economia
+Gabriel,MAT8864,Medicina
+Fernanda,MAT6417,Administração
+Carlos,MAT4646,Administração
+Julia,MAT1625,Ciências da Computação
+Pedro,MAT6563,Engenharia
+Ana,MAT9277,Administração
+Julia,MAT1553,Medicina
+Ana,MAT2233,Administração
+Pedro,MAT3374,Ciências da Computação
+Rafael,MAT3528,Engenharia
+Maria,MAT7383,Ciências da Computação
+Fernanda,MAT1783,Medicina
+Lucia,MAT2525,Medicina
+Pedro,MAT8890,Medicina
+João,MAT7620,Economia
+Pedro,MAT2800,Engenharia
+Lucia,MAT1165,Administração
+Maria,MAT3797,Ciências da Computação
+Lucia,MAT8762,Engenharia
+Ana,MAT1743,Engenharia
+Carlos,MAT7050,Engenharia
+Ana,MAT1516,Medicina
+Lucia,MAT7140,Engenharia
+Fernanda,MAT9698,Engenharia
+Pedro,MAT3220,Engenharia
+Fernanda,MAT1702,Medicina
+Gabriel,MAT6532,Administração
+Rafael,MAT9060,Ciências da Computação
+Gabriel,MAT8950,Medicina
+Gabriel,MAT6824,Administração
+Ana,MAT5976,Ciências da Computação
+Lucia,MAT2762,Ciências da Computação
+Julia,MAT8710,Administração
+Fernanda,MAT2053,Ciências da Computação
+Rafael,MAT4488,Ciências da Computação
+Carlos,MAT3915,Ciências da Computação
+Carlos,MAT3492,Administração
+Carlos,MAT6171,Administração
+Maria,MAT6963,Ciências da Computação
+Julia,MAT1107,Economia
+Pedro,MAT9389,Ciências da Computação
+Pedro,MAT3547,Engenharia
+Carlos,MAT8957,Ciências da Computação
+Maria,MAT6545,Administração
+Lucia,MAT8422,Administração
+Julia,MAT5833,Economia
+Ana,MAT6060,Ciências da Computação
+Julia,MAT7862,Medicina
+Gabriel,MAT9465,Economia
+Ana,MAT1919,Medicina
+Pedro,MAT9205,Ciências da Computação
+Rafael,MAT4527,Engenharia
+Maria,MAT9432,Engenharia
+Julia,MAT3048,Medicina
+Carlos,MAT1518,Ciências da Computação
+Rafael,MAT9139,Economia
+Rafael,MAT2623,Economia
+Julia,MAT3941,Engenharia
+Rafael,MAT1975,Medicina
+Fernanda,MAT2790,Ciências da Computação
+Carlos,MAT1862,Engenharia
+Fernanda,MAT4068,Administração
+Julia,MAT5822,Economia
+Carlos,MAT6941,Economia
+Lucia,MAT1948,Ciências da Computação
+Rafael,MAT1753,Administração
+Gabriel,MAT6421,Engenharia
+Gabriel,MAT2288,Administração
+Pedro,MAT7391,Administração
+Ana,MAT6910,Ciências da Computação
+João,MAT9135,Medicina
+Rafael,MAT9949,Engenharia
+Fernanda,MAT6940,Ciências da Computação
+Gabriel,MAT7012,Economia
+Fernanda,MAT3928,Administração
+Rafael,MAT8006,Ciências da Computação
+Pedro,MAT6788,Administração
+Lucia,MAT7389,Ciências da Computação
+Julia,MAT8206,Economia
+Maria,MAT1745,Engenharia
+Pedro,MAT7720,Medicina
+Maria,MAT9842,Administração
+João,MAT9224,Administração
+Julia,MAT2717,Medicina
+Gabriel,MAT6263,Ciências da Computação
+Lucia,MAT8845,Economia
+Rafael,MAT1402,Economia
+Julia,MAT2040,Ciências da Computação
+Pedro,MAT8411,Medicina
+Ana,MAT6232,Ciências da Computação
+Pedro,MAT2995,Ciências da Computação
+Julia,MAT9876,Engenharia
+Maria,MAT7625,Administração
+Fernanda,MAT2312,Medicina
+Gabriel,MAT5880,Engenharia
+Pedro,MAT2408,Engenharia
+João,MAT5746,Medicina
+Gabriel,MAT8247,Ciências da Computação
+João,MAT3398,Engenharia
+Carlos,MAT6182,Medicina
+Julia,MAT5349,Administração
+João,MAT8636,Administração
+Maria,MAT7826,Ciências da Computação
+Pedro,MAT2826,Administração
+Pedro,MAT3473,Ciências da Computação
+Fernanda,MAT9966,Administração
+João,MAT7628,Administração
+Lucia,MAT5717,Economia
+Gabriel,MAT2576,Engenharia
+Gabriel,MAT3990,Economia
+Fernanda,MAT5635,Administração
+Maria,MAT6839,Medicina
+Julia,MAT5754,Economia
+João,MAT7394,Engenharia
+Julia,MAT6067,Economia
+Lucia,MAT5117,Engenharia
+Gabriel,MAT5486,Economia
+Gabriel,MAT8478,Administração
+Ana,MAT5254,Engenharia
+Carlos,MAT4119,Ciências da Computação
+Pedro,MAT9104,Ciências da Computação
+Fernanda,MAT3306,Medicina
+João,MAT3684,Administração
+Pedro,MAT7977,Economia
+Julia,MAT2868,Ciências da Computação
+Lucia,MAT8722,Ciências da Computação
+Rafael,MAT1004,Medicina
+Julia,MAT4694,Ciências da Computação
+Rafael,MAT5511,Engenharia
+Maria,MAT7065,Medicina
+João,MAT8720,Economia
+Lucia,MAT9184,Medicina
+Julia,MAT8876,Engenharia
+Gabriel,MAT8329,Engenharia
+Gabriel,MAT9550,Administração
+João,MAT8718,Administração
+Carlos,MAT2020,Medicina
+Gabriel,MAT1601,Engenharia
+Pedro,MAT3783,Engenharia
+Julia,MAT6155,Economia
+Fernanda,MAT1922,Ciências da Computação
+Lucia,MAT9189,Engenharia
+Fernanda,MAT3872,Medicina
+Gabriel,MAT1706,Economia
+Julia,MAT8649,Engenharia
+Ana,MAT9050,Economia
+Julia,MAT2013,Ciências da Computação
+Pedro,MAT9931,Administração
+Rafael,MAT1089,Engenharia
+João,MAT9580,Engenharia
+Lucia,MAT1102,Economia
+Fernanda,MAT3567,Administração
+Gabriel,MAT3672,Economia
+João,MAT8803,Ciências da Computação
+Fernanda,MAT8706,Economia
+João,MAT2038,Economia
+Fernanda,MAT1694,Administração
+Rafael,MAT1102,Ciências da Computação
+Lucia,MAT4497,Medicina
+Gabriel,MAT8559,Economia
+Julia,MAT6795,Administração
+Ana,MAT1680,Administração
+Pedro,MAT3440,Engenharia
+Lucia,MAT7035,Economia
+Gabriel,MAT5220,Economia
+Pedro,MAT8706,Medicina
+Lucia,MAT7466,Administração
+Carlos,MAT7422,Economia
+Lucia,MAT6477,Engenharia
+Maria,MAT7798,Economia
+Pedro,MAT7058,Ciências da Computação
+Pedro,MAT2657,Ciências da Computação
+Lucia,MAT2767,Medicina
+Ana,MAT8217,Economia
+Gabriel,MAT5735,Administração
+João,MAT5517,Engenharia
+Maria,MAT3978,Engenharia
+Gabriel,MAT1253,Ciências da Computação
+Fernanda,MAT4121,Engenharia
+Rafael,MAT4353,Ciências da Computação
+Julia,MAT5083,Economia
+Julia,MAT6873,Medicina
+Lucia,MAT2804,Economia
+Maria,MAT8997,Ciências da Computação
+Ana,MAT3236,Economia
+Gabriel,MAT6010,Economia
+João,MAT7530,Medicina
+Rafael,MAT7919,Economia
+Pedro,MAT8212,Economia
+Rafael,MAT4458,Medicina
+Fernanda,MAT4895,Ciências da Computação
+Carlos,MAT1289,Ciências da Computação
+Ana,MAT6279,Ciências da Computação
+Ana,MAT3510,Engenharia
+Carlos,MAT4164,Ciências da Computação
+Carlos,MAT3748,Administração
+Ana,MAT2889,Medicina
+Ana,MAT5275,Engenharia
+Lucia,MAT8620,Administração
+Pedro,MAT9214,Ciências da Computação
+Fernanda,MAT1960,Economia
+Ana,MAT2456,Engenharia
+Ana,MAT3900,Engenharia
+João,MAT9776,Administração
+Gabriel,MAT8914,Engenharia
+Carlos,MAT2148,Engenharia
+Fernanda,MAT7966,Administração
+Fernanda,MAT3844,Economia
+João,MAT2225,Ciências da Computação
+João,MAT7010,Administração
+Gabriel,MAT1331,Medicina
+Maria,MAT5405,Engenharia
+Rafael,MAT6848,Administração
+João,MAT9106,Economia
+Gabriel,MAT5648,Engenharia
+Maria,MAT3932,Medicina
+Carlos,MAT1050,Ciências da Computação
+Lucia,MAT6525,Ciências da Computação
+João,MAT3201,Economia
+Fernanda,MAT7032,Engenharia
+Julia,MAT2525,Ciências da Computação
+Fernanda,MAT8987,Administração
+Rafael,MAT5355,Administração
+João,MAT5012,Ciências da Computação
+Gabriel,MAT5958,Administração
+Ana,MAT4982,Administração
+João,MAT1553,Ciências da Computação
+Lucia,MAT1448,Medicina
+Ana,MAT5927,Administração
+Lucia,MAT8092,Medicina
+Gabriel,MAT1638,Engenharia
+Carlos,MAT2778,Administração
+Lucia,MAT5517,Administração
+Carlos,MAT5303,Administração
+Rafael,MAT4759,Engenharia
+Rafael,MAT9105,Administração
+Ana,MAT7475,Medicina
+Julia,MAT5474,Engenharia
+Pedro,MAT1326,Economia
+Julia,MAT7964,Ciências da Computação
+Maria,MAT7172,Ciências da Computação
+João,MAT4495,Administração
+Maria,MAT4408,Ciências da Computação
+Fernanda,MAT1096,Administração
+Julia,MAT5466,Medicina
+Fernanda,MAT6668,Engenharia
+João,MAT8303,Economia
+Maria,MAT8967,Medicina
+Gabriel,MAT7586,Medicina
+Julia,MAT7378,Medicina
+Julia,MAT6014,Economia
+Julia,MAT3219,Ciências da Computação
+Ana,MAT8081,Engenharia
+Maria,MAT3667,Engenharia
+Maria,MAT9860,Ciências da Computação
+Julia,MAT9980,Administração
+Lucia,MAT2109,Economia
+Ana,MAT8880,Medicina
+Carlos,MAT7029,Engenharia
+Maria,MAT2919,Administração
+Lucia,MAT4628,Medicina
+Rafael,MAT5127,Engenharia
+Julia,MAT1021,Engenharia
+Lucia,MAT1622,Ciências da Computação
+Carlos,MAT5897,Economia
+Gabriel,MAT2307,Engenharia
+Pedro,MAT3599,Economia
+Rafael,MAT8241,Administração
+Maria,MAT4331,Administração
+Maria,MAT7954,Ciências da Computação
+Pedro,MAT2949,Ciências da Computação
+Rafael,MAT6718,Economia
+Maria,MAT5766,Engenharia
+Rafael,MAT9757,Medicina
+Gabriel,MAT6920,Ciências da Computação
+Rafael,MAT2348,Administração
+Rafael,MAT6474,Administração
+Rafael,MAT3979,Economia
+Lucia,MAT9250,Engenharia
+Rafael,MAT5341,Engenharia
+João,MAT9454,Engenharia
+Ana,MAT1941,Administração
+Julia,MAT2541,Economia
+Lucia,MAT9870,Medicina
+Fernanda,MAT7028,Economia
+Rafael,MAT7262,Economia
+Ana,MAT3462,Medicina
+Julia,MAT4023,Medicina
+Gabriel,MAT9294,Medicina
+Julia,MAT9801,Ciências da Computação
+Carlos,MAT9251,Engenharia
+Rafael,MAT9058,Engenharia
+Pedro,MAT9720,Economia
+Fernanda,MAT1249,Administração
+João,MAT4736,Ciências da Computação
+Gabriel,MAT7145,Economia
+Gabriel,MAT3636,Administração
+Maria,MAT3997,Medicina
+Gabriel,MAT5523,Administração
+João,MAT3926,Medicina
+João,MAT9299,Medicina
+Gabriel,MAT5913,Ciências da Computação
+Julia,MAT3572,Medicina
+Ana,MAT3551,Medicina
+Carlos,MAT8903,Economia
+Fernanda,MAT6929,Engenharia
+Rafael,MAT4506,Ciências da Computação
+Gabriel,MAT7357,Administração
+João,MAT3823,Engenharia
+Lucia,MAT4250,Economia
+Fernanda,MAT3711,Economia
+Lucia,MAT8724,Ciências da Computação
+Julia,MAT3389,Engenharia
+Maria,MAT7908,Ciências da Computação
+Ana,MAT4482,Ciências da Computação
+Pedro,MAT7831,Economia
+Maria,MAT3602,Economia
+Carlos,MAT8461,Administração
+Ana,MAT9950,Ciências da Computação
+Lucia,MAT3555,Ciências da Computação
+Maria,MAT2026,Engenharia
+Rafael,MAT9525,Engenharia
+Maria,MAT4149,Economia
+Lucia,MAT3673,Engenharia
+Pedro,MAT9778,Medicina
+Maria,MAT8411,Medicina
+João,MAT8836,Medicina
+Gabriel,MAT7466,Medicina
+Gabriel,MAT5192,Ciências da Computação
+Maria,MAT9178,Medicina
+Fernanda,MAT1973,Engenharia
+Lucia,MAT8735,Ciências da Computação
+Gabriel,MAT2491,Economia
+Gabriel,MAT6333,Ciências da Computação
+Pedro,MAT3002,Economia
+Julia,MAT3055,Medicina
+Maria,MAT8316,Economia
+Lucia,MAT9450,Economia
+João,MAT3094,Ciências da Computação
+João,MAT5610,Ciências da Computação
+Pedro,MAT3920,Ciências da Computação
+João,MAT3232,Engenharia
+Carlos,MAT4651,Medicina
+Pedro,MAT9711,Ciências da Computação
+Lucia,MAT2538,Ciências da Computação
+Julia,MAT9793,Engenharia
+Maria,MAT9665,Ciências da Computação
+Ana,MAT7842,Administração
+Ana,MAT2719,Medicina
+Carlos,MAT4056,Engenharia
+Rafael,MAT2594,Economia
+Pedro,MAT6456,Economia
+Gabriel,MAT2359,Ciências da Computação
+Pedro,MAT8883,Ciências da Computação
+Lucia,MAT2916,Economia
+João,MAT1703,Engenharia
+Gabriel,MAT3184,Ciências da Computação
+Maria,MAT7476,Economia
+Pedro,MAT2075,Engenharia
+Gabriel,MAT1423,Medicina
+Carlos,MAT4175,Administração
+Fernanda,MAT4824,Economia
+Pedro,MAT2307,Economia
+Ana,MAT1295,Ciências da Computação
+Rafael,MAT1750,Engenharia
+Carlos,MAT1790,Administração
+Fernanda,MAT8745,Administração
+Maria,MAT3925,Economia
+Gabriel,MAT1912,Economia
+Lucia,MAT4202,Economia
+Julia,MAT2769,Medicina
+Ana,MAT7281,Ciências da Computação
+Carlos,MAT1542,Ciências da Computação
+Pedro,MAT5078,Administração
+João,MAT3171,Administração
+Gabriel,MAT3689,Economia
+Julia,MAT1773,Ciências da Computação
+Carlos,MAT2407,Engenharia
+Julia,MAT7006,Medicina
+Fernanda,MAT2594,Administração
+Rafael,MAT1977,Ciências da Computação
+Julia,MAT5057,Economia
+Lucia,MAT8888,Ciências da Computação
+Maria,MAT4493,Medicina
+Gabriel,MAT5192,Engenharia
+Julia,MAT1478,Economia
+Ana,MAT3139,Economia
+João,MAT5953,Administração
+Maria,MAT9601,Medicina
+Ana,MAT2549,Economia
+João,MAT3179,Ciências da Computação
+Pedro,MAT5901,Economia
+Rafael,MAT1263,Administração
+Pedro,MAT9408,Engenharia
+Ana,MAT1760,Medicina
+João,MAT7813,Economia
+João,MAT8534,Medicina
+Maria,MAT5434,Administração
+Julia,MAT8890,Ciências da Computação
+João,MAT4349,Administração
+Maria,MAT5879,Medicina
+João,MAT6473,Ciências da Computação
+Pedro,MAT6428,Medicina
+Fernanda,MAT9731,Engenharia
+Lucia,MAT6208,Administração
+Lucia,MAT6455,Engenharia
+Lucia,MAT3321,Engenharia
+Carlos,MAT8869,Administração
+João,MAT9777,Medicina
+Pedro,MAT7098,Administração
+Maria,MAT3116,Administração
+Fernanda,MAT7340,Medicina
+Lucia,MAT3082,Engenharia
+Carlos,MAT5280,Ciências da Computação
+Rafael,MAT2313,Engenharia
+Ana,MAT7819,Administração
+Lucia,MAT8916,Engenharia
+Pedro,MAT6807,Medicina
+Gabriel,MAT7574,Engenharia
+Julia,MAT9339,Economia
+Gabriel,MAT9478,Economia
+Maria,MAT3629,Engenharia
+Gabriel,MAT6499,Medicina
+Ana,MAT1665,Administração
+Lucia,MAT7521,Engenharia
+Maria,MAT2472,Engenharia
+Fernanda,MAT8470,Economia
+Pedro,MAT7549,Administração
+Maria,MAT8519,Ciências da Computação
+Fernanda,MAT9610,Ciências da Computação
+Lucia,MAT6140,Medicina
+João,MAT8161,Ciências da Computação
+Maria,MAT2516,Economia
+Carlos,MAT4171,Economia
+Rafael,MAT3575,Medicina
+Gabriel,MAT5783,Ciências da Computação
+Ana,MAT3928,Engenharia
+Lucia,MAT8474,Ciências da Computação
+Pedro,MAT9495,Engenharia
+Lucia,MAT8005,Engenharia
+Carlos,MAT8071,Medicina
+Carlos,MAT9877,Administração
+Rafael,MAT7883,Medicina
+Ana,MAT3024,Economia
+Gabriel,MAT9404,Engenharia
+Carlos,MAT2872,Ciências da Computação
+João,MAT4171,Engenharia
+Carlos,MAT8292,Economia
+Maria,MAT7531,Economia
+Fernanda,MAT9834,Economia
+Carlos,MAT3721,Administração
+Pedro,MAT3625,Ciências da Computação
+Julia,MAT5018,Administração
+Ana,MAT7908,Engenharia
+Lucia,MAT4174,Medicina
+Julia,MAT5047,Ciências da Computação
+Julia,MAT4851,Administração
+Julia,MAT5699,Economia
+Maria,MAT9248,Ciências da Computação
+Lucia,MAT3237,Medicina
+Maria,MAT7346,Medicina
+Carlos,MAT1924,Economia
+João,MAT4773,Administração
+João,MAT8502,Ciências da Computação
+Pedro,MAT6586,Engenharia
+João,MAT1038,Medicina
+Rafael,MAT8065,Administração
+Julia,MAT9816,Administração
+Carlos,MAT3104,Ciências da Computação
+Rafael,MAT1355,Administração
+Carlos,MAT4278,Engenharia
+Lucia,MAT1560,Engenharia
+Julia,MAT3682,Medicina
+Fernanda,MAT4513,Medicina
+Fernanda,MAT5958,Economia
+Ana,MAT4007,Ciências da Computação
+Maria,MAT7835,Engenharia
+Ana,MAT3052,Administração
+Ana,MAT3443,Medicina
+Gabriel,MAT1331,Administração
+Lucia,MAT7002,Economia
+Pedro,MAT7877,Economia
+Lucia,MAT2142,Medicina
+Maria,MAT4754,Ciências da Computação
+Julia,MAT4385,Medicina
+Ana,MAT6963,Medicina
+João,MAT7177,Engenharia
+Lucia,MAT6172,Engenharia
+Pedro,MAT2011,Medicina
+Lucia,MAT2078,Ciências da Computação
+Fernanda,MAT2635,Medicina
+Lucia,MAT5708,Engenharia
+Julia,MAT4123,Administração
+João,MAT5350,Medicina
+Rafael,MAT7555,Economia
+Julia,MAT9079,Engenharia
+Carlos,MAT1434,Economia
+Ana,MAT9442,Engenharia
+Julia,MAT1713,Ciências da Computação
+Maria,MAT2004,Engenharia
+Carlos,MAT4870,Economia
+Lucia,MAT1068,Engenharia
+Pedro,MAT5624,Engenharia
+Julia,MAT3949,Economia
+Gabriel,MAT1377,Ciências da Computação
+Pedro,MAT7962,Administração
+Pedro,MAT2950,Administração
+Pedro,MAT2226,Ciências da Computação
+João,MAT3683,Medicina
+Rafael,MAT2241,Ciências da Computação
+Ana,MAT7746,Medicina
+Julia,MAT7820,Administração
+Maria,MAT7950,Ciências da Computação
+Rafael,MAT2474,Engenharia
+Gabriel,MAT5839,Ciências da Computação
+Ana,MAT8009,Ciências da Computação
+Rafael,MAT7623,Economia
+Pedro,MAT3228,Economia
+Maria,MAT3203,Engenharia
+Maria,MAT5140,Economia
+Maria,MAT2933,Engenharia
+Carlos,MAT7433,Administração
+Lucia,MAT7060,Economia
+Lucia,MAT1647,Ciências da Computação
+Ana,MAT1316,Administração
+Lucia,MAT9336,Ciências da Computação
+Pedro,MAT2106,Economia
+Rafael,MAT4984,Medicina
+Pedro,MAT8963,Administração
+Pedro,MAT8256,Engenharia
+João,MAT8028,Medicina
+Pedro,MAT6958,Economia
+Lucia,MAT8376,Administração
+Lucia,MAT1757,Administração
+Pedro,MAT3161,Administração
+Ana,MAT8419,Engenharia
+Carlos,MAT2108,Medicina
+Pedro,MAT7681,Ciências da Computação
+Ana,MAT3156,Economia
+Rafael,MAT5270,Ciências da Computação
+Julia,MAT2346,Ciências da Computação
+Gabriel,MAT9405,Economia
+Maria,MAT8923,Engenharia
+Maria,MAT2954,Administração
+Pedro,MAT9063,Administração
+Carlos,MAT2499,Engenharia
+Pedro,MAT6153,Medicina
+Maria,MAT2303,Economia
+João,MAT1384,Engenharia
+Lucia,MAT7434,Engenharia
+Ana,MAT6722,Medicina
+Gabriel,MAT6580,Engenharia
+Julia,MAT6464,Economia
+Maria,MAT4890,Medicina
+Rafael,MAT4267,Medicina
+Carlos,MAT2769,Administração
+Ana,MAT9196,Engenharia
+Maria,MAT2471,Economia
+Pedro,MAT4843,Administração
+Lucia,MAT2163,Engenharia
+Lucia,MAT2100,Engenharia
+Rafael,MAT8822,Administração
+Maria,MAT6381,Ciências da Computação
+Carlos,MAT1862,Administração
+Maria,MAT5560,Medicina
+Rafael,MAT1561,Administração
+Ana,MAT4772,Economia
+Julia,MAT7811,Engenharia
+Rafael,MAT3907,Medicina
+Maria,MAT3392,Administração
+Julia,MAT7328,Administração
+Julia,MAT1599,Administração
+Rafael,MAT1134,Engenharia
+Julia,MAT1339,Economia
+Maria,MAT1700,Engenharia
+Fernanda,MAT4347,Engenharia
+Pedro,MAT6047,Administração
+Rafael,MAT7402,Economia
+Rafael,MAT3210,Ciências da Computação
+Carlos,MAT6169,Engenharia
+Lucia,MAT7710,Medicina
+Julia,MAT5517,Engenharia
+Rafael,MAT2534,Ciências da Computação
+Gabriel,MAT9513,Economia
+Pedro,MAT8694,Administração
+João,MAT8298,Economia
+Gabriel,MAT5513,Economia
+Pedro,MAT7840,Economia
+Lucia,MAT2873,Medicina
+Ana,MAT3851,Administração
+João,MAT7941,Administração
+Maria,MAT4701,Economia
+Carlos,MAT6000,Medicina
+Maria,MAT9346,Engenharia
+Maria,MAT1043,Medicina
+Julia,MAT9749,Medicina
+Gabriel,MAT9118,Medicina
+Ana,MAT1207,Medicina
+Pedro,MAT1513,Medicina
+Lucia,MAT7813,Medicina
+Pedro,MAT7526,Medicina
+Ana,MAT7262,Administração
+João,MAT6437,Economia
+Rafael,MAT5977,Ciências da Computação
+Pedro,MAT3549,Administração
+Rafael,MAT3060,Ciências da Computação
+Ana,MAT8805,Ciências da Computação
+Julia,MAT6279,Economia
+Carlos,MAT4005,Medicina
+Ana,MAT2483,Engenharia
+Carlos,MAT6200,Engenharia
+Gabriel,MAT8723,Engenharia
+Fernanda,MAT1321,Engenharia
+João,MAT2057,Administração
+Pedro,MAT5915,Ciências da Computação
+Fernanda,MAT5202,Administração
+Pedro,MAT5889,Economia
+João,MAT2756,Medicina
+Fernanda,MAT7314,Economia
+Carlos,MAT6170,Economia
+Maria,MAT6479,Administração
+Rafael,MAT8426,Administração
+Gabriel,MAT2027,Administração
+Pedro,MAT6909,Ciências da Computação
+Pedro,MAT9554,Ciências da Computação
+Julia,MAT3264,Ciências da Computação
+Lucia,MAT4773,Ciências da Computação
+João,MAT2642,Medicina
+Lucia,MAT2772,Economia
+Pedro,MAT3383,Economia
+Ana,MAT1518,Administração
+João,MAT4111,Economia
+Fernanda,MAT7655,Economia
+Fernanda,MAT3946,Medicina
+Pedro,MAT6572,Ciências da Computação
+Maria,MAT9365,Administração
+Carlos,MAT5297,Ciências da Computação
+Carlos,MAT8389,Ciências da Computação
+Ana,MAT8900,Economia
+Rafael,MAT8074,Administração
+Julia,MAT8440,Engenharia
+Rafael,MAT8647,Ciências da Computação
+Carlos,MAT2987,Medicina
+Rafael,MAT6385,Engenharia
+Pedro,MAT7255,Economia
+Maria,MAT8510,Economia
+Fernanda,MAT9528,Administração
+Julia,MAT1044,Economia
+Rafael,MAT9172,Ciências da Computação
+João,MAT4617,Medicina
+Carlos,MAT1481,Engenharia
+Ana,MAT8743,Administração
+Pedro,MAT8177,Engenharia
+Julia,MAT5114,Economia
+Ana,MAT4574,Economia
+João,MAT6233,Administração
+Julia,MAT9533,Ciências da Computação
+Ana,MAT2154,Administração
+Julia,MAT1116,Medicina
+Carlos,MAT5998,Administração
+Fernanda,MAT8063,Ciências da Computação
+João,MAT6560,Engenharia
+Ana,MAT9154,Ciências da Computação
+Rafael,MAT3006,Administração
+Lucia,MAT9735,Economia
+Pedro,MAT6368,Economia
+Carlos,MAT5768,Administração
+Ana,MAT2420,Administração
+Fernanda,MAT2840,Engenharia
+Rafael,MAT8023,Engenharia
+Julia,MAT7134,Medicina
+Lucia,MAT3506,Ciências da Computação
+Fernanda,MAT6996,Engenharia
+Carlos,MAT2641,Engenharia
+Maria,MAT2979,Medicina
+Maria,MAT5753,Ciências da Computação
+Ana,MAT1167,Medicina
+Carlos,MAT4334,Engenharia
+Gabriel,MAT4819,Economia
+Lucia,MAT5732,Medicina
+João,MAT1424,Administração
+Carlos,MAT2318,Medicina
+Carlos,MAT5329,Ciências da Computação
+Pedro,MAT1282,Ciências da Computação
+Fernanda,MAT6310,Economia
+Rafael,MAT7476,Ciências da Computação
+Carlos,MAT3035,Medicina
+João,MAT7055,Economia
+Pedro,MAT6924,Ciências da Computação
+Fernanda,MAT3152,Medicina
+Rafael,MAT1256,Medicina
+Pedro,MAT4188,Engenharia
+Fernanda,MAT2281,Economia
+Carlos,MAT7467,Engenharia
+Carlos,MAT2190,Medicina
+Fernanda,MAT1001,Ciências da Computação
+Ana,MAT3674,Administração
+Julia,MAT4466,Administração
+Julia,MAT7155,Ciências da Computação
+Carlos,MAT2740,Engenharia
+Maria,MAT2063,Economia
+Fernanda,MAT7533,Economia
+Rafael,MAT2000,Engenharia
+Maria,MAT8530,Administração
+Rafael,MAT9791,Economia
+Carlos,MAT2452,Economia
+Rafael,MAT6851,Administração
+Ana,MAT7441,Economia
+Maria,MAT5808,Ciências da Computação
+Carlos,MAT1231,Medicina
+Ana,MAT1499,Medicina
+Fernanda,MAT4025,Engenharia
+Pedro,MAT8307,Medicina
+Carlos,MAT7372,Ciências da Computação
+Fernanda,MAT4954,Administração
+Julia,MAT7410,Administração
+Rafael,MAT3568,Ciências da Computação
+Gabriel,MAT6870,Engenharia
+Gabriel,MAT1091,Medicina
+Pedro,MAT5097,Economia
+João,MAT1548,Administração
+João,MAT6306,Engenharia
+Gabriel,MAT4680,Medicina
+Lucia,MAT6013,Ciências da Computação
+Maria,MAT3980,Ciências da Computação
+Gabriel,MAT1074,Administração
+Fernanda,MAT8472,Economia
+Ana,MAT5193,Engenharia
+Rafael,MAT9433,Ciências da Computação
+João,MAT1361,Ciências da Computação
+Gabriel,MAT3353,Administração
+Lucia,MAT4461,Economia
+Fernanda,MAT8672,Administração
+Julia,MAT1570,Ciências da Computação
+Rafael,MAT8704,Engenharia
+Carlos,MAT3598,Ciências da Computação
+Carlos,MAT3626,Economia
+Ana,MAT8195,Engenharia
+Fernanda,MAT5110,Engenharia
+Ana,MAT9032,Ciências da Computação
+Gabriel,MAT4853,Administração
+Carlos,MAT3397,Administração
+Fernanda,MAT4575,Medicina
+Maria,MAT3250,Economia
+Carlos,MAT5058,Economia
+Pedro,MAT9253,Ciências da Computação
+Carlos,MAT2119,Economia
+Rafael,MAT2653,Economia
+Ana,MAT6276,Administração
+Maria,MAT1326,Administração
+Gabriel,MAT6670,Ciências da Computação
+Gabriel,MAT5745,Medicina
+Ana,MAT1082,Administração
+Julia,MAT8256,Medicina
+Fernanda,MAT7384,Administração
+Rafael,MAT1630,Ciências da Computação
+Rafael,MAT1216,Ciências da Computação
+Julia,MAT2343,Economia
+Maria,MAT6248,Administração
+Ana,MAT3727,Economia
+Carlos,MAT8980,Administração
+Fernanda,MAT9252,Ciências da Computação
+Lucia,MAT4790,Economia
+Rafael,MAT4345,Engenharia
+Fernanda,MAT5713,Engenharia
+Julia,MAT6449,Medicina
+Lucia,MAT4298,Economia
+Julia,MAT2481,Ciências da Computação
+Rafael,MAT3517,Ciências da Computação
+Gabriel,MAT6770,Engenharia
+Pedro,MAT1526,Administração
+Fernanda,MAT3861,Engenharia
+Carlos,MAT4470,Administração
+Pedro,MAT7105,Ciências da Computação
+Lucia,MAT5914,Administração
+Ana,MAT7843,Medicina
+Julia,MAT5708,Economia
+Carlos,MAT4785,Administração
+João,MAT6591,Economia
+João,MAT4285,Medicina
+Gabriel,MAT7471,Economia
+Ana,MAT5153,Ciências da Computação
+Lucia,MAT6143,Administração
+João,MAT7379,Medicina
+Gabriel,MAT4871,Engenharia
+Julia,MAT3079,Medicina
+Fernanda,MAT6861,Economia
+João,MAT7202,Engenharia
+João,MAT8808,Medicina
+Fernanda,MAT1920,Economia
+Julia,MAT9628,Administração
+Julia,MAT2571,Administração
+Maria,MAT8810,Administração
+João,MAT4050,Administração
+Rafael,MAT1034,Engenharia
+Carlos,MAT5412,Economia
+Gabriel,MAT6373,Ciências da Computação
+Rafael,MAT6492,Economia
+Lucia,MAT5942,Administração
+Gabriel,MAT1614,Ciências da Computação
+Carlos,MAT8301,Medicina
+João,MAT7465,Medicina
+João,MAT7018,Engenharia
+Rafael,MAT3849,Economia
+Gabriel,MAT5553,Administração
+Carlos,MAT6969,Ciências da Computação
+Rafael,MAT1261,Engenharia
+Rafael,MAT6948,Medicina
+Lucia,MAT4060,Engenharia
+João,MAT1454,Medicina
+Maria,MAT4258,Engenharia
+João,MAT4346,Engenharia
+Ana,MAT7499,Economia
+Gabriel,MAT4571,Medicina
+Ana,MAT6081,Medicina
+João,MAT1678,Engenharia
+Julia,MAT6885,Engenharia
+Lucia,MAT7430,Engenharia
+Gabriel,MAT2855,Economia
+Lucia,MAT4085,Medicina
+Gabriel,MAT5019,Engenharia
+Lucia,MAT6778,Engenharia
+Lucia,MAT5696,Administração
+Julia,MAT5819,Engenharia
+Ana,MAT6902,Engenharia
+Maria,MAT6245,Economia
+Ana,MAT8249,Economia
+Pedro,MAT3555,Engenharia
+Fernanda,MAT4050,Economia
+Gabriel,MAT5327,Engenharia
+Pedro,MAT5759,Ciências da Computação
+Pedro,MAT8380,Administração
+Gabriel,MAT2036,Ciências da Computação
+Julia,MAT7620,Economia
+João,MAT1200,Economia
+Maria,MAT5296,Ciências da Computação
+Rafael,MAT6065,Medicina
+João,MAT4952,Economia
+Carlos,MAT1482,Ciências da Computação
+Rafael,MAT4023,Administração
+Carlos,MAT4211,Ciências da Computação
+Rafael,MAT8159,Economia
+Lucia,MAT6153,Economia
+Ana,MAT4717,Ciências da Computação
+Gabriel,MAT7201,Medicina
+Lucia,MAT6600,Medicina
+Lucia,MAT6334,Engenharia
+Rafael,MAT3862,Administração
+Gabriel,MAT5330,Administração
+Maria,MAT4311,Engenharia
+Fernanda,MAT1023,Medicina
+Ana,MAT4138,Medicina
+Rafael,MAT9206,Economia
+Ana,MAT7661,Administração
+Pedro,MAT4533,Economia
+Julia,MAT9413,Medicina
+Rafael,MAT4701,Medicina
+Julia,MAT3472,Administração
+Lucia,MAT4905,Engenharia
+Ana,MAT8698,Engenharia
+Maria,MAT8634,Administração
+Pedro,MAT1993,Administração
+Fernanda,MAT4696,Engenharia
+Maria,MAT8568,Ciências da Computação
+Ana,MAT2706,Administração
+Julia,MAT9969,Engenharia
+Fernanda,MAT7663,Ciências da Computação
+João,MAT6287,Medicina
+Lucia,MAT7195,Ciências da Computação
+Julia,MAT4700,Engenharia
+Lucia,MAT8841,Ciências da Computação
+Maria,MAT1764,Economia
+Gabriel,MAT7513,Medicina
+Ana,MAT6143,Administração
+Julia,MAT4539,Economia
+Rafael,MAT1723,Administração
+Gabriel,MAT8000,Administração
+Carlos,MAT7499,Economia
+Lucia,MAT2665,Economia
+Carlos,MAT8453,Economia
+Maria,MAT3771,Ciências da Computação
+Fernanda,MAT2625,Administração
+João,MAT6377,Economia
+João,MAT5280,Ciências da Computação
+Pedro,MAT2583,Medicina
+Gabriel,MAT8395,Administração
+João,MAT2317,Medicina
+Rafael,MAT9734,Ciências da Computação
+João,MAT4928,Administração
+Ana,MAT3340,Economia
+Carlos,MAT8584,Administração
+Pedro,MAT1852,Administração
+Maria,MAT2650,Engenharia
+Rafael,MAT2841,Engenharia
+Ana,MAT1868,Engenharia
+Rafael,MAT6485,Engenharia
+Gabriel,MAT1035,Administração
+João,MAT9424,Administração
+Pedro,MAT8009,Administração
+Carlos,MAT1976,Economia
+Carlos,MAT7974,Economia
+Lucia,MAT5015,Ciências da Computação
+Fernanda,MAT5385,Ciências da Computação
+João,MAT4648,Medicina
+Rafael,MAT6366,Engenharia
+Rafael,MAT5410,Economia
+Carlos,MAT4332,Ciências da Computação
+Maria,MAT5400,Medicina
+Lucia,MAT5304,Engenharia
+Maria,MAT8376,Economia
+Gabriel,MAT7491,Economia
+Pedro,MAT3465,Administração
+Fernanda,MAT9690,Medicina
+Rafael,MAT9963,Medicina
+Ana,MAT5858,Administração
+João,MAT8863,Economia
+Pedro,MAT4735,Ciências da Computação
+Maria,MAT4779,Economia
+Fernanda,MAT7853,Engenharia
+Julia,MAT7829,Economia
+Rafael,MAT6943,Ciências da Computação
+Maria,MAT1778,Economia
+Pedro,MAT4775,Engenharia
+Rafael,MAT4416,Engenharia
+Lucia,MAT5523,Economia
+Fernanda,MAT3784,Medicina
+Carlos,MAT1660,Medicina
+Gabriel,MAT6938,Administração
+Maria,MAT7313,Medicina
+Gabriel,MAT4901,Medicina
+Carlos,MAT1061,Administração
+Lucia,MAT1619,Medicina
+João,MAT7816,Engenharia
+Rafael,MAT2723,Engenharia
+Fernanda,MAT9645,Administração
+Lucia,MAT5882,Engenharia
+Carlos,MAT7176,Ciências da Computação
+Gabriel,MAT2207,Medicina
+Rafael,MAT4198,Economia
+Ana,MAT5063,Ciências da Computação
+Pedro,MAT2195,Engenharia
+João,MAT6240,Administração
+Ana,MAT8669,Engenharia
+Gabriel,MAT4805,Medicina
+João,MAT7378,Economia
+Carlos,MAT3859,Ciências da Computação
+Rafael,MAT7172,Ciências da Computação
+Julia,MAT5666,Engenharia
+Pedro,MAT7201,Administração
+Fernanda,MAT8728,Engenharia
+Rafael,MAT9173,Engenharia
+Pedro,MAT8254,Medicina
+Fernanda,MAT1330,Ciências da Computação
+Ana,MAT1374,Engenharia
+Fernanda,MAT2076,Economia
+Fernanda,MAT7232,Medicina
+Lucia,MAT9500,Ciências da Computação
+Rafael,MAT5885,Administração
+Fernanda,MAT9231,Engenharia
+Rafael,MAT8509,Ciências da Computação
+Julia,MAT4976,Medicina
+João,MAT8523,Medicina
+Carlos,MAT3357,Economia
+Gabriel,MAT8355,Administração
+Ana,MAT9715,Ciências da Computação
+Carlos,MAT1482,Administração
+Carlos,MAT9559,Ciências da Computação
+Rafael,MAT6364,Engenharia
+Fernanda,MAT8930,Economia
+Carlos,MAT3273,Medicina
+Gabriel,MAT2853,Engenharia
+Maria,MAT6332,Medicina
+Julia,MAT3046,Economia
+Fernanda,MAT8636,Administração
+Pedro,MAT4509,Ciências da Computação
+Lucia,MAT4812,Medicina
+Pedro,MAT8698,Economia
+Fernanda,MAT7154,Engenharia
+Maria,MAT4363,Medicina
+Pedro,MAT7764,Medicina
+Rafael,MAT1596,Medicina
+Carlos,MAT3447,Ciências da Computação
+Julia,MAT4243,Economia
+Maria,MAT5397,Administração
+Ana,MAT6744,Engenharia
+Maria,MAT7835,Engenharia
+Pedro,MAT6111,Engenharia
+Pedro,MAT4521,Ciências da Computação
+Fernanda,MAT9449,Economia
+Lucia,MAT3423,Administração
+Gabriel,MAT8949,Administração
+Fernanda,MAT9612,Medicina
+Gabriel,MAT6092,Ciências da Computação
+Julia,MAT8567,Engenharia
+Julia,MAT3667,Medicina
+Carlos,MAT4625,Economia
+João,MAT6539,Administração
+Julia,MAT2635,Economia
+Lucia,MAT6087,Ciências da Computação
+Maria,MAT9544,Economia
+Lucia,MAT6751,Ciências da Computação
+Rafael,MAT1252,Ciências da Computação
+Pedro,MAT8373,Administração
+Pedro,MAT5283,Engenharia
+Rafael,MAT1428,Administração
+Fernanda,MAT9417,Engenharia
+Pedro,MAT7034,Ciências da Computação
+Ana,MAT6220,Ciências da Computação
+Ana,MAT9997,Ciências da Computação
+Fernanda,MAT5540,Medicina
+Ana,MAT4694,Ciências da Computação
+Gabriel,MAT8761,Economia
+Julia,MAT2371,Engenharia
+Maria,MAT4624,Medicina
+Lucia,MAT9900,Engenharia
+Carlos,MAT5992,Administração
+Julia,MAT3787,Ciências da Computação
+Fernanda,MAT1345,Medicina
+Rafael,MAT5040,Administração
+Rafael,MAT1623,Economia
+Lucia,MAT9929,Administração
+Rafael,MAT8273,Ciências da Computação
+Maria,MAT1335,Medicina
+Gabriel,MAT7345,Administração
+João,MAT8207,Economia
+João,MAT7010,Engenharia
+Gabriel,MAT4769,Economia
+Gabriel,MAT5163,Medicina
+Lucia,MAT9339,Engenharia
+Maria,MAT7548,Ciências da Computação
+Rafael,MAT6483,Medicina
+Rafael,MAT7646,Medicina
+Lucia,MAT5474,Medicina
+Fernanda,MAT2875,Ciências da Computação
+Julia,MAT9408,Economia
+Fernanda,MAT3566,Administração
+Carlos,MAT4544,Ciências da Computação
+Gabriel,MAT9887,Engenharia
+Rafael,MAT8372,Ciências da Computação
+Lucia,MAT2794,Administração
+Rafael,MAT4212,Engenharia
+Maria,MAT4696,Medicina
+Lucia,MAT5299,Economia
+Lucia,MAT7445,Economia
+Pedro,MAT9567,Administração
+Ana,MAT5264,Ciências da Computação
+Fernanda,MAT1362,Engenharia
+Julia,MAT5393,Ciências da Computação
+Maria,MAT1446,Medicina
+Maria,MAT2417,Administração
+Lucia,MAT4166,Economia
+Pedro,MAT8724,Medicina
+Lucia,MAT5974,Economia
+Lucia,MAT7170,Engenharia
+Pedro,MAT3018,Ciências da Computação
+Fernanda,MAT1430,Engenharia
+Pedro,MAT9363,Ciências da Computação
+Rafael,MAT2194,Engenharia
+João,MAT5193,Ciências da Computação
+Rafael,MAT3451,Ciências da Computação
+Ana,MAT7028,Administração
+Rafael,MAT2868,Medicina
+João,MAT7020,Engenharia
+Julia,MAT6472,Engenharia
+Rafael,MAT1986,Economia
+Carlos,MAT9984,Administração
+Pedro,MAT1156,Economia
+Gabriel,MAT6536,Administração
+Maria,MAT7415,Ciências da Computação
+Ana,MAT2325,Medicina
+João,MAT7958,Medicina
+Ana,MAT8593,Medicina
+Fernanda,MAT2205,Administração
+Julia,MAT3873,Medicina
+Rafael,MAT7871,Economia
+Pedro,MAT2879,Ciências da Computação
+João,MAT9689,Medicina
+Julia,MAT4648,Administração
+Ana,MAT7205,Economia
+Carlos,MAT9252,Ciências da Computação
+Julia,MAT1228,Ciências da Computação
+João,MAT7047,Ciências da Computação
+Gabriel,MAT5719,Ciências da Computação
+Fernanda,MAT6511,Engenharia
+Carlos,MAT9624,Economia
+Rafael,MAT7974,Economia
+Gabriel,MAT1262,Administração
+Fernanda,MAT3632,Administração
+Fernanda,MAT4663,Ciências da Computação
+Gabriel,MAT7361,Engenharia
+Pedro,MAT2988,Administração
+Fernanda,MAT6425,Engenharia
+Gabriel,MAT1214,Medicina
+Ana,MAT9582,Engenharia
+Pedro,MAT4267,Economia
+Ana,MAT4497,Ciências da Computação
+Lucia,MAT7672,Medicina
+Gabriel,MAT5465,Administração
+Carlos,MAT5419,Medicina
+Gabriel,MAT3234,Medicina
+Carlos,MAT5903,Engenharia
+Pedro,MAT2289,Engenharia
+Julia,MAT7466,Economia
+Maria,MAT6375,Medicina
+Pedro,MAT1309,Administração
+Maria,MAT3709,Administração
+João,MAT8390,Ciências da Computação
+Gabriel,MAT3203,Economia
+Ana,MAT5296,Medicina
+Julia,MAT5986,Ciências da Computação
+Fernanda,MAT9430,Ciências da Computação
+Lucia,MAT5647,Engenharia
+Lucia,MAT2227,Engenharia
+Gabriel,MAT6813,Administração
+João,MAT4369,Engenharia
+Pedro,MAT2388,Administração
+Maria,MAT6064,Economia
+Gabriel,MAT6098,Engenharia
+Julia,MAT3363,Administração
+Carlos,MAT8749,Engenharia
+Pedro,MAT6645,Engenharia
+Ana,MAT1913,Medicina
+Gabriel,MAT8483,Administração
+Rafael,MAT8856,Ciências da Computação
+Lucia,MAT4796,Administração
+Rafael,MAT6650,Economia
+Julia,MAT5944,Economia
+Ana,MAT4997,Administração
+Gabriel,MAT8985,Ciências da Computação
+Gabriel,MAT3979,Ciências da Computação
+Pedro,MAT4606,Medicina
+Maria,MAT7104,Economia
+Pedro,MAT7400,Administração
+Pedro,MAT2892,Ciências da Computação
+Fernanda,MAT2689,Ciências da Computação
+Rafael,MAT3683,Administração
+João,MAT7128,Engenharia
+Maria,MAT8094,Ciências da Computação
+Rafael,MAT6087,Medicina
+Rafael,MAT5771,Economia
+Julia,MAT8907,Economia
+Ana,MAT7116,Ciências da Computação
+Fernanda,MAT9991,Administração
+Pedro,MAT7858,Engenharia
+Fernanda,MAT3439,Medicina
+Maria,MAT4039,Medicina
+Gabriel,MAT1584,Administração
+Ana,MAT8015,Administração
+Julia,MAT5249,Administração
+João,MAT2787,Ciências da Computação
+Ana,MAT7183,Ciências da Computação
+João,MAT5106,Engenharia
+Rafael,MAT5681,Medicina
+Rafael,MAT6131,Medicina
+Carlos,MAT9487,Economia
+Julia,MAT7376,Ciências da Computação
+João,MAT9529,Administração
+Fernanda,MAT1147,Medicina
+Lucia,MAT8166,Administração
+Gabriel,MAT3908,Administração
+Lucia,MAT6317,Ciências da Computação
+Gabriel,MAT6284,Ciências da Computação
+Ana,MAT8920,Engenharia
+Julia,MAT5506,Engenharia
+Maria,MAT8774,Engenharia
+Ana,MAT9605,Administração
+Fernanda,MAT6596,Administração
+João,MAT2699,Medicina
+Fernanda,MAT4250,Administração
+Maria,MAT1501,Ciências da Computação
+Rafael,MAT6071,Medicina
+Julia,MAT8205,Administração
+Lucia,MAT5200,Administração
+Pedro,MAT9253,Ciências da Computação
+Julia,MAT6729,Economia
+Lucia,MAT3152,Engenharia
+Gabriel,MAT8297,Economia
+Fernanda,MAT7159,Medicina
+Lucia,MAT2953,Engenharia
+Lucia,MAT3832,Ciências da Computação
+Julia,MAT3436,Ciências da Computação
+Gabriel,MAT6498,Economia
+Julia,MAT9654,Ciências da Computação
+Fernanda,MAT4725,Administração
+João,MAT3002,Administração
+Julia,MAT9888,Administração
+João,MAT5233,Ciências da Computação
+Pedro,MAT9861,Engenharia
+Ana,MAT9336,Administração
+Lucia,MAT5380,Administração
+Maria,MAT5361,Medicina
+Julia,MAT1562,Economia
+João,MAT9026,Economia
+Carlos,MAT1694,Administração
+Fernanda,MAT9138,Administração
+Ana,MAT3599,Engenharia
+Rafael,MAT4762,Medicina
+Julia,MAT6905,Medicina
+Fernanda,MAT9020,Economia
+João,MAT1210,Medicina
+Fernanda,MAT9072,Medicina
+Pedro,MAT1660,Economia
+Pedro,MAT5866,Economia
+João,MAT6590,Medicina
+Pedro,MAT6589,Ciências da Computação
+Lucia,MAT6742,Administração
+Gabriel,MAT4786,Economia
+Fernanda,MAT7567,Ciências da Computação
+João,MAT6536,Engenharia
+Ana,MAT2007,Engenharia
+Julia,MAT1406,Ciências da Computação
+Rafael,MAT2218,Medicina
+Ana,MAT7434,Engenharia
+Ana,MAT1251,Economia
+Maria,MAT1579,Medicina
+Carlos,MAT2517,Economia
+Ana,MAT5678,Administração
+Ana,MAT7621,Economia
+Gabriel,MAT7011,Economia
+Gabriel,MAT8635,Ciências da Computação
+João,MAT1939,Administração
+Gabriel,MAT6072,Medicina
+Gabriel,MAT2596,Medicina
+Fernanda,MAT1365,Ciências da Computação
+Gabriel,MAT9326,Economia
+Julia,MAT8574,Ciências da Computação
+Gabriel,MAT9808,Ciências da Computação
+Maria,MAT1066,Economia
+Ana,MAT8738,Engenharia
+Carlos,MAT4581,Ciências da Computação
+Gabriel,MAT9397,Medicina
+Rafael,MAT1771,Administração
+João,MAT4347,Ciências da Computação
+Rafael,MAT6027,Administração
+Gabriel,MAT9995,Engenharia
+Gabriel,MAT8222,Medicina
+Lucia,MAT7322,Engenharia
+Rafael,MAT2864,Economia
+Pedro,MAT1700,Administração
+Ana,MAT9520,Engenharia
+Julia,MAT1965,Administração
+Fernanda,MAT4898,Administração
+Fernanda,MAT9608,Ciências da Computação
+Pedro,MAT1214,Administração
+Julia,MAT4347,Engenharia
+Fernanda,MAT6680,Administração
+Ana,MAT7985,Economia
+Julia,MAT4029,Ciências da Computação
+Carlos,MAT6128,Engenharia
+Ana,MAT2103,Medicina
+Rafael,MAT5893,Economia
+Rafael,MAT5826,Engenharia
+Lucia,MAT6976,Administração
+João,MAT9170,Administração
+Fernanda,MAT6348,Administração
+Ana,MAT9995,Administração
+Carlos,MAT7317,Engenharia
+Gabriel,MAT5648,Ciências da Computação
+Carlos,MAT2943,Ciências da Computação
+Pedro,MAT2827,Engenharia
+João,MAT6767,Ciências da Computação
+Gabriel,MAT3229,Administração
+Carlos,MAT5973,Engenharia
+Ana,MAT7802,Ciências da Computação
+Julia,MAT2244,Medicina
+Carlos,MAT2081,Engenharia
+Pedro,MAT7017,Medicina
+Lucia,MAT8634,Ciências da Computação
+Julia,MAT2977,Economia
+Gabriel,MAT7991,Medicina
+Lucia,MAT7372,Engenharia
+Pedro,MAT3168,Economia
+Gabriel,MAT5981,Ciências da Computação
+Rafael,MAT8572,Ciências da Computação
+Maria,MAT2525,Medicina
+Fernanda,MAT6322,Medicina
+João,MAT7204,Medicina
+João,MAT4257,Medicina
+Carlos,MAT1817,Ciências da Computação
+Gabriel,MAT3240,Engenharia
+Rafael,MAT2953,Administração
+Lucia,MAT1925,Administração
+Fernanda,MAT5335,Economia
+Lucia,MAT4543,Economia
+Gabriel,MAT9164,Administração
+Ana,MAT1611,Engenharia
+Ana,MAT9221,Administração
+Pedro,MAT1595,Administração
+Julia,MAT3274,Medicina
+Julia,MAT4898,Ciências da Computação
+Fernanda,MAT9915,Ciências da Computação
+Lucia,MAT2679,Ciências da Computação
+Maria,MAT6434,Economia
+João,MAT4257,Administração
+Pedro,MAT9941,Economia
+Lucia,MAT8343,Engenharia
+Fernanda,MAT9902,Administração
+Carlos,MAT5981,Administração
+Carlos,MAT9143,Medicina
+Pedro,MAT2976,Medicina
+Gabriel,MAT7899,Administração
+Lucia,MAT7607,Ciências da Computação
+João,MAT6298,Ciências da Computação
+Julia,MAT5134,Engenharia
+Julia,MAT2347,Ciências da Computação
+Lucia,MAT9635,Medicina
+Maria,MAT9385,Engenharia
+Rafael,MAT3845,Economia
+Carlos,MAT9758,Engenharia
+Pedro,MAT3278,Ciências da Computação
+Maria,MAT2829,Ciências da Computação
+Gabriel,MAT2873,Economia
+Pedro,MAT5343,Administração
+Rafael,MAT2886,Engenharia
+Maria,MAT4519,Engenharia
+Julia,MAT7204,Engenharia
+Lucia,MAT3534,Engenharia
+Ana,MAT9125,Administração
+Maria,MAT6157,Administração
+Ana,MAT3712,Ciências da Computação
+Ana,MAT2607,Engenharia
+João,MAT3431,Engenharia
+Julia,MAT2558,Economia
+João,MAT8407,Engenharia
+Pedro,MAT9288,Medicina
+Pedro,MAT2770,Medicina
+Fernanda,MAT2402,Ciências da Computação
+Ana,MAT3981,Medicina
+Maria,MAT2974,Economia
+João,MAT6821,Engenharia
+João,MAT8422,Administração
+Julia,MAT7801,Engenharia
+Julia,MAT6271,Ciências da Computação
+Rafael,MAT2967,Administração
+Fernanda,MAT2266,Ciências da Computação
+Fernanda,MAT7908,Medicina
+João,MAT3506,Administração
+Pedro,MAT3233,Medicina
+João,MAT8593,Engenharia
+Fernanda,MAT2083,Economia
+Julia,MAT1360,Economia
+João,MAT6299,Medicina
+Pedro,MAT7532,Ciências da Computação
+Maria,MAT5397,Administração
+Maria,MAT2958,Ciências da Computação
+Fernanda,MAT2283,Administração
+Maria,MAT3825,Engenharia
+Gabriel,MAT5916,Administração
+Pedro,MAT6971,Administração
+Julia,MAT9647,Ciências da Computação
+Fernanda,MAT4287,Administração
+Fernanda,MAT5331,Administração
+Gabriel,MAT5720,Engenharia
+Rafael,MAT7162,Engenharia
+Maria,MAT4421,Administração
+Gabriel,MAT3344,Ciências da Computação
+Maria,MAT4242,Economia
+Julia,MAT4487,Administração
+Gabriel,MAT2236,Economia
+Gabriel,MAT3585,Economia
+Rafael,MAT2229,Economia
+João,MAT1380,Engenharia
+Carlos,MAT7646,Ciências da Computação
+Gabriel,MAT1658,Medicina
+Pedro,MAT7335,Economia
+Julia,MAT7723,Administração
+Pedro,MAT3170,Economia
+Rafael,MAT5496,Medicina
+Maria,MAT2795,Medicina
+Ana,MAT2117,Ciências da Computação
+Gabriel,MAT5093,Administração
+Pedro,MAT2650,Administração
+Rafael,MAT8718,Engenharia
+Gabriel,MAT2783,Administração
+Pedro,MAT1351,Administração
+Maria,MAT8948,Medicina
+Gabriel,MAT6423,Engenharia
+Rafael,MAT3925,Administração
+Maria,MAT4045,Administração
+Ana,MAT3549,Ciências da Computação
+Rafael,MAT3170,Engenharia
+Gabriel,MAT8586,Economia
+João,MAT4433,Administração
+Carlos,MAT9459,Ciências da Computação
+Fernanda,MAT1138,Administração
+Fernanda,MAT9509,Ciências da Computação
+Ana,MAT8070,Medicina
+Pedro,MAT2902,Medicina
+Pedro,MAT8526,Economia
+João,MAT9810,Engenharia
+Pedro,MAT7136,Medicina
+João,MAT3191,Medicina
+Rafael,MAT6763,Economia
+Carlos,MAT3731,Economia
+Ana,MAT9173,Administração
+Pedro,MAT1888,Administração
+João,MAT5948,Medicina
+João,MAT2477,Medicina
+Maria,MAT9483,Medicina
+Rafael,MAT2022,Engenharia
+Carlos,MAT2363,Engenharia
+Pedro,MAT6949,Economia
+Fernanda,MAT7333,Ciências da Computação
+Maria,MAT8170,Economia
+Lucia,MAT1907,Ciências da Computação
+Maria,MAT6547,Economia
+Ana,MAT8476,Ciências da Computação
+Gabriel,MAT2781,Engenharia
+Gabriel,MAT1873,Economia
+Maria,MAT3059,Ciências da Computação
+Fernanda,MAT5187,Medicina
+João,MAT7870,Administração
+Maria,MAT4229,Medicina
+Julia,MAT7649,Ciências da Computação
+Julia,MAT1089,Administração
+Maria,MAT8469,Engenharia
+Maria,MAT3588,Engenharia
+Maria,MAT7626,Economia
+Maria,MAT8813,Ciências da Computação
+Lucia,MAT8202,Medicina
+Maria,MAT9955,Ciências da Computação
+Ana,MAT7880,Economia
+Lucia,MAT2810,Administração
+Rafael,MAT6876,Administração
+Carlos,MAT5162,Engenharia
+Ana,MAT2802,Administração
+João,MAT3476,Economia
+Gabriel,MAT4857,Administração
+João,MAT9525,Engenharia
+Fernanda,MAT9987,Engenharia
+Maria,MAT1523,Engenharia
+Gabriel,MAT4992,Administração
+Carlos,MAT2618,Ciências da Computação
+Carlos,MAT2063,Economia
+Maria,MAT3357,Medicina
+Pedro,MAT2592,Medicina
+Fernanda,MAT1326,Medicina
+Lucia,MAT6772,Economia
+Pedro,MAT6464,Ciências da Computação
+Carlos,MAT3066,Administração
+Gabriel,MAT8536,Economia
+Maria,MAT5426,Medicina
+Fernanda,MAT9575,Ciências da Computação
+Julia,MAT1464,Administração
+Lucia,MAT7067,Economia
+Lucia,MAT5841,Economia
+Julia,MAT6847,Ciências da Computação
+Carlos,MAT8518,Engenharia
+Gabriel,MAT1246,Administração
+Maria,MAT4010,Ciências da Computação
+Lucia,MAT4471,Ciências da Computação
+Ana,MAT3420,Engenharia
+João,MAT2633,Economia
+Fernanda,MAT2743,Ciências da Computação
+Rafael,MAT6754,Engenharia
+Maria,MAT1697,Medicina
+Rafael,MAT5210,Ciências da Computação
+João,MAT5432,Engenharia
+Pedro,MAT5888,Ciências da Computação
+Maria,MAT1735,Administração
+Fernanda,MAT4828,Medicina
+Ana,MAT9114,Economia
+Lucia,MAT8122,Economia
+Julia,MAT9973,Administração
+Carlos,MAT7239,Medicina
+Fernanda,MAT9537,Ciências da Computação
+Julia,MAT1083,Ciências da Computação
+Ana,MAT7681,Engenharia
+Pedro,MAT3927,Medicina
+João,MAT9862,Administração
+Maria,MAT2192,Economia
+Rafael,MAT8245,Ciências da Computação
+Rafael,MAT6051,Ciências da Computação
+Rafael,MAT8854,Medicina
+Fernanda,MAT1744,Administração
+João,MAT4982,Engenharia
+Julia,MAT8462,Ciências da Computação
+Gabriel,MAT5415,Economia
+Julia,MAT2520,Medicina
+Carlos,MAT3036,Engenharia
+Fernanda,MAT2289,Medicina
+Ana,MAT1134,Ciências da Computação
+Pedro,MAT2011,Economia
+Pedro,MAT9038,Engenharia
+Carlos,MAT9674,Medicina
+Ana,MAT5417,Medicina
+João,MAT4572,Engenharia
+João,MAT8327,Administração
+Rafael,MAT4907,Ciências da Computação
+Lucia,MAT4873,Medicina
+Rafael,MAT4582,Medicina
+Fernanda,MAT1543,Medicina
+Julia,MAT6202,Administração
+Maria,MAT3998,Ciências da Computação
+Pedro,MAT5363,Administração
+João,MAT7825,Ciências da Computação
+Rafael,MAT6393,Engenharia
+Fernanda,MAT1551,Medicina
+João,MAT5566,Ciências da Computação
+Julia,MAT8987,Medicina
+Maria,MAT8088,Engenharia
+Fernanda,MAT1999,Administração
+Pedro,MAT9075,Administração
+Carlos,MAT7086,Economia
+Gabriel,MAT4227,Engenharia
+Lucia,MAT3351,Ciências da Computação
+Julia,MAT5243,Ciências da Computação
+Gabriel,MAT2253,Ciências da Computação
+Fernanda,MAT6822,Economia
+Fernanda,MAT9980,Medicina
+Julia,MAT9775,Administração
+Fernanda,MAT1816,Ciências da Computação
+Julia,MAT6100,Ciências da Computação
+Fernanda,MAT8321,Engenharia
+Rafael,MAT3320,Medicina
+Carlos,MAT5810,Medicina
+Carlos,MAT8773,Economia
+Julia,MAT5535,Ciências da Computação
+Ana,MAT6251,Medicina
+Ana,MAT7273,Administração
+Rafael,MAT7323,Engenharia
+Ana,MAT7184,Medicina
+Carlos,MAT2248,Administração
+Rafael,MAT9649,Administração
+Fernanda,MAT8695,Engenharia
+Fernanda,MAT6881,Economia
+Lucia,MAT6763,Administração
+Lucia,MAT9025,Administração
+Maria,MAT1870,Economia
+Lucia,MAT1113,Economia
+Pedro,MAT4191,Economia
+Carlos,MAT8630,Medicina
+Lucia,MAT6667,Ciências da Computação
+Rafael,MAT3697,Administração
+Maria,MAT9433,Administração
+Pedro,MAT4094,Engenharia
+Gabriel,MAT7436,Economia
+Gabriel,MAT2555,Engenharia
+Pedro,MAT1587,Ciências da Computação
+Julia,MAT3902,Ciências da Computação
+Ana,MAT1388,Economia
+João,MAT8014,Engenharia
+João,MAT5388,Administração
+Fernanda,MAT1893,Administração
+Maria,MAT3014,Ciências da Computação
+Gabriel,MAT9241,Ciências da Computação
+Ana,MAT7882,Administração
+Ana,MAT5741,Ciências da Computação
+Pedro,MAT2567,Engenharia
+Carlos,MAT2146,Economia
+Maria,MAT5273,Administração
+Ana,MAT9503,Medicina
+Carlos,MAT8927,Medicina
+Rafael,MAT1255,Administração
+João,MAT6929,Medicina
+Carlos,MAT4711,Administração
+Rafael,MAT2547,Medicina
+Carlos,MAT3715,Economia
+Fernanda,MAT8152,Medicina
+João,MAT3362,Administração
+Julia,MAT5338,Administração
+Gabriel,MAT1479,Administração
+Lucia,MAT5337,Ciências da Computação
+Ana,MAT9118,Economia
+Rafael,MAT1491,Economia
+Julia,MAT5158,Medicina
+João,MAT9737,Administração
+Rafael,MAT7769,Administração
+Carlos,MAT8867,Engenharia
+João,MAT8230,Ciências da Computação
+João,MAT8319,Medicina
+Maria,MAT3544,Administração
+Maria,MAT9329,Economia
+Lucia,MAT3444,Medicina
+Pedro,MAT8881,Administração
+Carlos,MAT1188,Economia
+Gabriel,MAT9509,Engenharia
+Julia,MAT6750,Medicina
+Julia,MAT1262,Administração
+Fernanda,MAT3131,Economia
+João,MAT4541,Medicina
+Pedro,MAT7195,Medicina
+Fernanda,MAT4992,Medicina
+Lucia,MAT3439,Ciências da Computação
+Fernanda,MAT1466,Economia
+Rafael,MAT4270,Economia
+Julia,MAT7071,Economia
+Maria,MAT2689,Ciências da Computação
+Carlos,MAT4665,Ciências da Computação
+Lucia,MAT5160,Economia
+Lucia,MAT1365,Economia
+Carlos,MAT4598,Economia
+Pedro,MAT4000,Economia
+Maria,MAT1621,Engenharia
+Gabriel,MAT3598,Medicina
+Julia,MAT9236,Medicina
+Ana,MAT8765,Economia
+Carlos,MAT3404,Medicina
+Pedro,MAT3114,Ciências da Computação
+Julia,MAT5169,Ciências da Computação
+Carlos,MAT2309,Ciências da Computação
+Julia,MAT4524,Administração
+Fernanda,MAT6702,Medicina
+Gabriel,MAT7093,Medicina
+Lucia,MAT2435,Medicina
+Pedro,MAT3181,Economia
+Fernanda,MAT6044,Ciências da Computação
+Gabriel,MAT2417,Economia
+Pedro,MAT1037,Engenharia
+Carlos,MAT1248,Economia
+Pedro,MAT2362,Medicina
+Rafael,MAT9683,Medicina
+Lucia,MAT5861,Medicina
+Maria,MAT4708,Engenharia
+Pedro,MAT8618,Economia
+Carlos,MAT2887,Administração
+Rafael,MAT5953,Engenharia
+Julia,MAT2887,Economia
+Lucia,MAT2315,Economia
+Pedro,MAT3721,Ciências da Computação
+Gabriel,MAT6742,Engenharia
+Ana,MAT4542,Medicina
+Gabriel,MAT6558,Administração
+Julia,MAT3080,Ciências da Computação
+Rafael,MAT5646,Engenharia
+Lucia,MAT6158,Economia
+João,MAT6104,Economia
+Carlos,MAT4798,Economia
+Julia,MAT9082,Administração
+Julia,MAT3274,Economia
+Lucia,MAT1463,Economia
+Gabriel,MAT3600,Medicina
+Gabriel,MAT2154,Engenharia
+Pedro,MAT7419,Engenharia
+Gabriel,MAT3054,Administração
+Carlos,MAT6287,Engenharia
+Julia,MAT8020,Ciências da Computação
+Pedro,MAT2807,Engenharia
+Lucia,MAT7449,Administração
+Carlos,MAT5817,Engenharia
+Carlos,MAT2860,Medicina
+Rafael,MAT9081,Administração
+Fernanda,MAT2496,Administração
+Gabriel,MAT3955,Engenharia
+Fernanda,MAT1442,Administração
+Carlos,MAT1504,Engenharia
+Rafael,MAT6652,Medicina
+Lucia,MAT9986,Economia
+Pedro,MAT1474,Administração
+Lucia,MAT7562,Ciências da Computação
+Julia,MAT1882,Administração
+João,MAT5907,Medicina
